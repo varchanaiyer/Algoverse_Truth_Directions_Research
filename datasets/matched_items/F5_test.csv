@@ -1,0 +1,563 @@
+statement,label
+"Exactly 4 of the following cities are in Somalia and 1 in Pakistan: Dera Ismail Khan, Albuquerque, Gujrat, Sialkot, Hongkou, Borama.",0
+"Exactly 0 of the following cities are in Greece and 2 in Kazakhstan: Kananga, Beirut, Nairobi, Shymkent, Caloocan, Astana.",1
+"Exactly 1 of the following cities are in Morocco and 4 in Niger: Niamey, Oujda, Tangier, Nanchong, Seongnam-si, Thu GJuc.",0
+"Exactly 0 of the following cities are in Luxembourg and 4 in Colombia: Ibague, Soacha, Sanmenxia, Nha Trang, Barranquilla, Cucuta.",1
+"Exactly 1 of the following cities are in Ethiopia and 5 in Iraq: Addis Ababa, Nasiriyah, Erbil, Kirkuk, Sulaymaniyah, Basrah.",1
+"Exactly 0 of the following cities are in Colombia and 4 in Palau: Barranquilla, Ibague, Soacha, Bucaramanga, Cucuta, Ludhiana.",0
+"Exactly 4 of the following cities are in Botswana and 2 in Russia: Novokuznetsk, Izhevsk, Saratov, Krasnodar, Korla, Chelyabinsk.",0
+"Exactly 0 of the following cities are in Uzbekistan and 2 in Argentina: Salta, San Miguel de Tucuman, Namangan, Samarkand, Tehran, Andijon.",0
+"Exactly 0 of the following cities are in Zambia and 3 in Djibouti: Edogawe, Bahawalpur, Dammam, Guiyang, Enugu, Lusaka.",0
+"Exactly 3 of the following cities are in Ukraine and 2 in the Democratic Republic of the Congo: Dnipro, Najran, Kananga, Kyiv, Kisangani, Kharkiv.",1
+"Exactly 2 of the following cities are in Honduras and 4 in South Africa: Johannesburg, Benoni, Tegucigalpa, Soshanguve, Pietermaritzburg, San Pedro Sula.",1
+"Exactly 1 of the following cities are in Madagascar and 0 in Swaziland: Soweto, Dodoma, Abeokuta, Antananarivo, Kayseri, Chiclayo.",1
+"Exactly 1 of the following cities are in Togo and 1 in Chile: Puente Alto, Kitwe, Seongnam-si, Kananga, Lome, Hubballi.",1
+"Exactly 0 of the following cities are in Bosnia and Herzegovina and 1 in Myanmar: Johor Bahru, Mandalay, Sarajevo, Jiangmen, Quetta, Yangon.",0
+"Exactly 1 of the following cities are in Germany and 1 in Egypt: Naucalpan de Juarez, Santiago de los Caballeros, Muntinlupa, Zhanjiang, Munich, Assiut.",1
+"Exactly 3 of the following cities are in Kazakhstan and 3 in Yemen: Al Hudaydah, Almaty, Shymkent, Ibb, Astana, Taiz.",1
+"Exactly 1 of the following cities are in Jordan and 5 in South Korea: Incheon, Kimhae, Ulsan, Amman, Cheonan, Daegu.",1
+"Exactly 2 of the following cities are in Argentina and 0 in the United States: Fort Worth, Salta, Seattle, The Bronx, Albuquerque, New South Memphis.",0
+"Exactly 3 of the following cities are in South Africa and 1 in Senegal: Pietermaritzburg, Thembisa, Evaton, Benoni, Soshanguve, Dakar.",0
+"Exactly 2 of the following cities are in Kenya and 3 in the United States: Seattle, Fort Worth, Nakuru, New South Memphis, Kakamega, Thu GJuc.",1
+"Exactly 1 of the following cities are in Spain and 3 in Angola: Adachi, Maianga, Luohu District, Baise, Baku, Shenyang.",0
+"Exactly 1 of the following cities are in France and 5 in South Africa: Bloemfontein, Evaton, Gqeberha, Pretoria, Johannesburg, Toulouse.",1
+"Exactly 3 of the following cities are in the Philippines and 0 in Trinidad and Tobago: Zamboanga, Taguig, Port Said, Sapporo, Malingao, Liaocheng.",1
+"Exactly 3 of the following cities are in Colombia and 1 in Denmark: Soacha, Aguascalientes, Copenhagen, Ibague, Barranquilla, Samarkand.",1
+"Exactly 5 of the following cities are in South Korea and 1 in Nicaragua: Managua, Hwaseong-si, Cheonan, Cheongju-si, Jeonju, Daegu.",1
+"Exactly 4 of the following cities are in Iran and 1 in Germany: Duesseldorf, Orumiyeh, Sapporo, Zahedan, Tabriz, Qom.",1
+"Exactly 1 of the following cities are in New Zealand and 4 in Colombia: Xingtai, Barranquilla, Ibague, Auckland, Soacha, Cucuta.",1
+"Exactly 3 of the following cities are in Jordan and 0 in Senegal: Amman, Ansan-si, New South Memphis, Zarqa, Wanning, Irbid.",1
+"Exactly 1 of the following cities are in Angola and 4 in Uzbekistan: Luancheng, Tashkent, Namangan, Samarkand, Lu'an, Sialkot.",0
+"Exactly 0 of the following cities are in Estonia and 1 in Germany: Meknes, Dortmund, Munich, Hannover, Duesseldorf, Nuremberg.",0
+"Exactly 0 of the following cities are in Sierra Leone and 3 in Ukraine: Tianshui, New South Memphis, Asansol, Ulanqab, Kharkiv, Rui'an.",0
+"Exactly 5 of the following cities are in the Democratic Republic of the Congo and 0 in Colombia: Lubumbashi, Kananga, Kikwit, Kolwezi, Culiacan, Kinshasa.",1
+"Exactly 2 of the following cities are in Madagascar and 0 in Belize: Nowrangapur, Ha'il, Situbondo, Bloemfontein, Zhu Cheng City, Ludhiana.",0
+"Exactly 0 of the following cities are in Turkey and 4 in Niger: Erzurum, Abobo, Kitwe, Istanbul, Gaziantep, Konya.",0
+"Exactly 1 of the following cities are in Senegal and 4 in Colombia: Thuan An, Enugu, Cangzhou, Shangluo, Dakar, Kampala.",0
+"Exactly 1 of the following cities are in Norway and 5 in Saint Kitts and Nevis: Gwalior, Naucalpan de Juarez, Jilin, Abu Dhabi, Shangrao, Ashgabat.",0
+"Exactly 3 of the following cities are in Yemen and 0 in Rwanda: Diyarbakir, Bhopal, Taiz, Tegucigalpa, Aden, Mukalla.",1
+"Exactly 3 of the following cities are in Cuba and 1 in Latvia: Thu GJuc, Santiago de Cuba, Hebi, Kimhae, Kirkuk, Puente Alto.",0
+"Exactly 1 of the following cities are in Malaysia and 0 in Pakistan: Sukkur, Chuxiong, Multan, Kasur, Islamabad, Addis Ababa.",0
+"Exactly 0 of the following cities are in Singapore and 5 in Kazakhstan: Wuwei, Al Mawsil al Jadidah, Jiaxing, Port Said, Leipzig, Astana.",0
+"Exactly 0 of the following cities are in Algeria and 2 in Turkey: Bokaro, Gaziantep, Warri, Adana, Mazar-e Sharif, Makati City.",1
+"Exactly 0 of the following cities are in Bangladesh and 1 in France: Zibo, Asmara, Lyon, Nashik, Malingao, New York City.",1
+"Exactly 1 of the following cities are in Turkey and 0 in Spain: Zhuzhou, Zapopan, Piura, Adana, Tlaquepaque, Yangpu.",1
+"Exactly 1 of the following cities are in Tunisia and 1 in Argentina: Ashgabat, Linfen, Madinat an Nasr, Balbala, Zhangjiakou, Vinh.",0
+"Exactly 2 of the following cities are in Kazakhstan and 4 in Kenya: Shymkent, Aktobe, Astana, Yibin, Fukuoka, Tyumen.",0
+"Exactly 1 of the following cities are in Rwanda and 0 in Brazil: Sorocaba, Zhangye, Kigali, Duque de Caxias, Curitiba, Sao Jose dos Campos.",0
+"Exactly 5 of the following cities are in South Korea and 1 in Bangladesh: Rangpur, Hwaseong-si, Incheon, Ansan-si, Cheonan, Busan.",1
+"Exactly 2 of the following cities are in Vietnam and 3 in India: Loni, Da Nang, Thane, Ho Chi Minh City, Dakar, Amritsar.",1
+"Exactly 0 of the following cities are in China and 1 in Burundi: Zhuzhou, Borivli, Xinyang, Jieyang, Erbil, Nanchang.",0
+"Exactly 4 of the following cities are in the United States and 1 in Djibouti: Balbala, Detroit, Oklahoma City, Songjiang, Indianapolis, Milwaukee.",1
+"Exactly 4 of the following cities are in Turkey and 0 in the Democratic Republic of the Congo: Ankara, Adana, Sofia, Kayseri, Malatya, Anyang-si.",1
+"Exactly 4 of the following cities are in Iran and 0 in Guinea-Bissau: Qom, Kermanshah, Kharkiv, Omsk, Orumiyeh, Arak.",1
+"Exactly 3 of the following cities are in the Democratic Republic of the Congo and 3 in Malawi: Accra, Tshikapa, Kikwit, Kolwezi, Kisangani, Lilongwe.",0
+"Exactly 3 of the following cities are in Niger and 2 in Iran: Kermanshah, Qom, Tirunelveli, Tabriz, Niamey, Tehran.",0
+"Exactly 0 of the following cities are in Croatia and 0 in Hungary: Xiamen, Zahedan, Chattogram, Niigata, Nampula, Curitiba.",1
+"Exactly 1 of the following cities are in Nigeria and 2 in Canada: Cabinda, Qinzhou, Ile-Ife, Quebec, Mississauga, Caracas.",1
+"Exactly 1 of the following cities are in North Korea and 0 in Cambodia: Hangzhou, Pyongyang, Ouagadougou, Manaus, Hamhung, Rasapudipalem.",0
+"Exactly 4 of the following cities are in Ukraine and 2 in Bangladesh: Mohammadpur, Kryvyy Rih, Rangpur, Dnipro, Kyiv, Lviv.",1
+"Exactly 4 of the following cities are in Syria and 1 in Tajikistan: Aleppo, Ar Raqqah, Homs, Dushanbe, Milwaukee, Latakia.",1
+"Exactly 0 of the following cities are in Cambodia and 2 in Angola: Mulenvos, Caracas, Ar Raqqah, Kikolo, Phnom Penh, Nampula.",0
+"Exactly 4 of the following cities are in Kenya and 0 in Yemen: Incheon, Mombasa, Nairobi, Diyarbakir, Kakamega, Nakuru.",1
+"Exactly 3 of the following cities are in Brazil and 0 in Mozambique: Battagram, Florianopolis, Belford Roxo, Porto Velho, Huludao, Himeji.",1
+"Exactly 0 of the following cities are in Portugal and 0 in Vietnam: Eskisehir, Budapest, Arequipa, Incheon, Zarqa, Nanded.",1
+"Exactly 3 of the following cities are in Yemen and 3 in France: Toulouse, Lyon, Marseille, Taiz, Al Hudaydah, Aden.",1
+"Exactly 4 of the following cities are in El Salvador and 0 in Côte d'Ivoire: Bengbu, Abuja, Ganzhou, Aracaju, Ta'if, Basrah.",0
+"Exactly 3 of the following cities are in Costa Rica and 3 in Spain: Harbin, Malang, Erbil, Kananga, Arusha, Xuhui.",0
+"Exactly 1 of the following cities are in Bosnia and Herzegovina and 4 in Peru: Mosul, Sultanah, Ra's Bayrut, Khartoum, Dodoma, Hangzhou.",0
+"Exactly 3 of the following cities are in Brazil and 3 in Oman: Porto Alegre, Karbala, Joao Pessoa, Muscat, Basrah, Sorocaba.",0
+"Exactly 2 of the following cities are in Guinea and 0 in Iraq: Hamhung, Abu Ghurayb, Baghdad, Sulaymaniyah, Florianopolis, Cankaya.",0
+"Exactly 1 of the following cities are in Iran and 5 in Suriname: Surat, Karaj, Stockholm, Arak, Hebi, Qingpu.",0
+"Exactly 2 of the following cities are in Afghanistan and 0 in Benin: Bulawayo, Cotonou, Borama, Aguascalientes, Stockholm, Mazar-e Sharif.",0
+"Exactly 3 of the following cities are in Kuwait and 3 in Uzbekistan: Suining, Tashkent, Al Ahmadi, Samarkand, Putuo, Mexico City.",0
+"Exactly 5 of the following cities are in Slovakia and 1 in Uganda: Florianopolis, Adana, Jiaxing, Port Harcourt, Bloemfontein, Kampala.",0
+"Exactly 0 of the following cities are in Tanzania and 5 in Vietnam: Hue, Cho Lon, Bien Hoa, Niigata, Ho Chi Minh City, Da Nang.",1
+"Exactly 0 of the following cities are in Poland and 2 in Angola: Conakry, Weinan, Seongnam-si, Neijiang, Port Said, Sokoto.",0
+"Exactly 2 of the following cities are in Mozambique and 3 in Oman: Chongming, Matola, Maputo, Cheongju-si, Muscat, Fuxin.",0
+"Exactly 4 of the following cities are in Sudan and 2 in Iran: Isfahan, Hamadan, Tabriz, Orumiyeh, Libreville, Aktobe.",0
+"Exactly 1 of the following cities are in Rwanda and 3 in Jordan: Mosul, Irbid, Amman, Zarqa, Kigali, Ciudad Nezahualcoyotl.",1
+"Exactly 2 of the following cities are in Senegal and 4 in Zambia: Jiaxing, Kitwe, Al Ain City, Sultanah, Soshanguve, Adana.",0
+"Exactly 1 of the following cities are in Germany and 1 in Kazakhstan: Almaty, Warangal, Astana, Makati City, Kyoto, Aktobe.",0
+"Exactly 3 of the following cities are in Bahrain and 0 in Paraguay: Faridabad, Meizhou, Frankfurt am Main, Baoji, Bucaramanga, Jhang Sadr.",0
+"Exactly 4 of the following cities are in Kenya and 2 in Indonesia: Nakuru, Situbondo, Nairobi, Bandar Lampung, Kakamega, Mombasa.",1
+"Exactly 3 of the following cities are in Guinea and 3 in Haiti: Dammam, Jabalpur, Korla, Ebute Ikorodu, Auckland, Conakry.",0
+"Exactly 3 of the following cities are in Gabon and 3 in the Philippines: Libreville, Quezon City, Las Pinas, Vinh, Jingmen, Minhang.",0
+"Exactly 4 of the following cities are in the United States and 1 in Djibouti: Oklahoma City, New York City, Balbala, Indianapolis, Muntinlupa, Tucson.",1
+"Exactly 4 of the following cities are in Estonia and 1 in Colombia: Ranchi, Faisalabad, Krasnodar, Porto Velho, Bishkek, Bursa.",0
+"Exactly 2 of the following cities are in Turkmenistan and 2 in Russia: Vladivostok, Tyumen, Chiclayo, Khabarovsk, Krasnodar, Irkutsk.",0
+"Exactly 2 of the following cities are in Thailand and 0 in Venezuela: Jaipur, Detroit, Johor Bahru, Pune, Bursa, Maracaibo.",0
+"Exactly 0 of the following cities are in Chile and 1 in Suriname: Yinchuan, Yerevan, Incheon, Nansana, Shaoxing, Puente Alto.",0
+"Exactly 0 of the following cities are in Oman and 0 in Kiribati: Binzhou, Benguela, Battagram, Bloemfontein, Ilorin, Thuan An.",1
+"Exactly 1 of the following cities are in Zambia and 1 in Algeria: Lusaka, Tangshan, Saratov, Helsinki, Virar, Algiers.",1
+"Exactly 0 of the following cities are in Haiti and 5 in Poland: Wroclaw, Erzurum, Sanya, Qinzhou, Dera Ismail Khan, Lodz.",0
+"Exactly 3 of the following cities are in Iran and 1 in Jamaica: Barquisimeto, New Kingston, Isfahan, Hamadan, Orumiyeh, Erode.",1
+"Exactly 1 of the following cities are in Ukraine and 5 in Comoros: Longyan, Moradabad, Dongying, Odesa, Guangzhou, Kyiv.",0
+"Exactly 1 of the following cities are in Morocco and 0 in Luxembourg: Kisangani, Marrakesh, Adachi, Chunian, Makassar, Bujumbura.",1
+"Exactly 4 of the following cities are in Morocco and 1 in Malawi: Lilongwe, Meknes, Xiaogan, Agadir, Marrakesh, Tangier.",1
+"Exactly 3 of the following cities are in India and 0 in Tajikistan: Situbondo, Mysuru, Nellore, Nowrangapur, Quebec, Toulouse.",1
+"Exactly 2 of the following cities are in Peru and 0 in Montenegro: Liaocheng, Omsk, Callao, Ebute Ikorodu, Kikwit, Piura.",1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo and 4 in Uzbekistan: Mbuji-Mayi, Samarkand, Andijon, Kananga, Namangan, Tashkent.",1
+"Exactly 1 of the following cities are in Sudan and 5 in Egypt: Shubra al Khaymah, Khartoum North, Al Hudaydah, Nyala, Assiut, Ibague.",0
+"Exactly 2 of the following cities are in Côte d'Ivoire and 3 in Vietnam: Hamamatsu, Nha Trang, Bouake, Can Tho, Hue, Abidjan.",1
+"Exactly 0 of the following cities are in Colombia and 0 in Pakistan: Tianjin, Saint Petersburg, Cucuta, Soacha, Barranquilla, Istanbul.",0
+"Exactly 5 of the following cities are in Japan and 0 in Ethiopia: Madurai, Edogawe, Aihara, Matsuyama, Nagoya, Kyoto.",1
+"Exactly 3 of the following cities are in Mongolia and 1 in the Maldives: Esenyurt, Bucheon-si, Ulan Bator, Chisinau, Nowrangapur, Muscat.",0
+"Exactly 5 of the following cities are in Mozambique and 0 in France: Tyumen, Lyon, Teni, Maputo, Marseille, Toulouse.",0
+"Exactly 2 of the following cities are in Argentina and 4 in Peru: Chiclayo, Mar del Plata, Arequipa, San Miguel de Tucuman, Piura, Callao.",1
+"Exactly 4 of the following cities are in Egypt and 2 in South Africa: Gqeberha, Madinat an Nasr, Al Mahallah al Kubra, Al Fayyum, Assiut, Evaton.",1
+"Exactly 1 of the following cities are in Romania and 3 in the Democratic Republic of the Congo: Soweto, Kisangani, Bucharest, Kananga, Guiyang, Mbuji-Mayi.",1
+"Exactly 2 of the following cities are in Kenya and 0 in Fiji: Ya'an, Nairobi, San Pedro Sula, Mombasa, Cucuta, Kaifeng.",1
+"Exactly 0 of the following cities are in Fiji and 4 in Myanmar: Nay Pyi Taw, Yangon, Kozhikode, Mandalay, Thiruvananthapuram, Hlaingthaya.",1
+"Exactly 4 of the following cities are in Iraq and 0 in China: Sadr City, Nasiriyah, Mysuru, Oslo, Mosul, Basrah.",1
+"Exactly 1 of the following cities are in Thailand and 1 in Niger: Bhavnagar, Benin City, Bangkok, Kallakurichi, Islamabad, Harare.",0
+"Exactly 2 of the following cities are in Myanmar and 0 in Nigeria: Zaria, Abuja, Wanzhou, Benin City, Yangon, Mandalay.",0
+"Exactly 0 of the following cities are in Iraq and 0 in Bangladesh: Wanzhou, Rajshahi, Bouake, Erbil, Aracaju, Maoming.",0
+"Exactly 4 of the following cities are in Brazil and 2 in Honduras: Sao Bernardo do Campo, Ribeirao Preto, San Pedro Sula, Rio de Janeiro, Londrina, Tegucigalpa.",1
+"Exactly 3 of the following cities are in Nigeria and 3 in Iraq: Abu Ghurayb, Baghdad, Owerri, Maiduguri, Sadr City, Onitsha.",1
+"Exactly 2 of the following cities are in Kuwait and 4 in South Africa: Wuhan, Anqing, Tomsk, Diyarbakir, Cape Town, Antananarivo.",0
+"Exactly 1 of the following cities are in Guinea and 1 in the Democratic Republic of the Congo: Subang Jaya, Suizhou, Kolwezi, Kananga, Mbuji-Mayi, Kikwit.",0
+"Exactly 3 of the following cities are in Cape Verde and 1 in Luxembourg: Barquisimeto, Laibin, Maiduguri, Bareilly, Calumbo, Ulyanovsk.",0
+"Exactly 1 of the following cities are in Cameroon and 0 in Syria: Ar Raqqah, Jamnagar, Lueliang, Kinshasa, Lubumbashi, Leon de los Aldama.",0
+"Exactly 2 of the following cities are in France and 3 in Iraq: Benguela, Mosul, Abu Ghurayb, Toulouse, Lyon, Baghdad.",1
+"Exactly 1 of the following cities are in Canada and 2 in Uzbekistan: Karbala, Lilongwe, Samarkand, Iztapalapa, Andijon, Winnipeg.",1
+"Exactly 0 of the following cities are in Egypt and 0 in Peru: Florianopolis, Chiclayo, Arequipa, Piura, Assiut, Callao.",0
+"Exactly 0 of the following cities are in Cameroon and 1 in Romania: Yaounde, Setagaya, Shihezi, Uberlandia, Douala, Bucharest.",0
+"Exactly 3 of the following cities are in Indonesia and 0 in Latvia: Batam, Ipoh, Bandar Lampung, Bekasi, Astrakhan, Ebute Ikorodu.",1
+"Exactly 2 of the following cities are in Sudan and 1 in Turkey: N'Djamena, Nyala, Luohe, Diyarbakir, Thembisa, Khartoum.",1
+"Exactly 1 of the following cities are in Syria and 1 in Zambia: Calumbo, Minsk, Najran, Aleppo, Kitwe, Al Fayyum.",1
+"Exactly 3 of the following cities are in Turkey and 0 in Austria: Teni, Adana, Malatya, Jiamusi, Bursa, Luohu District.",1
+"Exactly 1 of the following cities are in Angola and 5 in China: Shanghai, Qionghai, Jiaozhou, Calumbo, Dalian, Nanchang.",1
+"Exactly 3 of the following cities are in Zambia and 0 in Malaysia: Lyon, Ndola, Lusaka, Kitwe, Aleppo, Orenburg.",1
+"Exactly 0 of the following cities are in Iran and 5 in Zambia: Lusaka, Ulsan, Lubumbashi, Ndola, Lviv, Torreon.",0
+"Exactly 5 of the following cities are in India and 1 in Poland: Bengaluru, Lodz, Ajmer, Ludhiana, Nanded, Jalandhar.",1
+"Exactly 1 of the following cities are in Egypt and 3 in Russia: Assiut, Lome, Barnaul, Al Mahallah al Kubra, Al Fayyum, Yinchuan.",0
+"Exactly 0 of the following cities are in Malta and 4 in the Philippines: Zarqa, Yangjiang, Budta, Caloocan, Las Pinas, Davao.",1
+"Exactly 1 of the following cities are in Peru and 3 in Mexico: Yibin, Callao, Acapulco de Juarez, Tlaquepaque, Tlalpan, Amravati.",1
+"Exactly 3 of the following cities are in Romania and 3 in China: Sangli, Dharavi, Bucharest, Shekhupura, Ipoh, New South Memphis.",0
+"Exactly 3 of the following cities are in Vietnam and 1 in the Philippines: Muntinlupa, Bogor, Ningbo, UEskuedar, Zhanjiang, Sukkur.",0
+"Exactly 4 of the following cities are in Mexico and 2 in Ghana: Zapopan, Kumasi, Aguascalientes, Accra, Iztapalapa, Acapulco de Juarez.",1
+"Exactly 4 of the following cities are in Morocco and 1 in Kenya: Marrakesh, Meknes, Oujda, Bangkok, Agadir, Tangier.",0
+"Exactly 3 of the following cities are in Vietnam and 2 in Ukraine: Can Tho, Bien Hoa, Hue, Guayaquil, Kharkiv, Kyiv.",1
+"Exactly 4 of the following cities are in Mozambique and 1 in India: Beira, Bursa, Moradabad, Pretoria, Shekhupura, Beirut.",0
+"Exactly 3 of the following cities are in Kazakhstan and 3 in the United States: Shymkent, Almaty, The Bronx, Astana, Queens, Seattle.",1
+"Exactly 0 of the following cities are in the Netherlands and 3 in Pakistan: Kolkata, Gujrat, Karachi, Penza, Baotou, Dera Ismail Khan.",1
+"Exactly 3 of the following cities are in the Democratic Republic of the Congo and 3 in Venezuela: Lubumbashi, Maturin, Tshikapa, Barquisimeto, Ciudad Guayana, Kolwezi.",1
+"Exactly 4 of the following cities are in Guinea-Bissau and 2 in Kazakhstan: E'zhou, Shymkent, Lubumbashi, N'Djamena, Fushun, Hue.",0
+"Exactly 4 of the following cities are in Nigeria and 0 in the Bahamas: Zaria, Jingmen, Jos, Warri, Bauchi, Hlaingthaya.",1
+"Exactly 5 of the following cities are in Tanzania and 0 in Bhutan: Zanzibar, Kashgar, Dodoma, Dar es Salaam, Mbeya, Arusha.",1
+"Exactly 5 of the following cities are in Venezuela and 0 in Guyana: New Kingston, Ciudad Guayana, Maracaibo, Maturin, Caracas, Barquisimeto.",1
+"Exactly 5 of the following cities are in Syria and 0 in Guinea: Latakia, Quezon City, Conakry, Camayenne, Aleppo, Douala.",0
+"Exactly 0 of the following cities are in Tuvalu and 4 in Yemen: Ibb, Arequipa, Taiz, Mukalla, Anshan, Al Hudaydah.",1
+"Exactly 0 of the following cities are in Mozambique and 3 in Djibouti: Beira, Matola, Al Fayyum, Maputo, Nampula, Cankaya.",0
+"Exactly 0 of the following cities are in Ghana and 3 in Angola: Cabinda, Batam, Golfe, Suining, Lubango, Palembang.",1
+"Exactly 5 of the following cities are in India and 0 in Malawi: Cuttack, Bareilly, Ujjain, Jamnagar, Varanasi, Anshun.",1
+"Exactly 2 of the following cities are in the United Arab Emirates and 4 in Myanmar: Hlaingthaya, Mandalay, Nay Pyi Taw, Al Ain City, Sharjah, Yangon.",1
+"Exactly 1 of the following cities are in Ireland and 5 in Burundi: Bujumbura, Callao, Pudong, Onitsha, Osaka, Qinzhou.",0
+"Exactly 0 of the following cities are in Indonesia and 1 in Bahrain: South Tangerang, Owerri, Calumbo, Zhenjiang, Malang, Foshan.",0
+"Exactly 0 of the following cities are in Dominica and 4 in Venezuela: Gujranwala, Maturin, Ciudad Guayana, Caracas, Homs, Maracaibo.",1
+"Exactly 0 of the following cities are in Zambia and 0 in Eritrea: Makhachkala, Ndola, Kitwe, Asmara, Kigali, Lusaka.",0
+"Exactly 3 of the following cities are in Mexico and 1 in Yemen: Santiago de Queretaro, Shenyang, Victoria de Durango, Naucalpan de Juarez, Ibb, Kumamoto.",1
+"Exactly 1 of the following cities are in Germany and 2 in Argentina: Mukim Pulai, Santiago de Cuba, Mar del Plata, Mogadishu, San Miguel de Tucuman, Munich.",1
+"Exactly 4 of the following cities are in Sudan and 1 in Myanmar: Omdurman, Nyala, Khartoum North, Niigata, Khartoum, Nay Pyi Taw.",1
+"Exactly 4 of the following cities are in Indonesia and 1 in Colombia: Bogor, Surakarta, Soacha, Samarinda, South Tangerang, Sokoto.",1
+"Exactly 5 of the following cities are in Jordan and 1 in France: Sagamihara, Zarqa, Marseille, Rostov-on-Don, Abobo, Nagoya.",0
+"Exactly 2 of the following cities are in Mozambique and 2 in Ecuador: Bukavu, Setagaya, Matola, Quito, Nampula, Guayaquil.",1
+"Exactly 1 of the following cities are in Ecuador and 2 in Russia: Irkutsk, Pokhara, Makhachkala, Dhanbad, Quito, Zhu Cheng City.",1
+"Exactly 1 of the following cities are in Indonesia and 1 in Angola: Bucaramanga, Huaihua, Niteroi, Denpasar, South Tangerang, Hefei.",0
+"Exactly 4 of the following cities are in Sudan and 2 in Colombia: Soacha, Omdurman, Bucaramanga, Khartoum North, Nyala, Khartoum.",1
+"Exactly 2 of the following cities are in Belarus and 0 in Saudi Arabia: Makkah, Ta'if, Minhang, Sultanah, Minsk, Homyel'.",0
+"Exactly 1 of the following cities are in Indonesia and 2 in Honduras: Pontianak, Zhengzhou, Tegucigalpa, Contagem, San Pedro Sula, Kuantan.",1
+"Exactly 0 of the following cities are in Belarus and 5 in Indonesia: South Tangerang, Jiangyin, Tangerang, Surakarta, Semarang, Malang.",1
+"Exactly 4 of the following cities are in Kenya and 1 in Eritrea: Nakuru, Mombasa, Asmara, Kakamega, Copenhagen, Nairobi.",1
+"Exactly 1 of the following cities are in Zambia and 3 in Australia: Thiruvananthapuram, Kitwe, Dehradun, Lusaka, Ndola, Gold Coast.",0
+"Exactly 5 of the following cities are in Yemen and 1 in Benin: Mukalla, Cotonou, Aden, Ibb, Taiz, Sanaa.",1
+"Exactly 4 of the following cities are in Morocco and 2 in Ghana: Fes, Accra, Meknes, Oujda, Kumasi, Agadir.",1
+"Exactly 2 of the following cities are in Ghana and 4 in India: Surat, Borivli, Accra, Bokaro, Kumasi, Dharavi.",1
+"Exactly 4 of the following cities are in Brazil and 2 in the Democratic Republic of the Congo: Niteroi, Mbuji-Mayi, Feira de Santana, Kananga, Porto Alegre, Aparecida de Goiania.",1
+"Exactly 3 of the following cities are in Belgium and 3 in Saudi Arabia: Aracaju, Aparecida de Goiania, Sofia, Perm, Adachi, Shantou.",0
+"Exactly 0 of the following cities are in Canada and 1 in Australia: Gold Coast, Santiago de los Caballeros, Nanded, Makati City, Wuwei, Dandong.",1
+"Exactly 3 of the following cities are in Colombia and 3 in Peru: Kobe, Cucuta, Piura, Arequipa, Chiclayo, Barranquilla.",0
+"Exactly 0 of the following cities are in Liberia and 5 in Slovakia: Batam, Rawalpindi, Tomsk, Antalya, Ahvaz, Namangan.",0
+"Exactly 0 of the following cities are in Sweden and 2 in France: Arak, Lyon, Arusha, Astana, Marseille, Changshu.",1
+"Exactly 4 of the following cities are in Peru and 1 in Niger: Piura, Golfe, Arequipa, Niamey, Callao, Chiclayo.",1
+"Exactly 3 of the following cities are in Kenya and 0 in Thailand: Mombasa, Zhu Cheng City, Kakamega, Bangkok, Shantou, Xuhui.",0
+"Exactly 3 of the following cities are in Jordan and 1 in Australia: Gold Coast, Mengzi, Zarqa, Amman, Chengdu, Irbid.",1
+"Exactly 3 of the following cities are in Malaysia and 2 in Azerbaijan: Sungai Petani, Baku, Kota Bharu, Nairobi, Pasir Gudang, Subang Jaya.",0
+"Exactly 1 of the following cities are in Jamaica and 4 in Syria: Ar Raqqah, New Kingston, Owerri, Toulouse, Homs, Gold Coast.",0
+"Exactly 4 of the following cities are in Indonesia and 0 in Uruguay: Kikolo, Palembang, Bucaramanga, Batam, Situbondo, Tasikmalaya.",1
+"Exactly 2 of the following cities are in Uganda and 4 in Vietnam: Vinh, Bien Hoa, Binh Thanh, Da Nang, Kampala, Nansana.",1
+"Exactly 0 of the following cities are in Poland and 3 in Ukraine: Zanzibar, Lviv, Dnipro, Shaoguan, Wuwei, Odesa.",1
+"Exactly 1 of the following cities are in South Africa and 3 in Morocco: Tangier, Oujda, Edogawe, Johannesburg, Zhuzhou, Marrakesh.",1
+"Exactly 0 of the following cities are in Zambia and 5 in Japan: Kagoshima, Okayama, Saitama, Seongnam-si, Shizuoka, Suginami.",1
+"Exactly 0 of the following cities are in Kyrgyzstan and 3 in Colombia: Selayang Baru Utara, Ulyanovsk, Ciudad Guayana, Bucaramanga, Barranquilla, Ibague.",1
+"Exactly 3 of the following cities are in Ghana and 1 in Sao Tome and Principe: Londrina, Yaroslavl, Torreon, Tiruchirappalli, Jakarta, Zibo.",0
+"Exactly 2 of the following cities are in Germany and 4 in San Marino: Cuiaba, Koeln, Kananga, Tiruppur, Dortmund, Zhuzhou.",0
+"Exactly 3 of the following cities are in China and 3 in Lithuania: Ulanqab, Khabarovsk, Qujing, Dhanbad, Vilnius, Guangzhou.",0
+"Exactly 1 of the following cities are in Oman and 0 in Japan: Tianjin, Jaboatao dos Guararapes, Antalya, Hermosillo, Muscat, Niluefer.",1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo and 4 in China: Istanbul, Calabar, Fuxin, Xuchang, Yerevan, Homs.",0
+"Exactly 1 of the following cities are in Jamaica and 2 in Kenya: Nairobi, New Kingston, Kalaburagi, Mombasa, Pimpri, Mbeya.",1
+"Exactly 0 of the following cities are in Swaziland and 3 in Bangladesh: Wuzhou, Weihai, Rajshahi, Fuxin, Pallabi, Rangpur.",1
+"Exactly 0 of the following cities are in Nicaragua and 4 in Bangladesh: Bujumbura, Mohammadpur, Khulna, Pallabi, Changde, Gazipur.",1
+"Exactly 0 of the following cities are in Tanzania and 3 in Iraq: Basrah, Osogbo, Jamnagar, Sulaymaniyah, Asansol, Sadr City.",1
+"Exactly 3 of the following cities are in Slovakia and 1 in Trinidad and Tobago: Ta'if, Jamshedpur, E'zhou, Guiyang, Naucalpan de Juarez, Islamabad.",0
+"Exactly 1 of the following cities are in Madagascar and 3 in Argentina: Evaton, Mar del Plata, Antananarivo, San Miguel de Tucuman, Maputo, Salta.",1
+"Exactly 4 of the following cities are in Niger and 0 in Saudi Arabia: Shangrao, Likasi, Coimbatore, Sholapur, Yibin, Ha'il.",0
+"Exactly 1 of the following cities are in Bulgaria and 4 in Vietnam: Thuan An, Da Nang, Haiphong, Sofia, Bien Hoa, Matsuyama.",1
+"Exactly 1 of the following cities are in Indonesia and 3 in Brazil: Meizhou, Joao Pessoa, Porto Alegre, Porto Velho, Curitiba, Istanbul.",0
+"Exactly 0 of the following cities are in Thailand and 4 in Indonesia: Arak, Bekasi, Jieyang, Denpasar, Situbondo, Cimahi.",1
+"Exactly 1 of the following cities are in the Dominican Republic and 5 in Bulgaria: Dushanbe, Contagem, Karbala, Lahore, Jos, Anyang-si.",0
+"Exactly 4 of the following cities are in South Korea and 0 in Seychelles: Kimhae, Jaboatao dos Guararapes, Xianning, Incheon, Cheongju-si, Goyang-si.",1
+"Exactly 5 of the following cities are in New Zealand and 1 in South Korea: Incheon, Cheonan, Suwon, Auckland, Daejeon, Busan.",0
+"Exactly 4 of the following cities are in Haiti and 1 in Ukraine: New South Memphis, Shangqiu, Bucaramanga, Dnipro, Bhavnagar, Kolwezi.",0
+"Exactly 0 of the following cities are in Mozambique and 3 in Myanmar: Xingtai, Wuzhou, Niigata, Santiago de los Caballeros, Hangzhou, Batam.",0
+"Exactly 1 of the following cities are in Hungary and 2 in Argentina: Zhangye, Ya'an, Songjiang, Tangshan, Salta, Nasiriyah.",0
+"Exactly 4 of the following cities are in Antigua and Barbuda and 0 in Uganda: Konya, Barranquilla, Milwaukee, Owerri, Puducherry, Sungai Petani.",0
+"Exactly 2 of the following cities are in Saudi Arabia and 2 in Uganda: Ha'il, Hiroshima, Nansana, Conakry, Pasig City, Jabalpur.",0
+"Exactly 3 of the following cities are in Liberia and 3 in Turkey: Ha'il, Mandalay, Abu Ghurayb, Bujumbura, Ranchi, Linyi.",0
+"Exactly 1 of the following cities are in Lithuania and 5 in the Democratic Republic of the Congo: Tshikapa, Kinshasa, Mbuji-Mayi, Kikwit, Vilnius, Lubumbashi.",1
+"Exactly 2 of the following cities are in Malaysia and 0 in Bhutan: Ajegunle, Khartoum North, Sultanah, Bukit Rahman Putra, Pasir Gudang, Kota Kuala Muda.",0
+"Exactly 2 of the following cities are in Iraq and 0 in Chile: Puente Alto, Ryazan', Bannu, San Miguel de Tucuman, Amman, Handan.",0
+"Exactly 2 of the following cities are in Brazil and 1 in Cuba: Zibo, Makassar, Xiamen, Contagem, Duque de Caxias, Santiago de Cuba.",1
+"Exactly 1 of the following cities are in the United States and 5 in Japan: Utsunomiya, Aihara, Shizuoka, Hachioji, Kitakyushu, Seattle.",1
+"Exactly 1 of the following cities are in Croatia and 2 in Pakistan: Zhuzhou, Multan, Quetta, Zagreb, Izmir, Hamamatsu.",1
+"Exactly 1 of the following cities are in Austria and 0 in Turkmenistan: Setagaya, Mandalay, Zhangzhou, Qui Nhon, Harbin, Ashgabat.",0
+"Exactly 3 of the following cities are in Venezuela and 1 in Lithuania: Vilnius, Barquisimeto, Caracas, Maceio, Sarajevo, Ciudad Guayana.",1
+"Exactly 1 of the following cities are in Australia and 2 in France: Marseille, Gold Coast, Santiago de Cuba, Malacca, Narela, Lyon.",1
+"Exactly 2 of the following cities are in Saudi Arabia and 0 in Poland: Jeddah, Beira, Xuancheng, Sultanah, Soacha, Huainan.",1
+"Exactly 4 of the following cities are in the United States and 1 in Somalia: Nanjing, Mogadishu, Indianapolis, Queens, Oklahoma City, Detroit.",1
+"Exactly 0 of the following cities are in the Maldives and 2 in Haiti: Linyi, Carrefour, Port-au-Prince, Shizuoka, Minsk, Yerevan.",1
+"Exactly 2 of the following cities are in Mauritania and 1 in Nigeria: Suqian, Warri, Ile-Ife, Calabar, Homyel', Longyan.",0
+"Exactly 3 of the following cities are in the Democratic Republic of the Congo and 0 in Angola: Lubumbashi, Likasi, Calumbo, Kisangani, Cabinda, Kinshasa.",0
+"Exactly 0 of the following cities are in France and 3 in Ireland: Indianapolis, Toulouse, Novosibirsk, Lyon, Bauchi, Marseille.",0
+"Exactly 1 of the following cities are in the Republic of the Congo and 4 in Indonesia: Aktobe, Perm, Islamabad, Samarinda, Abobo, Quito.",0
+"Exactly 1 of the following cities are in Lithuania and 2 in Ghana: Shangyu, Accra, Vilnius, Ansan-si, Ciudad Nezahualcoyotl, Kumasi.",1
+"Exactly 0 of the following cities are in South Korea and 0 in Chile: Kyoto, Fort Worth, Chunian, Cabinda, Rangpur, Huzhou.",1
+"Exactly 4 of the following cities are in Brazil and 1 in Côte d'Ivoire: Chuxiong, Cuiaba, Abobo, Sao Jose dos Campos, Sorocaba, Florianopolis.",1
+"Exactly 2 of the following cities are in Guatemala and 2 in Morocco: Benin City, Duesseldorf, Marrakesh, Meknes, Agadir, Guatemala City.",0
+"Exactly 3 of the following cities are in Côte d'Ivoire and 3 in Vietnam: Puducherry, Koeln, Haiphong, Cho Lon, Ho Chi Minh City, Zahedan.",0
+"Exactly 2 of the following cities are in Bangladesh and 1 in Côte d'Ivoire: Pallabi, Khulna, Yaroslavl, Narela, Abobo, Guwahati.",1
+"Exactly 4 of the following cities are in Jamaica and 0 in Djibouti: Balbala, Homyel', Zhangzhou, Ankara, Sharjah, Gold Coast.",0
+"Exactly 0 of the following cities are in Panama and 4 in Angola: Calumbo, Cotonou, Cabinda, Benguela, Kota Kuala Muda, Kikolo.",1
+"Exactly 1 of the following cities are in Oman and 0 in Mali: Naucalpan de Juarez, Bamako, Johor Bahru, Sarajevo, Giza, Muscat.",0
+"Exactly 1 of the following cities are in Vietnam and 4 in Malaysia: Can Tho, Ipoh, Pelentong, Kuantan, Gurugram, Kota Bharu.",1
+"Exactly 1 of the following cities are in Egypt and 2 in Saudi Arabia: Port Said, Buraydah, Assiut, Ha'il, Sultanah, Makkah.",0
+"Exactly 3 of the following cities are in Iran and 0 in India: Albuquerque, Ahmedabad, Las Pinas, Pingdingshan, Dehradun, Pimpri.",0
+"Exactly 2 of the following cities are in Côte d'Ivoire and 3 in Cambodia: Macapa, Libreville, Muntinlupa, Tiruppur, Linyi, Shihezi.",0
+"Exactly 2 of the following cities are in Mali and 4 in Honduras: Busan, Rohini, Shangyu, Shangluo, Bamako, San Pedro Sula.",0
+"Exactly 1 of the following cities are in Ghana and 1 in the Czech Republic: Latakia, Shuangyashan, Okayama, Baise, Wuhan, Varanasi.",0
+"Exactly 0 of the following cities are in Iraq and 5 in Norway: Al Mawsil al Jadidah, San Pedro Sula, Ghaziabad, Erbil, Oslo, Karbala.",0
+"Exactly 2 of the following cities are in Indonesia and 4 in China: Semarang, Jiamusi, Bayan Nur, Jinan, Serang, Zhangjiagang.",1
+"Exactly 0 of the following cities are in Poland and 2 in Turkey: Jabalpur, Diyarbakir, UEskuedar, Izmir, Malatya, Gaziantep.",0
+"Exactly 1 of the following cities are in Latvia and 5 in Iran: Riga, Kermanshah, Orumiyeh, Arak, Isfahan, Hamadan.",1
+"Exactly 2 of the following cities are in Nepal and 2 in South Korea: Cheongju-si, Gold Coast, Changwon, Pokhara, Kathmandu, Nouakchott.",1
+"Exactly 5 of the following cities are in Cyprus and 1 in Turkey: Al Basrah al Qadimah, Gurugram, Faridabad, Antalya, Izmir, Neijiang.",0
+"Exactly 0 of the following cities are in Syria and 3 in Iceland: Hachioji, Homs, Ibague, Lipetsk, Ar Raqqah, Seoul.",0
+"Exactly 5 of the following cities are in India and 0 in Croatia: Bokaro, Thane, Ahmedabad, Varanasi, Asansol, Zagreb.",0
+"Exactly 2 of the following cities are in Lithuania and 2 in Morocco: Agadir, Meknes, Marrakesh, Lome, Shangluo, Oujda.",0
+"Exactly 0 of the following cities are in Spain and 1 in Guatemala: Shaoxing, Guatemala City, Batam, Cucuta, Guangyuan, Peshawar.",1
+"Exactly 2 of the following cities are in the Philippines and 3 in Ecuador: Guayaquil, Caloocan, Las Pinas, Davao, Quito, Pasig City.",0
+"Exactly 1 of the following cities are in Egypt and 4 in Chile: Shaoguan, Port Said, Tlalpan, Suez, Al Mahallah al Kubra, Nellore.",0
+"Exactly 2 of the following cities are in Uganda and 0 in Palau: Kampala, Shekhupura, Nansana, Mersin, Santiago de Queretaro, Izmir.",1
+"Exactly 0 of the following cities are in Madagascar and 5 in Bangladesh: Tanggu, Pallabi, Rajshahi, Gazipur, Mohammadpur, Mirpur Model Thana.",1
+"Exactly 0 of the following cities are in Papua New Guinea and 3 in India: Visakhapatnam, Bhayandar, Pekanbaru, Ghaziabad, Nairobi, Heroica Matamoros.",1
+"Exactly 2 of the following cities are in Malaysia and 2 in Myanmar: Mandalay, Nay Pyi Taw, Yangon, Ipoh, Hlaingthaya, Petaling Jaya.",0
+"Exactly 0 of the following cities are in North Korea and 2 in the United States: Pyongyang, Kermanshah, Johor Bahru, Indianapolis, Hwaseong-si, New York City.",0
+"Exactly 3 of the following cities are in Spain and 3 in Germany: Frankfurt am Main, Nova Iguacu, Almaty, Durban, Bogor, Quezon City.",0
+"Exactly 2 of the following cities are in Brazil and 3 in Zambia: Lusaka, Guarulhos, Ndola, Kitwe, Contagem, Kanayannur.",1
+"Exactly 5 of the following cities are in Lesotho and 1 in Belarus: Yibin, Jiamusi, Cimahi, Minsk, Homyel', Pallabi.",0
+"Exactly 3 of the following cities are in Ukraine and 0 in Suriname: Odesa, Lviv, Dnipro, Siping, Sevastopol, Kyiv.",0
+"Exactly 5 of the following cities are in Poland and 1 in North Korea: Bhopal, Ciudad Juarez, Krakow, Ulan Bator, Bayan Nur, Aparecida de Goiania.",0
+"Exactly 4 of the following cities are in Vietnam and 0 in Turkmenistan: Kagoshima, Yunfu, Pingdingshan, Cho Lon, Ashgabat, Puxi.",0
+"Exactly 4 of the following cities are in Syria and 0 in Norway: Latakia, Huizhou, Ar Raqqah, Aleppo, Homs, Assiut.",1
+"Exactly 4 of the following cities are in Colombia and 2 in Lebanon: Bucaramanga, Cucuta, Ra's Bayrut, Beirut, Barranquilla, Soacha.",1
+"Exactly 4 of the following cities are in Guinea and 1 in South Africa: Bloemfontein, Gqeberha, Durban, Conakry, Camayenne, Pietermaritzburg.",0
+"Exactly 0 of the following cities are in Belarus and 4 in Mexico: Mexicali, Ciudad Juarez, Ciudad Nezahualcoyotl, Binh Thanh, Ipoh, Mexico City.",1
+"Exactly 4 of the following cities are in Morocco and 2 in Samoa: Dalian, Ahvaz, Nouakchott, Lipetsk, Ulanqab, Kuantan.",0
+"Exactly 4 of the following cities are in Nigeria and 2 in Mozambique: Ibadan, Sokoto, Maputo, Nampula, Zaria, Ile-Ife.",1
+"Exactly 0 of the following cities are in Cambodia and 4 in Morocco: Deyang, Marrakesh, Phnom Penh, Agadir, Meknes, Fes.",0
+"Exactly 5 of the following cities are in Indonesia and 0 in Tuvalu: Batam, Pekanbaru, Surakarta, Balikpapan, Sanya, Jambi City.",1
+"Exactly 3 of the following cities are in Chad and 2 in Germany: Mexico City, Battagram, Hannover, Leipzig, Quezon City, Peshawar.",0
+"Exactly 0 of the following cities are in Australia and 4 in Syria: Ar Raqqah, Aleppo, Al Mahallah al Kubra, Homs, Benin City, Latakia.",1
+"Exactly 4 of the following cities are in Antigua and Barbuda and 1 in Bosnia and Herzegovina: Sarajevo, UEruemqi, Eskisehir, Nellore, Jamshedpur, Makhachkala.",0
+"Exactly 1 of the following cities are in Bangladesh and 0 in Senegal: Mirpur Model Thana, Perm, Rangpur, Coyoacan, Yaounde, Comilla.",0
+"Exactly 0 of the following cities are in Saudi Arabia and 1 in France: Aqsu, Qionghai, Niigata, Shanghai, Khabarovsk, Marseille.",1
+"Exactly 5 of the following cities are in Morocco and 0 in Lithuania: Panjin, Tangier, Agadir, Fes, Marrakesh, Jiaxing.",0
+"Exactly 4 of the following cities are in Andorra and 0 in Syria: Zanzibar, Tanggu, Vladivostok, N'Djamena, Bucheon-si, Chennai.",0
+"Exactly 1 of the following cities are in Denmark and 0 in Nauru: Copenhagen, Akure, Karbala, Ulan Bator, Bukavu, Kharkiv.",1
+"Exactly 3 of the following cities are in Myanmar and 2 in Pakistan: Rawalpindi, Hlaingthaya, Mandalay, Nay Pyi Taw, Cotonou, Rahim Yar Khan.",1
+"Exactly 4 of the following cities are in Bahrain and 2 in Finland: Islamabad, Kuantan, Helsinki, Gazipur, Jakarta, Hermosillo.",0
+"Exactly 2 of the following cities are in Indonesia and 0 in South Korea: Krakow, Bekasi, Jeonju, Liaocheng, Ndola, Soshanguve.",0
+"Exactly 3 of the following cities are in Egypt and 0 in Mozambique: Al Fayyum, Beira, Nampula, Madinat an Nasr, Al Mahallah al Kubra, Shubra al Khaymah.",0
+"Exactly 1 of the following cities are in Zambia and 3 in Syria: Sanya, Latakia, Ndola, Qujing, Homs, Weifang.",0
+"Exactly 4 of the following cities are in Kuwait and 2 in Argentina: Qingdao, Jabalpur, Teresina, Jamshedpur, Nha Trang, Daejeon.",0
+"Exactly 0 of the following cities are in Botswana and 3 in Syria: Aleppo, Cuautitlan Izcalli, Kozhikode, Laiwu, Ar Raqqah, Latakia.",1
+"Exactly 2 of the following cities are in Côte d'Ivoire and 2 in Yemen: Gaziantep, Bouake, Ibb, Abidjan, Suginami, Taiz.",1
+"Exactly 2 of the following cities are in India and 1 in Ghana: Almaty, Visakhapatnam, Callao, Narela, Accra, Utsunomiya.",1
+"Exactly 2 of the following cities are in Vietnam and 2 in Madagascar: Ho Chi Minh City, Jalandhar, Binh Thanh, Antananarivo, Port Said, Lubumbashi.",0
+"Exactly 4 of the following cities are in Vietnam and 0 in Singapore: Nouakchott, Cho Lon, Oklahoma City, Nha Trang, Haiphong, Ho Chi Minh City.",1
+"Exactly 2 of the following cities are in Sweden and 2 in Myanmar: Santo Domingo Oeste, Mudanjiang, Guankou, Hlaingthaya, Ufa, Mar del Plata.",0
+"Exactly 1 of the following cities are in Ethiopia and 0 in South Korea: Puning, Situbondo, Surat, Agadir, Ibb, Addis Ababa.",1
+"Exactly 1 of the following cities are in Afghanistan and 3 in India: Pimpri, Tiruppur, Lueliang, Chunian, Mazar-e Sharif, Hubballi.",1
+"Exactly 3 of the following cities are in Turkey and 1 in Madagascar: Salta, Niluefer, Istanbul, Malatya, Kasur, Antananarivo.",1
+"Exactly 3 of the following cities are in China and 2 in the Republic of the Congo: Davao, Chizhou, Izhevsk, Voronezh, Harbin, Nellore.",0
+"Exactly 2 of the following cities are in Lebanon and 3 in Pakistan: Peshawar, Sialkot, Ra's Bayrut, Beirut, Shekhupura, Jammu.",1
+"Exactly 0 of the following cities are in Senegal and 3 in Egypt: Ciudad Nezahualcoyotl, Shubra al Khaymah, Port Said, Madinat an Nasr, Al Hudaydah, Anyang-si.",1
+"Exactly 5 of the following cities are in Colombia and 1 in Somalia: Barranquilla, Mogadishu, Ibague, Soacha, Bucaramanga, Cucuta.",1
+"Exactly 3 of the following cities are in Canada and 2 in Zambia: Mississauga, Lusaka, Winnipeg, Quebec, Johannesburg, Kitwe.",1
+"Exactly 0 of the following cities are in Japan and 0 in Burkina Faso: Setagaya, Ile-Ife, Makassar, Hachioji, Xuzhou, Ouagadougou.",0
+"Exactly 3 of the following cities are in Argentina and 2 in Ecuador: Riga, Moradabad, Nha Trang, Nanning, Kryvyy Rih, Caloocan.",0
+"Exactly 1 of the following cities are in Nicaragua and 3 in Malaysia: Selayang Baru Utara, Shah Alam, Johor Bahru, Kampung Baru Subang, Kota Bharu, Managua.",0
+"Exactly 2 of the following cities are in Senegal and 1 in Eritrea: Khulna, Faisalabad, Pikine, Niamey, Asmara, Zhoushan.",0
+"Exactly 2 of the following cities are in Hungary and 4 in Benin: Budapest, Pest, Nansana, Soacha, Cotonou, Vientiane.",0
+"Exactly 0 of the following cities are in Thailand and 1 in Ukraine: Hachioji, Homyel', Stockholm, Jos, Kharkiv, Guli.",1
+"Exactly 0 of the following cities are in Monaco and 3 in Nigeria: Cagayan de Oro, Santiago de Cuba, Port Harcourt, Torreon, Cangzhou, Lubumbashi.",0
+"Exactly 1 of the following cities are in Tanzania and 2 in Italy: Dodoma, Dar es Salaam, Zanzibar, Al Basrah al Qadimah, Madinat an Nasr, Mohammadpur.",0
+"Exactly 0 of the following cities are in Senegal and 5 in Timor-Leste: Dakar, Bahawalpur, Pikine, Macapa, Kota Kuala Muda, Ahvaz.",0
+"Exactly 4 of the following cities are in India and 2 in Uzbekistan: Meerut, Samarkand, Bokaro, Namangan, Bhayandar, Jaipur.",1
+"Exactly 2 of the following cities are in Yemen and 1 in Ethiopia: Addis Ababa, Suizhou, Al Ain City, Mukalla, Al Hudaydah, Zhaoqing.",1
+"Exactly 2 of the following cities are in North Korea and 1 in Burkina Faso: Hamhung, Jaboatao dos Guararapes, Pyongyang, Lipetsk, Bobo-Dioulasso, Ibague.",1
+"Exactly 4 of the following cities are in Uzbekistan and 1 in Mongolia: Andijon, Tashkent, Ulan Bator, Samarkand, Zhabei, Namangan.",1
+"Exactly 4 of the following cities are in Monaco and 1 in Kyrgyzstan: Can Tho, Zhabei, Ansan-si, Bekasi, Sanaa, Shangluo.",0
+"Exactly 2 of the following cities are in Belarus and 0 in France: Minsk, Tangier, Homyel', Naberezhnyye Chelny, Mosul, Feira de Santana.",1
+"Exactly 1 of the following cities are in North Korea and 3 in South Africa: Rangpur, Xuhui, Pyongyang, Vientiane, Edogawe, Thembisa.",0
+"Exactly 1 of the following cities are in Finland and 3 in Indonesia: Helsinki, Yerevan, Cimahi, Pontianak, Serang, Hiroshima.",1
+"Exactly 4 of the following cities are in Belarus and 1 in South Korea: Minsk, Laiwu, Homyel', Pingdingshan, Sanaa, Rangpur.",0
+"Exactly 5 of the following cities are in Guinea and 1 in Monaco: Al Fayyum, Conakry, Dnipro, Riga, Palembang, Camayenne.",0
+"Exactly 0 of the following cities are in Mexico and 0 in Syria: Lviv, Utsunomiya, Ciudad Juarez, Bikaner, Abobo, Latakia.",0
+"Exactly 0 of the following cities are in Finland and 2 in Venezuela: Liaocheng, Dera Ismail Khan, Maturin, Ciudad Guayana, Eskisehir, Zahedan.",1
+"Exactly 1 of the following cities are in Azerbaijan and 1 in Togo: Cuttack, Kikwit, Cheongju-si, Baku, Lome, Sanmenxia.",1
+"Exactly 4 of the following cities are in Lebanon and 0 in the United States: New York City, Hannover, Albuquerque, Detroit, Beirut, Ra's Bayrut.",0
+"Exactly 3 of the following cities are in Pakistan and 3 in Syria: Kampung Baru Subang, Latakia, Muzaffarabad, Battagram, Shizuoka, Yangon.",0
+"Exactly 3 of the following cities are in Pakistan and 3 in Vietnam: Thuan An, Islamabad, Dera Ismail Khan, Chunian, Sialkot, Karachi.",0
+"Exactly 0 of the following cities are in North Korea and 2 in Bangladesh: Rangpur, Agege, Mohammadpur, Gazipur, Mirpur Model Thana, Comilla.",0
+"Exactly 1 of the following cities are in India and 1 in Malaysia: Selayang Baru Utara, Kota Kinabalu, Bengaluru, Sungai Petani, Pasir Gudang, Kota Bharu.",0
+"Exactly 1 of the following cities are in Saudi Arabia and 4 in Kuwait: Jeddah, Al Ahmadi, Najran, Buraydah, Ta'if, Dammam.",0
+"Exactly 1 of the following cities are in Madagascar and 0 in Sweden: Stockholm, Kigali, Cebu City, Benxi, Ankara, Xiangtan.",0
+"Exactly 5 of the following cities are in Canada and 0 in Pakistan: Orenburg, Islamabad, Nanchong, Winnipeg, Beira, Lianyungang.",0
+"Exactly 1 of the following cities are in Malaysia and 1 in Germany: Leipzig, Hannover, Johor Bahru, Munich, Subang Jaya, Kota Kuala Muda.",0
+"Exactly 2 of the following cities are in Malaysia and 4 in Indonesia: Kuantan, Subang Jaya, Surakarta, Palembang, Banjarmasin, Tangerang.",1
+"Exactly 3 of the following cities are in Iraq and 2 in Germany: Hannover, Sulaymaniyah, Basrah, Duesseldorf, Mosul, Antalya.",1
+"Exactly 1 of the following cities are in Togo and 3 in Vietnam: Accra, Thuan An, Thu GJuc, Lome, Deyang, Haiphong.",1
+"Exactly 1 of the following cities are in Mexico and 1 in Iran: Novosibirsk, Changde, Tabriz, Anyang-si, Macapa, Zapopan.",1
+"Exactly 2 of the following cities are in Egypt and 1 in Angola: Shubra al Khaymah, Camama, Bujumbura, Assiut, Mudanjiang, Rasapudipalem.",1
+"Exactly 1 of the following cities are in Cambodia and 3 in South Korea: Phnom Penh, Daejeon, Cheonan, Nasiriyah, Kashgar, Kimhae.",1
+"Exactly 0 of the following cities are in Cyprus and 0 in Syria: Guigang, Borama, Surat, Orenburg, Semarang, Arak.",1
+"Exactly 4 of the following cities are in Saudi Arabia and 0 in Ukraine: Ha'il, Sultanah, Dnipro, Odesa, Makkah, Lviv.",0
+"Exactly 0 of the following cities are in Armenia and 0 in the Gambia: Managua, Kuala Lumpur, Tokyo, Indianapolis, Lipetsk, Pokhara.",1
+"Exactly 1 of the following cities are in Somalia and 5 in Canada: Antananarivo, Belford Roxo, Nashik, Xiaogan, Mogadishu, Jiujiang.",0
+"Exactly 3 of the following cities are in Egypt and 2 in Senegal: Assiut, Konya, General Santos, Asansol, Pikine, Johor Bahru.",0
+"Exactly 2 of the following cities are in Lebanon and 3 in Cambodia: Ra's Bayrut, Makati City, Contagem, Chattogram, Guwahati, Beirut.",0
+"Exactly 1 of the following cities are in Bosnia and Herzegovina and 3 in Malaysia: Carrefour, Subang Jaya, Kampung Baru Subang, Abobo, Johor Bahru, Xianning.",0
+"Exactly 0 of the following cities are in Trinidad and Tobago and 1 in Indonesia: South Tangerang, Shah Alam, Lanzhou, Latakia, Carrefour, Utsunomiya.",1
+"Exactly 3 of the following cities are in Tonga and 1 in Estonia: Chelyabinsk, Sagamihara, Sanaa, Tonghua, Chisinau, Qiqihar.",0
+"Exactly 2 of the following cities are in the Maldives and 4 in Palau: Shubra al Khaymah, Battagram, Quebec, Rostov-on-Don, Guankou, Wuhan.",0
+"Exactly 2 of the following cities are in Germany and 1 in Iceland: Frankfurt am Main, Tangshan, Al Hudaydah, Wanzhou, Zhaoqing, Chengdu.",0
+"Exactly 4 of the following cities are in Qatar and 2 in the United States: Albuquerque, Sao Jose dos Campos, Oklahoma City, Aqsu, Kanayannur, Seattle.",0
+"Exactly 2 of the following cities are in Iran and 2 in Morocco: Dharavi, Isfahan, Karaj, Agadir, Tashkent, Tangier.",1
+"Exactly 2 of the following cities are in Guatemala and 1 in the Philippines: Malingao, Caloocan, Zamboanga, Callao, Gujranwala, General Santos.",0
+"Exactly 3 of the following cities are in Vietnam and 0 in the United Arab Emirates: Curitiba, Nyala, Da Nang, Selayang Baru Utara, Vinh, Bien Hoa.",1
+"Exactly 2 of the following cities are in France and 0 in Iran: Toulouse, Zahedan, Dodoma, Lyon, Kermanshah, Tabriz.",0
+"Exactly 3 of the following cities are in Germany and 3 in Benin: Munich, Leipzig, Heze, Duesseldorf, Dortmund, Frankfurt am Main.",0
+"Exactly 1 of the following cities are in Japan and 1 in Chad: Changshu, N'Djamena, Setagaya, Bahawalpur, Sanya, Rostov-on-Don.",1
+"Exactly 0 of the following cities are in Bosnia and Herzegovina and 4 in South Korea: Seoul, Mianzhu, Deyang, Sichuan, Puning, Anyang-si, Kimhae, Incheon.",1
+"Exactly 4 of the following cities are in Vietnam and 0 in Argentina: Bien Hoa, Orenburg, Da Nang, Vinh, Nouakchott, Can Tho.",1
+"Exactly 2 of the following cities are in New Zealand and 4 in the United States: The Bronx, Kampung Baru Subang, Bokaro, Neijiang, Seattle, New York City.",0
+"Exactly 1 of the following cities are in Venezuela and 2 in Angola: Calumbo, Golfe, Maianga, Kikolo, Lubango, Kunming.",0
+"Exactly 0 of the following cities are in Monaco and 3 in Latvia: Xinyang, Homyel', Cheongju-si, Riga, Handan, Pallabi.",0
+"Exactly 1 of the following cities are in Bulgaria and 4 in Russia: Omsk, Sofia, Sanaa, Saint Petersburg, Yekaterinburg, Izhevsk.",1
+"Exactly 3 of the following cities are in Morocco and 2 in Ukraine: Marrakesh, Huaibei, Quetta, Hangzhou, Oujda, Sevastopol.",0
+"Exactly 4 of the following cities are in China and 2 in Hungary: Zhangzhou, Hefei, Jiamusi, Pest, Dandong, Budapest.",1
+"Exactly 2 of the following cities are in Uzbekistan and 0 in Iran: Conakry, Duesseldorf, Busan, Abu Dhabi, Namangan, Samarkand.",1
+"Exactly 0 of the following cities are in Cambodia and 2 in India: Narela, Mohammadpur, Ulan Bator, Kasur, Mumbai, General Santos.",1
+"Exactly 2 of the following cities are in Ireland and 1 in Colombia: Sanya, Soacha, Rizhao, Barranquilla, Sevastopol, Bucaramanga.",0
+"Exactly 2 of the following cities are in Bangladesh and 3 in Indonesia: Tangerang, Rangpur, Madinah, South Tangerang, Samarinda, Pallabi.",1
+"Exactly 1 of the following cities are in Ghana and 4 in Saudi Arabia: Bucaramanga, Makkah, Kumasi, Luzhou, Ta'if, Dammam.",0
+"Exactly 1 of the following cities are in Honduras and 2 in Tanzania: Mbeya, Zanzibar, Shangyu, Kumamoto, Warri, Shanghai.",0
+"Exactly 0 of the following cities are in Finland and 5 in Iraq: Basrah, Karbala, Sulaymaniyah, Hiroshima, Baghdad, Al Basrah al Qadimah.",1
+"Exactly 2 of the following cities are in Belarus and 4 in Russia: Naberezhnyye Chelny, Ulyanovsk, Astrakhan, Nizhniy Novgorod, Arusha, Homyel'.",0
+"Exactly 1 of the following cities are in Ukraine and 0 in Paraguay: Kharkiv, Kyiv, Sevastopol, Kryvyy Rih, Asansol, Dnipro.",0
+"Exactly 3 of the following cities are in Saint Vincent and the Grenadines and 2 in Saudi Arabia: Dammam, Chongqing, Makkah, Madinah, Najran, Buraydah.",0
+"Exactly 5 of the following cities are in Morocco and 1 in Canada: Tangier, Meknes, Agadir, Oujda, Quebec, Marrakesh.",1
+"Exactly 5 of the following cities are in Colombia and 1 in Russia: Bucaramanga, Nizhniy Novgorod, Cucuta, Barranquilla, Soacha, Ibague.",1
+"Exactly 1 of the following cities are in Uganda and 1 in Guinea-Bissau: Nansana, Selayang Baru Utara, Zapopan, Ciudad Nezahualcoyotl, Tiruchirappalli, Putian.",0
+"Exactly 3 of the following cities are in Lebanon and 2 in Iceland: Leon de los Aldama, Oujda, Nanded, Xuancheng, Xinyu, Najran.",0
+"Exactly 0 of the following cities are in Syria and 5 in Mauritius: Homs, Latakia, Aleppo, Da Nang, Tlaquepaque, Chongming.",0
+"Exactly 4 of the following cities are in Moldova and 1 in Italy: Bouake, Changde, Bucheon-si, Shuangyashan, Chisinau, Irbid.",0
+"Exactly 3 of the following cities are in Cameroon and 0 in Chad: Xianning, Ghaziabad, Kisangani, Navi Mumbai, Jinzhong, Douala.",0
+"Exactly 0 of the following cities are in Kenya and 3 in Saudi Arabia: Buraydah, Nairobi, Makkah, Sultanah, Kayseri, Ta'if.",0
+"Exactly 0 of the following cities are in Liberia and 0 in Latvia: Odesa, Kuecuekcekmece, Sao Jose dos Campos, Iztapalapa, Bhubaneswar, Ile-Ife.",1
+"Exactly 4 of the following cities are in Burkina Faso and 2 in South Korea: Bobo-Dioulasso, Changwon, Busan, Incheon, Jeonju, Ouagadougou.",0
+"Exactly 0 of the following cities are in Nicaragua and 2 in Honduras: Ibadan, Kuantan, Managua, Ryazan', Zaozhuang, San Pedro Sula.",0
+"Exactly 0 of the following cities are in Morocco and 0 in Japan: Shizuoka, Kyoto, Sapporo, Setagaya, Xingtai, Kobe.",0
+"Exactly 3 of the following cities are in the Philippines and 3 in Canada: Quebec, Taguig, Makati City, Calgary, Mississauga, General Santos.",1
+"Exactly 0 of the following cities are in Kenya and 4 in Canada: Nairobi, Mombasa, Gwalior, Kakamega, Nakuru, Putuo.",0
+"Exactly 3 of the following cities are in Zambia and 1 in Hungary: Coimbatore, Lusaka, Budapest, Kitwe, Ndola, Bhiwandi.",1
+"Exactly 3 of the following cities are in Russia and 3 in Bangladesh: Gazipur, Rajshahi, Irkutsk, Rangpur, Chelyabinsk, Yekaterinburg.",1
+"Exactly 2 of the following cities are in Germany and 1 in Chad: N'Djamena, Nasiriyah, Bikaner, Tangshan, Douala, Xingtai.",0
+"Exactly 2 of the following cities are in the United Arab Emirates and 1 in Benin: Bloemfontein, Amritsar, Abeokuta, Abu Dhabi, Laibin, Santiago de Queretaro.",0
+"Exactly 1 of the following cities are in Honduras and 2 in Malaysia: Subang Jaya, Tegucigalpa, San Pedro Sula, Mukim Pulai, Lueliang, Petaling Jaya.",0
+"Exactly 5 of the following cities are in Ukraine and 1 in Kenya: Lviv, Kyiv, Odesa, Kryvyy Rih, Dnipro, Nakuru.",1
+"Exactly 4 of the following cities are in Burundi and 1 in Brazil: Bujumbura, Curitiba, Niteroi, Londrina, Bien Hoa, Florianopolis.",0
+"Exactly 2 of the following cities are in Burkina Faso and 0 in Haiti: Ouagadougou, Port-au-Prince, Zhaoqing, Pelentong, Bobo-Dioulasso, Carrefour.",0
+"Exactly 1 of the following cities are in Uruguay and 0 in Jamaica: Benxi, Bhayandar, Warangal, Addis Ababa, Qui Nhon, Mexicali.",0
+"Exactly 0 of the following cities are in Suriname and 2 in Zimbabwe: Irkutsk, Bulawayo, Reynosa, Harare, Owerri, Onitsha.",1
+"Exactly 5 of the following cities are in Saudi Arabia and 0 in Norway: Najran, Sultanah, Kigali, Buraydah, Jeddah, Makkah.",1
+"Exactly 1 of the following cities are in Mexico and 3 in Canada: Mississauga, Calgary, Santiago de Queretaro, Petaling Jaya, Quebec, Yangon.",1
+"Exactly 3 of the following cities are in Uzbekistan and 2 in Saudi Arabia: Tehran, Bouake, Aihara, Andijon, Tashkent, Hanzhong.",0
+"Exactly 1 of the following cities are in Zambia and 1 in Mexico: Tolyatti, Istanbul, Tlalpan, Lusaka, Lubango, Vijayawada.",1
+"Exactly 0 of the following cities are in Angola and 3 in Portugal: Hoji ya Henda, Huludao, Camama, Mulenvos, Nansana, Cabinda.",0
+"Exactly 2 of the following cities are in Egypt and 3 in Mozambique: Suez, Madinat an Nasr, Beira, Maputo, Matola, Situbondo.",1
+"Exactly 2 of the following cities are in Burkina Faso and 0 in Namibia: Luohu District, Bobo-Dioulasso, Ouagadougou, Kikolo, Tasikmalaya, Joao Pessoa.",1
+"Exactly 2 of the following cities are in Nigeria and 4 in Tunisia: Maiduguri, Mar del Plata, Muzaffarabad, Osogbo, Changshu, Esenyurt.",0
+"Exactly 4 of the following cities are in South Africa and 1 in Saint Kitts and Nevis: Bhayandar, Victoria de Durango, Saitama, Ganzhou, Weihai, Sholapur.",0
+"Exactly 0 of the following cities are in South Korea and 5 in Zambia: Ashgabat, Ulsan, Kitwe, Ndola, Lusaka, Kimhae.",0
+"Exactly 3 of the following cities are in Indonesia and 2 in Senegal: Batam, Bandar Lampung, Pontianak, Cimahi, Pikine, Bekasi.",0
+"Exactly 1 of the following cities are in Russia and 2 in Ukraine: Rostov-on-Don, Sevastopol, Shubra al Khaymah, Dnipro, Anshan, Qiqihar.",1
+"Exactly 5 of the following cities are in Ethiopia and 0 in Nigeria: Warri, Ilorin, Calgary, Hebi, Addis Ababa, Osogbo.",0
+"Exactly 1 of the following cities are in Bangladesh and 2 in Brazil: Pallabi, Juiz de Fora, Malingao, Shaoguan, Mudanjiang, Duque de Caxias.",1
+"Exactly 4 of the following cities are in India and 2 in Kenya: Nairobi, Faridabad, Nakuru, Gwalior, Amritsar, Ajmer.",1
+"Exactly 0 of the following cities are in Vanuatu and 5 in Ukraine: Yinchuan, Lviv, Sevastopol, Kyiv, Dnipro, Odesa.",1
+"Exactly 0 of the following cities are in Saudi Arabia and 2 in Haiti: Port-au-Prince, Jeddah, Dammam, Ta'if, Ha'il, Carrefour.",0
+"Exactly 3 of the following cities are in Morocco and 1 in Gabon: Ankara, Gustavo Adolfo Madero, Aihara, Santiago de Cuba, Pokhara, Tangier.",0
+"Exactly 0 of the following cities are in Honduras and 1 in Zambia: Hongkou, Panzhihua, Kitwe, Ipoh, Pretoria, Faisalabad.",1
+"Exactly 3 of the following cities are in Kenya and 0 in Lesotho: Mombasa, Adachi, Puning, Nairobi, Naberezhnyye Chelny, Kakamega.",1
+"Exactly 2 of the following cities are in Mozambique and 2 in the United States: Oklahoma City, Chicago, Maputo, Kolkata, Sanming, Nampula.",1
+"Exactly 1 of the following cities are in Angola and 3 in Oman: Puente Alto, Qinhuangdao, Kikolo, Rahim Yar Khan, Chongqing, Ciudad Guayana.",0
+"Exactly 0 of the following cities are in Burundi and 2 in Germany: Rohini, Victoria de Durango, Baise, Frankfurt am Main, Duesseldorf, Izmir.",1
+"Exactly 0 of the following cities are in Djibouti and 1 in Kazakhstan: Lilongwe, Shymkent, Subang Jaya, Salta, Riga, Marrakesh.",1
+"Exactly 0 of the following cities are in Cyprus and 0 in Botswana: Ibb, Langfang, Lipetsk, Najafgarh, Mogadishu, Guangzhou.",1
+"Exactly 1 of the following cities are in Colombia and 4 in South Africa: Benoni, Pietermaritzburg, Johannesburg, Kampala, Barranquilla, Gqeberha.",1
+"Exactly 5 of the following cities are in Burkina Faso and 0 in Pakistan: Izmir, Tehran, Zhabei, Multan, Battagram, Muzaffarabad.",0
+"Exactly 0 of the following cities are in Uzbekistan and 0 in Norway: Guangzhou, Jilin, Mbuji-Mayi, Songjiang, Pudong, Maceio.",1
+"Exactly 1 of the following cities are in Jamaica and 5 in Mexico: San Luis Potosi, Tijuana, Gustavo Adolfo Madero, Mexicali, New Kingston, Victoria de Durango.",1
+"Exactly 4 of the following cities are in Uganda and 2 in Swaziland: Baoji, Narela, Anyang-si, Davao, Karbala, Matola.",0
+"Exactly 3 of the following cities are in Ireland and 0 in the United Arab Emirates: Abu Dhabi, Madinah, Al Ain City, Sharjah, Chenzhou, Irbid.",0
+"Exactly 2 of the following cities are in Haiti and 3 in Iran: Tehran, Tabriz, Karaj, Lahore, Port-au-Prince, Carrefour.",1
+"Exactly 1 of the following cities are in Vietnam and 2 in Ghana: Ajegunle, Kumasi, Novokuznetsk, Vinh, Accra, Zhabei.",1
+"Exactly 2 of the following cities are in the Philippines and 2 in Colombia: Pasig City, Cebu City, Multan, Soacha, Budta, Taguig.",0
+"Exactly 4 of the following cities are in Rwanda and 1 in Chad: Maoming, Bayan Nur, Kigali, Kaifeng, N'Djamena, Anshan.",0
+"Exactly 5 of the following cities are in Lithuania and 1 in Mali: Thiruvananthapuram, Vilnius, Cheongju-si, Penza, Warri, Cuiaba.",0
+"Exactly 0 of the following cities are in Ukraine and 0 in Guinea: Kigali, San Luis Potosi, Abobo, Sungai Petani, Bucharest, Zibo.",1
+"Exactly 2 of the following cities are in Timor-Leste and 1 in Ethiopia: Antalya, Eskisehir, Ndola, Najafgarh, Suwon, Madurai.",0
+"Exactly 2 of the following cities are in Peru and 4 in Ukraine: Zhaotong, Piura, Callao, Panzhihua, Zanzibar, Arequipa.",0
+"Exactly 0 of the following cities are in Ukraine and 5 in Indonesia: Barranquilla, Cuttack, Liuzhou, Mysuru, Tasikmalaya, Rasapudipalem.",0
+"Exactly 0 of the following cities are in Moldova and 5 in Morocco: Meknes, Tangier, Agadir, Oujda, Fes, Hlaingthaya.",1
+"Exactly 4 of the following cities are in Venezuela and 1 in Belarus: Caracas, Minsk, Bandar Lampung, Maracaibo, Ciudad Guayana, Barquisimeto.",1
+"Exactly 0 of the following cities are in Colombia and 4 in Sweden: Ibague, Bobo-Dioulasso, Bucaramanga, Barranquilla, Cucuta, Soacha.",0
+"Exactly 2 of the following cities are in Angola and 3 in Peru: Arequipa, Mianzhu, Deyang, Sichuan, Callao, Maianga, Chiclayo, Cabinda.",1
+"Exactly 4 of the following cities are in Cameroon and 0 in Eritrea: Kryvyy Rih, Hefei, Douala, Madinah, Irbid, Asmara.",0
+"Exactly 4 of the following cities are in Fiji and 2 in Algeria: Bareilly, Kyiv, Lviv, Guwahati, Haiphong, Voronezh.",0
+"Exactly 1 of the following cities are in Ireland and 1 in Angola: Arak, Porto Velho, Rostov-on-Don, Shubra al Khaymah, Guangyuan, Taicang.",0
+"Exactly 0 of the following cities are in Pakistan and 4 in Canada: Makhachkala, Heroica Matamoros, Huaihua, Balbala, Saratov, Evaton.",0
+"Exactly 0 of the following cities are in Belarus and 1 in Somalia: Odesa, Tomsk, Sialkot, Ranchi, Coyoacan, Borama.",1
+"Exactly 2 of the following cities are in Nigeria and 4 in China: Yichang, Akure, Panzhihua, Abeokuta, Weinan, Neijiang.",1
+"Exactly 1 of the following cities are in China and 1 in Kazakhstan: Almaty, Tijuana, Semarang, Bogor, Zhongwei, Tomsk.",1
+"Exactly 5 of the following cities are in India and 1 in Russia: Karol Bagh, Tirunelveli, Zhu Cheng City, Thembisa, Dnipro, Port Harcourt.",0
+"Exactly 3 of the following cities are in Jordan and 2 in Uganda: Zarqa, Kampala, Irbid, Amman, Riga, Nansana.",1
+"Exactly 5 of the following cities are in Egypt and 1 in Guatemala: Port Said, Suez, Guatemala City, Madinat an Nasr, Giza, Shubra al Khaymah.",1
+"Exactly 0 of the following cities are in Kuwait and 0 in Macedonia: Yangon, Ho Chi Minh City, Kyiv, Qionghai, Cuttack, Antalya.",1
+"Exactly 5 of the following cities are in Morocco and 0 in Niger: Perm, Peshawar, Agadir, Malatya, Fes, Meknes.",0
+"Exactly 4 of the following cities are in Indonesia and 2 in Bolivia: Xiangtan, Ajegunle, Khartoum North, Izhevsk, Banjarmasin, Mississauga.",0
+"Exactly 2 of the following cities are in Belarus and 2 in Cambodia: Jalandhar, Nha Trang, Rio de Janeiro, Thane, Tianjin, Sanmenxia.",0
+"Exactly 0 of the following cities are in the United States and 4 in Bhutan: Queens, Tucson, Serang, Oklahoma City, Makhachkala, Khartoum.",0
+"Exactly 1 of the following cities are in Turkey and 1 in Finland: Shantou, Himeji, Thane, Helsinki, Acapulco de Juarez, Bursa.",1
+"Exactly 0 of the following cities are in Bahrain and 3 in Argentina: Soshanguve, Weifang, Busan, San Miguel de Tucuman, Salta, Mar del Plata.",1
+"Exactly 3 of the following cities are in Russia and 2 in Mexico: Ufa, Hermosillo, Volgograd, Santiago de Queretaro, Bhopal, Voronezh.",1
+"Exactly 1 of the following cities are in Tanzania and 4 in South Africa: Mbeya, Fushun, Dar es Salaam, Zanzibar, Arusha, Dodoma.",0
+"Exactly 2 of the following cities are in Barbados and 1 in Cameroon: Lviv, Jiaxing, Osogbo, Huaibei, Shuangyashan, Chicago.",0
+"Exactly 0 of the following cities are in Guinea and 0 in North Korea: Kananga, Mexico City, Tshikapa, Suizhou, Nanning, Mexicali.",1
+"Exactly 0 of the following cities are in South Africa and 3 in Suriname: Beirut, Gqeberha, Johannesburg, Soshanguve, Evaton, Soweto.",0
+"Exactly 1 of the following cities are in Turkey and 4 in Japan: Hiroshima, Kuecuekcekmece, Bagcilar, Konya, Erzurum, Mersin.",0
+"Exactly 4 of the following cities are in India and 2 in Zambia: Thiruvananthapuram, Ndola, Ulhasnagar, Meerut, Lusaka, Bhubaneswar.",1
+"Exactly 2 of the following cities are in Russia and 0 in Syria: Fort Worth, Ufa, Latakia, Ryazan', Krasnoyarsk, Rostov-on-Don.",0
+"Exactly 4 of the following cities are in Spain and 0 in Egypt: Thane, Homyel', Ndola, Agadir, Huaihua, Bobo-Dioulasso.",0
+"Exactly 3 of the following cities are in Sri Lanka and 1 in Australia: Jilin, Khulna, Ebute Ikorodu, Ibb, Changde, Fuxin.",0
+"Exactly 0 of the following cities are in Germany and 5 in Latvia: Duesseldorf, Novosibirsk, Nagoya, Riga, Al Ain City, Chiclayo.",0
+"Exactly 0 of the following cities are in Mozambique and 5 in Brazil: Goiania, Perm, Ananindeua, Teresina, Duque de Caxias, Brasilia.",1
+"Exactly 0 of the following cities are in Nicaragua and 3 in Canada: Guang'an, Kinshasa, Guangzhou, Ebute Ikorodu, Latakia, Shaoxing.",0
+"Exactly 3 of the following cities are in Yemen and 3 in Benin: Ra's Bayrut, Aden, Al Hudaydah, Taiz, Kakamega, Sanaa.",0
+"Exactly 4 of the following cities are in Bangladesh and 0 in Kazakhstan: Port Harcourt, Pallabi, Gazipur, Rangpur, Busan, Chattogram.",1
+"Exactly 2 of the following cities are in Sweden and 4 in Benin: Jiaozhou, Edogawe, Stockholm, Sarajevo, Abuja, Tasikmalaya.",0
+"Exactly 1 of the following cities are in Indonesia and 4 in Pakistan: Quetta, Gujrat, Faisalabad, Homyel', Cimahi, Shekhupura.",1
+"Exactly 0 of the following cities are in Guyana and 0 in Eritrea: Shanghai, Basrah, Cancun, Soacha, Jiaozhou, Latakia.",1
+"Exactly 2 of the following cities are in Mexico and 2 in Colombia: Bucaramanga, Liuzhou, Torreon, Barranquilla, Aguascalientes, Lanzhou.",1
+"Exactly 2 of the following cities are in Burkina Faso and 1 in Niger: Bobo-Dioulasso, Niamey, Thuan An, Cixi, Zagreb, Ouagadougou.",1
+"Exactly 0 of the following cities are in Kazakhstan and 1 in Burkina Faso: Arak, Aktobe, Bobo-Dioulasso, Jiangyin, Almaty, Astana.",0
+"Exactly 4 of the following cities are in Mauritania and 0 in Kazakhstan: Dortmund, Aktobe, Shymkent, Milwaukee, Shihezi, Nouakchott.",0
+"Exactly 2 of the following cities are in Singapore and 2 in Honduras: San Pedro Sula, Chennai, Kumamoto, Bengbu, Tegucigalpa, Aracaju.",0
+"Exactly 0 of the following cities are in Honduras and 4 in Laos: Zhaoqing, Can Tho, New York City, Arak, San Pedro Sula, Huaihua.",0
+"Exactly 3 of the following cities are in Argentina and 2 in China: Liupanshui, Mbeya, Salta, Puxi, Wuzhou, Xianyang.",0
+"Exactly 1 of the following cities are in Sudan and 3 in Iran: Koeln, Isfahan, Hohhot, Omdurman, Xuancheng, Nyala.",0
+"Exactly 1 of the following cities are in Mozambique and 0 in Chile: Matola, Xinyu, Puente Alto, Nampula, Beira, Maputo.",0
+"Exactly 1 of the following cities are in Madagascar and 4 in Iraq: Antananarivo, Shizuoka, Huangshi, Nasiriyah, Erbil, Basrah.",0
+"Exactly 1 of the following cities are in Thailand and 4 in Kazakhstan: Bangkok, Aktobe, Shymkent, Astana, Almaty, Douala.",1
+"Exactly 0 of the following cities are in Mauritania and 2 in Iraq: Sokoto, Edogawe, Dalian, Peshawar, Qinzhou, Hannover.",0
+"Exactly 3 of the following cities are in China and 2 in Malaysia: Mukim Pulai, Huzhou, Shah Alam, Riga, Changde, Wuwei.",1
+"Exactly 2 of the following cities are in Morocco and 0 in Djibouti: Kampung Baru Subang, Anshun, Fes, Meknes, Ananindeua, Mersin.",1
+"Exactly 0 of the following cities are in Liberia and 0 in the United Arab Emirates: Qui Nhon, Milwaukee, Al Ain City, Florianopolis, Pallabi, Ndola.",0
+"Exactly 0 of the following cities are in Namibia and 2 in Indonesia: Lodz, Goyang-si, Accra, Nizhniy Novgorod, Soweto, Indianapolis.",0
+"Exactly 2 of the following cities are in Bangladesh and 4 in the United States: Rahim Yar Khan, Krasnoyarsk, Mirpur Model Thana, Tucson, Rajshahi, Milwaukee.",0
+"Exactly 1 of the following cities are in Venezuela and 4 in China: Shah Alam, Yangpu, Quebec, Barquisimeto, Sungai Petani, Guangyuan.",0
+"Exactly 2 of the following cities are in Iraq and 4 in Uzbekistan: Samarkand, Erbil, Tashkent, Sulaymaniyah, Namangan, Andijon.",1
+"Exactly 3 of the following cities are in Peru and 1 in Norway: Chizhou, Chiclayo, Oslo, Vladivostok, Callao, Arequipa.",1
+"Exactly 4 of the following cities are in Colombia and 1 in Argentina: Cucuta, Ibague, Barranquilla, Bucaramanga, Riga, Salta.",1
+"Exactly 2 of the following cities are in Somalia and 0 in the Central African Republic: Cucuta, Mogadishu, Guarulhos, Kitakyushu, Ahvaz, Borama.",1
+"Exactly 3 of the following cities are in Burundi and 0 in Malawi: Shangluo, Bujumbura, Gold Coast, Xuhui, Munich, Lilongwe.",0
+"Exactly 3 of the following cities are in Canada and 0 in Antigua and Barbuda: Winnipeg, Incheon, Kananga, Quebec, Calgary, Sanya.",1
+"Exactly 4 of the following cities are in Morocco and 0 in Jamaica: Tangier, Meknes, Cho Lon, Fes, Marrakesh, Maianga.",1
+"Exactly 3 of the following cities are in Mexico and 3 in Jordan: Santiago de Queretaro, Zarqa, Reynosa, Amman, Irbid, Mexico City.",1
+"Exactly 3 of the following cities are in Iraq and 2 in Canada: Basrah, Al Basrah al Qadimah, Sharjah, Situbondo, Mosul, Baghdad.",0
+"Exactly 0 of the following cities are in Belgium and 1 in Egypt: Lahore, Huangshi, Seongnam-si, Zhumadian, Jakarta, Assiut.",1
+"Exactly 4 of the following cities are in Peru and 0 in Botswana: Arequipa, Mombasa, Chiclayo, Piura, Callao, Deyang.",1
+"Exactly 1 of the following cities are in Haiti and 0 in Ghana: Borama, Port-au-Prince, Hengyang, Bengaluru, Weihai, Culiacan.",1
+"Exactly 0 of the following cities are in Italy and 5 in Colombia: Cucuta, Barranquilla, Ibague, Bucaramanga, Aracaju, Soacha.",1
+"Exactly 0 of the following cities are in Hungary and 2 in Canada: Mississauga, Zaria, Sorocaba, Calgary, Phnom Penh, Tokyo.",1
+"Exactly 0 of the following cities are in Iceland and 3 in Tanzania: Mbeya, Zunyi, Dar es Salaam, Qiqihar, Kharkiv, Zanzibar.",1
+"Exactly 1 of the following cities are in Algeria and 3 in the Philippines: Caloocan, Taicang, Ghaziabad, General Santos, Algiers, Quezon City.",1
+"Exactly 3 of the following cities are in Yemen and 2 in South Korea: Sanaa, Cheonan, Likasi, Taiz, Ibb, Kimhae.",1
+"Exactly 1 of the following cities are in Egypt and 4 in Kazakhstan: Shymkent, Astana, Aktobe, Almaty, Shubra al Khaymah, Binh Thanh.",1
+"Exactly 2 of the following cities are in Hungary and 1 in Brazil: Zhangzhou, Budapest, Mulenvos, Pest, Fortaleza, Hachioji.",1
+"Exactly 5 of the following cities are in Tanzania and 0 in the Philippines: Dodoma, Zanzibar, Assiut, Dar es Salaam, Arusha, Mbeya.",1
+"Exactly 1 of the following cities are in France and 5 in China: Guilin, Marseille, Wanxian, Chizhou, Luzhou, Zhangye.",1
+"Exactly 2 of the following cities are in Haiti and 3 in Turkey: Konya, Bursa, Eskisehir, Port-au-Prince, Kayseri, Gaziantep.",0
+"Exactly 5 of the following cities are in Somalia and 1 in Rwanda: Orenburg, Kigali, Nakuru, Frankfurt am Main, Cheongju-si, Erode.",0
+"Exactly 1 of the following cities are in Tonga and 3 in Kenya: Xuchang, Chuxiong, Zhoushan, Jeonju, Tolyatti, Qui Nhon.",0
+"Exactly 0 of the following cities are in South Korea and 0 in Côte d'Ivoire: Mengzi, Abobo, Lodz, Jinzhong, Guigang, Bandar Lampung.",0
+"Exactly 2 of the following cities are in Mozambique and 1 in the Democratic Republic of the Congo: Maputo, Kolwezi, Battagram, Beira, Guwahati, Sargodha.",1
+"Exactly 1 of the following cities are in Nicaragua and 1 in Eritrea: Asmara, Barnaul, Kobe, Zhongwei, Managua, Khartoum.",1
+"Exactly 4 of the following cities are in Germany and 0 in the Democratic Republic of the Congo: Aktobe, Munich, Huaihua, Piura, Koeln, Dortmund.",0
+"Exactly 4 of the following cities are in Mauritius and 2 in Malaysia: Bucharest, Chicago, Fort Worth, Cotonou, Pelentong, Qionghai.",0
+"Exactly 3 of the following cities are in Poland and 0 in Switzerland: Krakow, Wroclaw, Barranquilla, Jingmen, Toulouse, Lodz.",1
+"Exactly 1 of the following cities are in Iran and 1 in Canada: Bhopal, Arak, Tehran, Tabriz, Ahvaz, Mississauga.",0
+"Exactly 0 of the following cities are in Bangladesh and 5 in Tanzania: Comilla, Rajshahi, Khulna, Novosibirsk, Sultanah, Kermanshah.",0
+"Exactly 1 of the following cities are in Colombia and 4 in Rwanda: Kitakyushu, Esenler, Songjiang, Rajshahi, Toulouse, Cape Town.",0
+"Exactly 2 of the following cities are in Ukraine and 0 in Portugal: Teresina, Lviv, Sevastopol, Odesa, Dnipro, Kharkiv.",0
+"Exactly 3 of the following cities are in Angola and 0 in the Dominican Republic: Rangpur, Salta, Bhiwandi, Kikolo, Santiago de Queretaro, Ajmer.",0
+"Exactly 0 of the following cities are in Sudan and 3 in Zambia: Ndola, Nay Pyi Taw, Gujranwala, Kitwe, Zanzibar, Lusaka.",1
+"Exactly 2 of the following cities are in Colombia and 3 in South Korea: Hwaseong-si, Soacha, Goyang-si, Seoul, Barranquilla, Bauchi.",1
+"Exactly 2 of the following cities are in Iraq and 3 in Malawi: Mirpur Model Thana, Nasiriyah, Lilongwe, Basrah, Sulaymaniyah, Oslo.",0
+"Exactly 3 of the following cities are in Japan and 0 in Turkey: Bijie, Kumamoto, Tokyo, Dharavi, Utsunomiya, Conakry.",1
+"Exactly 5 of the following cities are in Angola and 0 in Japan: Tabriz, Cabinda, Kikolo, Calumbo, Golfe, Maianga.",1
+"Exactly 2 of the following cities are in Peru and 1 in Colombia: Lusaka, Chiclayo, Abidjan, Arak, Surakarta, Lyon.",0
+"Exactly 2 of the following cities are in Brazil and 2 in Sri Lanka: Baise, Kampala, Teresina, Aparecida de Goiania, Surakarta, Fortaleza.",0
+"Exactly 3 of the following cities are in Turkey and 2 in Bulgaria: Jieyang, Goiania, Makkah, Antalya, Cankaya, Niigata.",0
+"Exactly 5 of the following cities are in Egypt and 0 in the Democratic Republic of the Congo: Assiut, Al Mahallah al Kubra, Xuhui, Suez, Port Said, Shubra al Khaymah.",1
+"Exactly 1 of the following cities are in Mexico and 2 in the Maldives: Vladivostok, Agege, Cimahi, Gujrat, Tonghua, Beira.",0
+"Exactly 5 of the following cities are in Tanzania and 1 in Croatia: Dodoma, Zagreb, Mbeya, Dar es Salaam, Zanzibar, Arusha.",1
+"Exactly 0 of the following cities are in Japan and 4 in the United States: Kisangani, Guli, Seattle, The Bronx, New York City, Fort Worth.",1
+"Exactly 1 of the following cities are in Guinea and 3 in Germany: Milwaukee, Vadodara, Leipzig, Conakry, Hannover, Frankfurt am Main.",1
+"Exactly 0 of the following cities are in Iran and 0 in Mozambique: Maputo, UEruemqi, Hamadan, Nampula, Selayang Baru Utara, Beira.",0
+"Exactly 3 of the following cities are in Mexico and 0 in Jordan: Zarqa, Amman, Shihezi, Tangerang, Irbid, Port Said.",0
+"Exactly 1 of the following cities are in Kenya and 0 in the Bahamas: Nouakchott, Peshawar, Nanded, Nairobi, Gold Coast, Kimhae.",1
+"Exactly 4 of the following cities are in Russia and 0 in France: Kemerovo, Shangqiu, Orenburg, Voronezh, Saint Petersburg, Hlaingthaya.",1
+"Exactly 1 of the following cities are in Zimbabwe and 4 in Malaysia: Iskandar Puteri, Adachi, Kuala Lumpur, Bulawayo, Shah Alam, Selayang Baru Utara.",1
+"Exactly 4 of the following cities are in Japan and 2 in Uzbekistan: Tokyo, Samarkand, Itabashi, Andijon, Setagaya, Utsunomiya.",1
+"Exactly 1 of the following cities are in Jordan and 5 in Egypt: Shubra al Khaymah, Suez, Port Said, Assiut, Irbid, Al Fayyum.",1
+"Exactly 0 of the following cities are in Germany and 4 in Kuwait: Dortmund, Duesseldorf, Seongnam-si, Hannover, Saitama, Leipzig.",0
+"Exactly 2 of the following cities are in the United Arab Emirates and 4 in Nigeria: Sokoto, Kaduna, Ile-Ife, Al Ain City, Sharjah, Ebute Ikorodu.",1
+"Exactly 2 of the following cities are in South Korea and 2 in Sierra Leone: Seongnam-si, Copenhagen, Ansan-si, Daejeon, Santiago de los Caballeros, Yunfu.",0
+"Exactly 3 of the following cities are in Zambia and 0 in the Republic of the Congo: Winnipeg, Mirpur Model Thana, Kitwe, Shihezi, Lusaka, Ndola.",1
+"Exactly 1 of the following cities are in Algeria and 5 in Saudi Arabia: Ha'il, Ta'if, Algiers, Jeddah, Sultanah, Najran.",1
+"Exactly 3 of the following cities are in Germany and 3 in the United Arab Emirates: Sharjah, Hannover, Abu Dhabi, Leipzig, Dortmund, Al Ain City.",1
+"Exactly 0 of the following cities are in Cambodia and 4 in Iran: Tabriz, Bouake, Isfahan, Hanzhong, Hamadan, Zahedan.",1

@@ -1,0 +1,1464 @@
+split,row,statement,label,answer_verdict,think_verdict,model_verdict,verdict_source
+train,0,The city of Xining is in China.,1,1.0,1.0,1.0,answer_line
+train,1,The city of Eskisehir is in Mauritania.,0,0.0,0.0,0.0,answer_line
+train,2,The city of Conakry is in Guinea.,1,1.0,1.0,1.0,answer_line
+train,3,The city of Huaihua is in Djibouti.,0,0.0,,0.0,answer_line
+train,4,The city of Benguela is in India.,0,0.0,,0.0,answer_line
+train,5,The city of Coyoacan is in India.,0,0.0,0.0,0.0,answer_line
+train,6,The city of Diyarbakir is in India.,0,0.0,,0.0,answer_line
+train,7,The city of Rui'an is in Japan.,0,1.0,1.0,1.0,answer_line
+train,8,The city of Almaty is in Turkey.,0,0.0,0.0,0.0,answer_line
+train,9,The city of Tonghua is in China.,1,1.0,1.0,1.0,answer_line
+train,10,The city of Nova Iguacu is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,11,The city of Huizhou is in Japan.,0,1.0,1.0,1.0,answer_line
+train,12,The city of Xinyang is in Chad.,0,0.0,,0.0,answer_line
+train,13,The city of Voronezh is in Russia.,1,1.0,1.0,1.0,answer_line
+train,14,The city of Mbuji-Mayi is in Somalia.,0,1.0,,1.0,answer_line
+train,15,The city of Pontianak is in India.,0,0.0,,0.0,answer_line
+train,16,The city of Ujjain is in India.,1,1.0,1.0,1.0,answer_line
+train,17,The city of Maceio is in China.,0,0.0,,0.0,answer_line
+train,18,The city of Harare is in Zimbabwe.,1,1.0,1.0,1.0,answer_line
+train,19,The city of Madinah is in Malaysia.,0,0.0,,0.0,answer_line
+train,20,The city of Fortaleza is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,21,The city of Jiamusi is in Lebanon.,0,0.0,,0.0,answer_line
+train,22,The city of Kharkiv is in Ukraine.,1,1.0,1.0,1.0,answer_line
+train,23,The city of Serang is in Indonesia.,1,0.0,,0.0,answer_line
+train,24,The city of Da Nang is in Vietnam.,1,1.0,1.0,1.0,answer_line
+train,25,The city of Dharavi is in Venezuela.,0,0.0,,0.0,answer_line
+train,26,The city of Hezhou is in Brazil.,0,0.0,,0.0,answer_line
+train,27,The city of Saratov is in Egypt.,0,0.0,,0.0,answer_line
+train,28,The city of Kuala Lumpur is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,29,The city of Surakarta is in Pakistan.,0,0.0,,0.0,answer_line
+train,30,The city of New South Memphis is in South Korea.,0,0.0,0.0,0.0,answer_line
+train,31,The city of Zhengzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,32,The city of Songjiang is in Ukraine.,0,0.0,,0.0,answer_line
+train,33,The city of Quetta is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,34,The city of Seongnam-si is in Ukraine.,0,0.0,,0.0,answer_line
+train,35,The city of Jingmen is in China.,1,1.0,1.0,1.0,answer_line
+train,36,The city of Enugu is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,37,The city of Okara is in China.,0,0.0,0.0,0.0,answer_line
+train,38,The city of Konya is in Turkey.,1,1.0,,1.0,answer_line
+train,39,The city of Banjarmasin is in Nigeria.,0,0.0,,0.0,answer_line
+train,40,The city of Deyang is in India.,0,0.0,,0.0,answer_line
+train,41,The city of Dehradun is in India.,1,0.0,,0.0,answer_line
+train,42,The city of Yangquan is in China.,1,1.0,1.0,1.0,answer_line
+train,43,The city of Novosibirsk is in Russia.,1,1.0,,1.0,answer_line
+train,44,The city of Pingdingshan is in China.,1,1.0,1.0,1.0,answer_line
+train,45,The city of Taguig is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,46,The city of Nagoya is in Japan.,1,0.0,,0.0,answer_line
+train,47,The city of Leon de los Aldama is in Somalia.,0,0.0,,0.0,answer_line
+train,48,The city of Longyan is in China.,1,1.0,,1.0,answer_line
+train,49,The city of Bursa is in Turkey.,1,1.0,1.0,1.0,answer_line
+train,50,The city of Erode is in India.,1,1.0,1.0,1.0,answer_line
+train,51,The city of South Tangerang is in Indonesia.,1,1.0,1.0,1.0,answer_line
+train,52,The city of Hlaingthaya is in Myanmar.,1,0.0,,0.0,answer_line
+train,53,The city of Yingkou is in Malaysia.,0,0.0,,0.0,answer_line
+train,54,The city of Vientiane is in Indonesia.,0,0.0,,0.0,answer_line
+train,55,The city of Faridabad is in India.,1,1.0,1.0,1.0,answer_line
+train,56,The city of Quezon City is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,57,The city of Foshan is in China.,1,1.0,1.0,1.0,answer_line
+train,58,The city of Mumbai is in Vietnam.,0,0.0,,0.0,answer_line
+train,59,The city of Hamhung is in Turkey.,0,0.0,,0.0,answer_line
+train,60,The city of Muzaffarabad is in India.,0,0.0,,0.0,answer_line
+train,61,The city of Tonghua is in Tajikistan.,0,0.0,,0.0,answer_line
+train,62,The city of Taicang is in Nigeria.,0,0.0,,0.0,answer_line
+train,63,The city of Shangqiu is in Uzbekistan.,0,0.0,,0.0,answer_line
+train,64,The city of Yongzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,65,The city of Heze is in China.,1,1.0,1.0,1.0,answer_line
+train,66,The city of Lu'an is in China.,1,1.0,1.0,1.0,answer_line
+train,67,The city of Dar es Salaam is in the Philippines.,0,0.0,,0.0,answer_line
+train,68,The city of Kunming is in China.,1,1.0,,1.0,answer_line
+train,69,The city of Tehran is in Iran.,1,1.0,1.0,1.0,answer_line
+train,70,The city of Wuzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,71,The city of Lilongwe is in Malawi.,1,1.0,1.0,1.0,answer_line
+train,72,The city of Sultanah is in Saudi Arabia.,1,0.0,,0.0,answer_line
+train,73,The city of Onitsha is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,74,The city of Vijayawada is in Turkey.,0,0.0,,0.0,answer_line
+train,75,The city of Ar Raqqah is in Syria.,1,1.0,,1.0,answer_line
+train,76,The city of Koeln is in Kyrgyzstan.,0,0.0,0.0,0.0,answer_line
+train,77,The city of Kozhikode is in Yemen.,0,0.0,,0.0,answer_line
+train,78,The city of Kota Kuala Muda is in Malaysia.,1,0.0,,0.0,answer_line
+train,79,The city of Mbuji-Mayi is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,80,The city of Shuangyashan is in India.,0,0.0,,0.0,answer_line
+train,81,The city of Irbid is in Jordan.,1,1.0,1.0,1.0,answer_line
+train,82,The city of Sungai Petani is in Malawi.,0,0.0,0.0,0.0,answer_line
+train,83,The city of E'zhou is in China.,1,1.0,1.0,1.0,answer_line
+train,84,The city of Rawalpindi is in Pakistan.,1,0.0,,0.0,answer_line
+train,85,The city of Yongzhou is in the Philippines.,0,0.0,,0.0,answer_line
+train,86,The city of Las Pinas is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,87,The city of Uberlandia is in Brazil.,1,0.0,,0.0,answer_line
+train,88,The city of Bishkek is in Iraq.,0,0.0,0.0,0.0,answer_line
+train,89,The city of Acapulco de Juarez is in Mali.,0,0.0,0.0,0.0,answer_line
+train,90,The city of Tomsk is in Russia.,1,1.0,1.0,1.0,answer_line
+train,91,The city of Bengbu is in China.,1,0.0,,0.0,answer_line
+train,92,The city of Ciudad Guayana is in Venezuela.,1,0.0,,0.0,answer_line
+train,93,The city of Kikwit is in the Democratic Republic of the Congo.,1,1.0,,1.0,answer_line
+train,94,The city of Helsinki is in Finland.,1,1.0,,1.0,answer_line
+train,95,The city of Yangon is in Myanmar.,1,1.0,1.0,1.0,answer_line
+train,96,The city of Ilorin is in India.,0,0.0,,0.0,answer_line
+train,97,The city of Kolwezi is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,98,The city of Ulanqab is in China.,1,1.0,,1.0,answer_line
+train,99,The city of Esenler is in Turkey.,1,1.0,,1.0,answer_line
+train,100,The city of Nakuru is in Kenya.,1,0.0,,0.0,answer_line
+train,101,The city of Piura is in China.,0,0.0,,0.0,answer_line
+train,102,The city of Ryazan' is in Russia.,1,0.0,0.0,0.0,answer_line
+train,103,The city of Nairobi is in Vietnam.,0,0.0,,0.0,answer_line
+train,104,The city of Lodz is in China.,0,0.0,,0.0,answer_line
+train,105,The city of Neijiang is in China.,1,1.0,,1.0,answer_line
+train,106,The city of Suginami is in China.,0,0.0,,0.0,answer_line
+train,107,The city of Zhoushan is in Jordan.,0,0.0,,0.0,answer_line
+train,108,The city of Qingpu is in Turkey.,0,0.0,,0.0,answer_line
+train,109,The city of Ryazan' is in Saudi Arabia.,0,0.0,,0.0,answer_line
+train,110,The city of Isfahan is in Iran.,1,1.0,,1.0,answer_line
+train,111,The city of Liuzhou is in India.,0,0.0,,0.0,answer_line
+train,112,The city of Dombivali is in Iraq.,0,0.0,,0.0,answer_line
+train,113,The city of Contagem is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,114,The city of Mexico City is in Guatemala.,0,0.0,,0.0,answer_line
+train,115,The city of Nanning is in Iraq.,0,0.0,,0.0,answer_line
+train,116,The city of Shangluo is in Saudi Arabia.,0,0.0,,0.0,answer_line
+train,117,The city of Anyang-si is in South Korea.,1,1.0,,1.0,answer_line
+train,118,The city of Callao is in Brazil.,0,0.0,,0.0,answer_line
+train,119,The city of Las Pinas is in Turkey.,0,0.0,,0.0,answer_line
+train,120,The city of Rostov-on-Don is in Russia.,1,0.0,,0.0,answer_line
+train,121,The city of Adachi is in Jamaica.,0,0.0,,0.0,answer_line
+train,122,The city of Agadir is in Morocco.,1,1.0,,1.0,answer_line
+train,123,The city of Balikpapan is in Ukraine.,0,0.0,,0.0,answer_line
+train,124,The city of Jiaozhou is in Ecuador.,0,0.0,,0.0,answer_line
+train,125,The city of Suining is in China.,1,1.0,1.0,1.0,answer_line
+train,126,The city of Sao Bernardo do Campo is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,127,The city of Aihara is in Japan.,1,1.0,1.0,1.0,answer_line
+train,128,The city of Wuwei is in China.,1,0.0,,0.0,answer_line
+train,129,The city of Seattle is in China.,0,0.0,,0.0,answer_line
+train,130,The city of Itabashi is in China.,0,0.0,,0.0,answer_line
+train,131,The city of Qingdao is in China.,1,1.0,1.0,1.0,answer_line
+train,132,The city of Najran is in Saudi Arabia.,1,1.0,,1.0,answer_line
+train,133,The city of Saratov is in Russia.,1,0.0,,0.0,answer_line
+train,134,The city of Islamabad is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,135,The city of Zaozhuang is in South Korea.,0,0.0,,0.0,answer_line
+train,136,The city of Makassar is in Indonesia.,1,1.0,,1.0,answer_line
+train,137,The city of Calumbo is in Brazil.,0,0.0,,0.0,answer_line
+train,138,The city of Nellore is in India.,1,1.0,1.0,1.0,answer_line
+train,139,The city of Barranquilla is in Colombia.,1,1.0,,1.0,answer_line
+train,140,The city of Qom is in China.,0,0.0,,0.0,answer_line
+train,141,The city of Brasilia is in Brazil.,1,1.0,,1.0,answer_line
+train,142,The city of Marseille is in China.,0,0.0,,0.0,answer_line
+train,143,The city of Nuremberg is in Germany.,1,1.0,1.0,1.0,answer_line
+train,144,The city of Yichang is in China.,1,1.0,1.0,1.0,answer_line
+train,145,The city of Nanchong is in Malaysia.,0,0.0,,0.0,answer_line
+train,146,The city of Denpasar is in Indonesia.,1,0.0,,0.0,answer_line
+train,147,The city of Chelyabinsk is in Russia.,1,0.0,,0.0,answer_line
+train,148,The city of Libreville is in the Philippines.,0,0.0,,0.0,answer_line
+train,149,The city of Muzaffarabad is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,150,The city of Weinan is in Ukraine.,0,0.0,,0.0,answer_line
+train,151,The city of Chengdu is in China.,1,1.0,1.0,1.0,answer_line
+train,152,The city of Bekasi is in Indonesia.,1,0.0,,0.0,answer_line
+train,153,The city of Nay Pyi Taw is in Myanmar.,1,1.0,1.0,1.0,answer_line
+train,154,The city of Al Fayyum is in Malaysia.,0,0.0,,0.0,answer_line
+train,155,The city of Nouakchott is in Mauritania.,1,1.0,,1.0,answer_line
+train,156,The city of Chisinau is in Moldova.,1,1.0,,1.0,answer_line
+train,157,The city of Mengzi is in Venezuela.,0,0.0,0.0,0.0,answer_line
+train,158,The city of New South Memphis is in the United States.,1,1.0,1.0,1.0,answer_line
+train,159,The city of Faridabad is in Indonesia.,0,0.0,,0.0,answer_line
+train,160,The city of Binh Thanh is in Vietnam.,1,1.0,1.0,1.0,answer_line
+train,161,The city of Juiz de Fora is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,162,The city of Florianopolis is in the United States.,0,0.0,,0.0,answer_line
+train,163,The city of Antananarivo is in Madagascar.,1,1.0,,1.0,answer_line
+train,164,The city of Teresina is in Brazil.,1,1.0,,1.0,answer_line
+train,165,The city of UEskuedar is in Turkey.,1,0.0,,0.0,answer_line
+train,166,The city of Sanmenxia is in India.,0,0.0,,0.0,answer_line
+train,167,The city of Maoming is in Colombia.,0,0.0,,0.0,answer_line
+train,168,The city of Gurugram is in Germany.,0,0.0,,0.0,answer_line
+train,169,The city of Kalaburagi is in India.,1,1.0,1.0,1.0,answer_line
+train,170,The city of Sukkur is in the Philippines.,0,0.0,,0.0,answer_line
+train,171,The city of Tangerang is in Indonesia.,1,1.0,1.0,1.0,answer_line
+train,172,The city of Gurugram is in India.,1,1.0,,1.0,answer_line
+train,173,The city of Maturin is in Venezuela.,1,0.0,,0.0,answer_line
+train,174,The city of Malingao is in the Philippines.,1,0.0,,0.0,answer_line
+train,175,The city of Lueliang is in China.,1,0.0,0.0,0.0,answer_line
+train,176,The city of Andijon is in Uzbekistan.,1,1.0,,1.0,answer_line
+train,177,The city of Jiaxing is in China.,1,1.0,,1.0,answer_line
+train,178,The city of Kermanshah is in Iran.,1,1.0,1.0,1.0,answer_line
+train,179,The city of Islamabad is in New Zealand.,0,0.0,,0.0,answer_line
+train,180,The city of Pekanbaru is in Indonesia.,1,1.0,,1.0,answer_line
+train,181,The city of Changchun is in Pakistan.,0,0.0,0.0,0.0,answer_line
+train,182,The city of Can Tho is in Vietnam.,1,1.0,1.0,1.0,answer_line
+train,183,The city of Makassar is in Colombia.,0,0.0,,0.0,answer_line
+train,184,The city of Marseille is in France.,1,1.0,1.0,1.0,answer_line
+train,185,The city of Bhayandar is in China.,0,0.0,,0.0,answer_line
+train,186,The city of Luohu District is in China.,1,1.0,1.0,1.0,answer_line
+train,187,The city of Kaifeng is in China.,1,0.0,,0.0,answer_line
+train,188,The city of Changde is in India.,0,0.0,,0.0,answer_line
+train,189,The city of Muntinlupa is in China.,0,0.0,,0.0,answer_line
+train,190,The city of Sofia is in Bulgaria.,1,1.0,1.0,1.0,answer_line
+train,191,The city of Pasir Gudang is in Côte d'Ivoire.,0,0.0,,0.0,answer_line
+train,192,The city of Fushun is in Indonesia.,0,0.0,,0.0,answer_line
+train,193,The city of Rangpur is in Bosnia and Herzegovina.,0,0.0,,0.0,answer_line
+train,194,The city of Gaziantep is in Ghana.,0,0.0,,0.0,answer_line
+train,195,The city of Qionghai is in Tanzania.,0,0.0,,0.0,answer_line
+train,196,The city of Amritsar is in China.,0,0.0,,0.0,answer_line
+train,197,The city of Jinan is in China.,1,1.0,1.0,1.0,answer_line
+train,198,The city of Jilin is in China.,1,1.0,1.0,1.0,answer_line
+train,199,The city of Cape Town is in Pakistan.,0,0.0,,0.0,answer_line
+train,200,The city of Xinyu is in India.,0,0.0,,0.0,answer_line
+train,201,The city of Meknes is in Morocco.,1,1.0,1.0,1.0,answer_line
+train,202,The city of Bandar Lampung is in Vietnam.,0,0.0,,0.0,answer_line
+train,203,The city of Huzhou is in South Korea.,0,0.0,,0.0,answer_line
+train,204,The city of Puducherry is in India.,1,1.0,,1.0,answer_line
+train,205,The city of Nanded is in India.,1,1.0,,1.0,answer_line
+train,206,The city of Subang Jaya is in Germany.,0,0.0,,0.0,answer_line
+train,207,The city of Hue is in Vietnam.,1,1.0,1.0,1.0,answer_line
+train,208,The city of Nowrangapur is in Ukraine.,0,0.0,,0.0,answer_line
+train,209,The city of New Kingston is in Jordan.,0,0.0,,0.0,answer_line
+train,210,The city of Shaoxing is in China.,1,1.0,1.0,1.0,answer_line
+train,211,The city of San Miguel de Tucuman is in Argentina.,1,1.0,,1.0,answer_line
+train,212,The city of Arusha is in Vietnam.,0,0.0,,0.0,answer_line
+train,213,The city of Mersin is in Turkey.,1,1.0,,1.0,answer_line
+train,214,The city of Barquisimeto is in Venezuela.,1,1.0,1.0,1.0,answer_line
+train,215,The city of Lianyungang is in Mozambique.,0,0.0,,0.0,answer_line
+train,216,The city of Malacca is in Malaysia.,1,1.0,,1.0,answer_line
+train,217,The city of Xianning is in Russia.,0,0.0,,0.0,answer_line
+train,218,The city of Bannu is in Senegal.,0,0.0,0.0,0.0,answer_line
+train,219,The city of Hangzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,220,The city of Odesa is in Ukraine.,1,1.0,1.0,1.0,answer_line
+train,221,The city of Dnipro is in Ukraine.,1,0.0,,0.0,answer_line
+train,222,The city of Katsina is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,223,The city of Khartoum is in India.,0,0.0,,0.0,answer_line
+train,224,The city of Sanmenxia is in China.,1,1.0,,1.0,answer_line
+train,225,The city of Kashgar is in Peru.,0,0.0,0.0,0.0,answer_line
+train,226,The city of Asansol is in China.,0,0.0,,0.0,answer_line
+train,227,The city of Makkah is in Myanmar.,0,0.0,,0.0,answer_line
+train,228,The city of Kyoto is in Japan.,1,1.0,1.0,1.0,answer_line
+train,229,The city of Anshan is in China.,1,1.0,1.0,1.0,answer_line
+train,230,The city of Al Mawsil al Jadidah is in the United States.,0,0.0,,0.0,answer_line
+train,231,The city of Cheongju-si is in Japan.,0,0.0,,0.0,answer_line
+train,232,The city of Osogbo is in Malaysia.,0,0.0,,0.0,answer_line
+train,233,The city of Hanzhong is in Nigeria.,0,0.0,,0.0,answer_line
+train,234,The city of Taicang is in China.,1,1.0,1.0,1.0,answer_line
+train,235,The city of Zhongwei is in China.,1,1.0,,1.0,answer_line
+train,236,The city of Porto Alegre is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,237,The city of Chizhou is in China.,1,1.0,,1.0,answer_line
+train,238,The city of Kigali is in Rwanda.,1,1.0,1.0,1.0,answer_line
+train,239,The city of Tangier is in Egypt.,0,0.0,,0.0,answer_line
+train,240,The city of Thembisa is in Yemen.,0,0.0,,0.0,answer_line
+train,241,The city of Santo Domingo Este is in the Philippines.,0,1.0,1.0,1.0,answer_line
+train,242,The city of Sagamihara is in China.,0,0.0,0.0,0.0,answer_line
+train,243,The city of Ananindeua is in Iran.,0,1.0,1.0,1.0,answer_line
+train,244,The city of Rasapudipalem is in India.,1,0.0,,0.0,answer_line
+train,245,The city of Kaduna is in India.,0,0.0,,0.0,answer_line
+train,246,The city of Bahawalpur is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,247,The city of Pingliang is in China.,1,1.0,,1.0,answer_line
+train,248,The city of Kitwe is in Zambia.,1,1.0,,1.0,answer_line
+train,249,The city of Karol Bagh is in India.,1,1.0,1.0,1.0,answer_line
+train,250,The city of Karbala is in Iraq.,1,1.0,,1.0,answer_line
+train,251,The city of Lilongwe is in Cameroon.,0,0.0,,0.0,answer_line
+train,252,The city of Warangal is in Myanmar.,0,0.0,,0.0,answer_line
+train,253,The city of Ouagadougou is in Egypt.,0,0.0,,0.0,answer_line
+train,254,The city of Bengaluru is in Vietnam.,0,0.0,,0.0,answer_line
+train,255,The city of Fort Worth is in the United States.,1,1.0,1.0,1.0,answer_line
+train,256,The city of Niluefer is in Turkey.,1,1.0,1.0,1.0,answer_line
+train,257,The city of Zibo is in Bangladesh.,0,0.0,,0.0,answer_line
+train,258,The city of Linfen is in China.,1,1.0,1.0,1.0,answer_line
+train,259,The city of Hermosillo is in Mexico.,1,1.0,1.0,1.0,answer_line
+train,260,The city of Beirut is in Lebanon.,1,0.0,,0.0,answer_line
+train,261,The city of Sapporo is in Turkey.,0,0.0,,0.0,answer_line
+train,262,The city of Feira de Santana is in Vietnam.,0,0.0,,0.0,answer_line
+train,263,The city of Chuzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,264,The city of Detroit is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,265,The city of Soacha is in India.,0,0.0,,0.0,answer_line
+train,266,The city of Agege is in Nigeria.,1,0.0,,0.0,answer_line
+train,267,The city of Kalyan is in China.,0,0.0,,0.0,answer_line
+train,268,The city of Bahawalpur is in Myanmar.,0,0.0,0.0,0.0,answer_line
+train,269,The city of Guwahati is in China.,0,0.0,,0.0,answer_line
+train,270,The city of Prayagraj is in India.,1,1.0,1.0,1.0,answer_line
+train,271,The city of Maturin is in Brazil.,0,0.0,,0.0,answer_line
+train,272,The city of Vilnius is in Lithuania.,1,1.0,,1.0,answer_line
+train,273,The city of Orumiyeh is in Iran.,1,1.0,1.0,1.0,answer_line
+train,274,The city of Heroica Matamoros is in China.,0,0.0,,0.0,answer_line
+train,275,The city of Porto Alegre is in China.,0,0.0,0.0,0.0,answer_line
+train,276,The city of Quebec is in India.,0,0.0,,0.0,answer_line
+train,277,The city of Xuancheng is in China.,1,0.0,,0.0,answer_line
+train,278,The city of Niteroi is in Brazil.,1,1.0,,1.0,answer_line
+train,279,The city of Gujrat is in Saudi Arabia.,0,0.0,,0.0,answer_line
+train,280,The city of Xuzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,281,The city of Selayang Baru Utara is in India.,0,1.0,1.0,1.0,answer_line
+train,282,The city of Lviv is in China.,0,0.0,,0.0,answer_line
+train,283,The city of Matola is in Mozambique.,1,1.0,1.0,1.0,answer_line
+train,284,The city of Bhayandar is in India.,1,1.0,1.0,1.0,answer_line
+train,285,The city of Lyon is in France.,1,1.0,1.0,1.0,answer_line
+train,286,The city of Guang'an is in Japan.,0,0.0,,0.0,answer_line
+train,287,The city of Zhabei is in China.,1,0.0,,0.0,answer_line
+train,288,The city of Jos is in India.,0,1.0,1.0,1.0,answer_line
+train,289,The city of Cuiaba is in China.,0,0.0,,0.0,answer_line
+train,290,The city of Foshan is in South Africa.,0,0.0,,0.0,answer_line
+train,291,The city of Niigata is in Japan.,1,1.0,1.0,1.0,answer_line
+train,292,The city of Hannover is in Germany.,1,1.0,1.0,1.0,answer_line
+train,293,The city of Zhuzhou is in China.,1,1.0,,1.0,answer_line
+train,294,The city of Culiacan is in Indonesia.,0,0.0,,0.0,answer_line
+train,295,The city of Hermosillo is in China.,0,0.0,,0.0,answer_line
+train,296,The city of Cagayan de Oro is in the United States.,0,0.0,0.0,0.0,answer_line
+train,297,The city of Puducherry is in China.,0,0.0,,0.0,answer_line
+train,298,The city of Cho Lon is in the Dominican Republic.,0,0.0,,0.0,answer_line
+train,299,The city of Seongnam-si is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,300,The city of Zaria is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,301,The city of Xingtai is in China.,1,1.0,1.0,1.0,answer_line
+train,302,The city of Tianshui is in Turkey.,0,0.0,,0.0,answer_line
+train,303,The city of Shihezi is in China.,1,1.0,1.0,1.0,answer_line
+train,304,The city of Amman is in Japan.,0,0.0,,0.0,answer_line
+train,305,The city of Subang Jaya is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,306,The city of Tlaquepaque is in Sudan.,0,0.0,,0.0,answer_line
+train,307,The city of Toulouse is in France.,1,1.0,1.0,1.0,answer_line
+train,308,The city of Kirkuk is in the United States.,0,0.0,,0.0,answer_line
+train,309,The city of Bamako is in Mali.,1,1.0,1.0,1.0,answer_line
+train,310,The city of Zaria is in Pakistan.,0,0.0,,0.0,answer_line
+train,311,The city of Al Basrah al Qadimah is in Iraq.,1,1.0,1.0,1.0,answer_line
+train,312,The city of Edogawe is in Ukraine.,0,1.0,1.0,1.0,answer_line
+train,313,The city of Bhubaneswar is in India.,1,1.0,1.0,1.0,answer_line
+train,314,The city of Tiruppur is in India.,1,1.0,1.0,1.0,answer_line
+train,315,The city of Zhongwei is in Jamaica.,0,0.0,,0.0,answer_line
+train,316,The city of Loni is in India.,1,0.0,,0.0,answer_line
+train,317,The city of Xuzhou is in India.,0,0.0,,0.0,answer_line
+train,318,The city of Shijiazhuang is in China.,1,1.0,1.0,1.0,answer_line
+train,319,The city of Camayenne is in Guinea.,1,0.0,,0.0,answer_line
+train,320,The city of Buraydah is in India.,0,0.0,,0.0,answer_line
+train,321,The city of Bouake is in China.,0,0.0,,0.0,answer_line
+train,322,The city of Kharkiv is in Iraq.,0,0.0,,0.0,answer_line
+train,323,The city of Bucheon-si is in Uzbekistan.,0,0.0,,0.0,answer_line
+train,324,The city of Hegang is in Kyrgyzstan.,0,0.0,,0.0,answer_line
+train,325,The city of Durban is in Eritrea.,0,0.0,0.0,0.0,answer_line
+train,326,The city of Penza is in Colombia.,0,0.0,,0.0,answer_line
+train,327,The city of Nellore is in Egypt.,0,0.0,,0.0,answer_line
+train,328,The city of Santiago de los Caballeros is in Bangladesh.,0,0.0,,0.0,answer_line
+train,329,The city of Naberezhnyye Chelny is in Russia.,1,1.0,1.0,1.0,answer_line
+train,330,The city of Bagcilar is in Turkey.,1,0.0,,0.0,answer_line
+train,331,The city of Jeonju is in South Korea.,1,1.0,,1.0,answer_line
+train,332,The city of Lubumbashi is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,333,The city of Luancheng is in China.,1,1.0,1.0,1.0,answer_line
+train,334,The city of Mudanjiang is in China.,1,1.0,,1.0,answer_line
+train,335,The city of Cucuta is in Nigeria.,0,0.0,0.0,0.0,answer_line
+train,336,The city of Deyang is in China.,1,1.0,1.0,1.0,answer_line
+train,337,The city of Krasnodar is in Russia.,1,1.0,1.0,1.0,answer_line
+train,338,The city of Lodz is in Poland.,1,1.0,1.0,1.0,answer_line
+train,339,The city of Tanggu is in China.,1,1.0,1.0,1.0,answer_line
+train,340,The city of Tasikmalaya is in China.,0,0.0,,0.0,answer_line
+train,341,The city of Cixi is in China.,1,1.0,1.0,1.0,answer_line
+train,342,The city of Kayseri is in Turkey.,1,1.0,1.0,1.0,answer_line
+train,343,The city of Ulan Bator is in Mongolia.,1,1.0,,1.0,answer_line
+train,344,The city of Weifang is in China.,1,0.0,,0.0,answer_line
+train,345,The city of Wuzhong is in China.,1,1.0,,1.0,answer_line
+train,346,The city of Conakry is in Sudan.,0,0.0,,0.0,answer_line
+train,347,The city of Omsk is in Russia.,1,0.0,,0.0,answer_line
+train,348,The city of Ndola is in Poland.,0,0.0,,0.0,answer_line
+train,349,The city of Thuan An is in China.,0,0.0,,0.0,answer_line
+train,350,The city of Guiyang is in China.,1,1.0,1.0,1.0,answer_line
+train,351,The city of Shizuoka is in Japan.,1,0.0,,0.0,answer_line
+train,352,The city of Ribeirao Preto is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,353,The city of Korla is in the United States.,0,1.0,,1.0,answer_line
+train,354,The city of Karaj is in Mexico.,0,0.0,,0.0,answer_line
+train,355,The city of Bilimora is in the United States.,0,0.0,,0.0,answer_line
+train,356,The city of Bogor is in Yemen.,0,0.0,,0.0,answer_line
+train,357,The city of Kisangani is in Mozambique.,0,0.0,,0.0,answer_line
+train,358,The city of Chennai is in Tanzania.,0,0.0,,0.0,answer_line
+train,359,The city of Tangier is in Morocco.,1,1.0,1.0,1.0,answer_line
+train,360,The city of Nagpur is in India.,1,1.0,1.0,1.0,answer_line
+train,361,The city of Korla is in China.,1,0.0,,0.0,answer_line
+train,362,The city of Yaounde is in China.,0,0.0,0.0,0.0,answer_line
+train,363,The city of Guiyang is in India.,0,0.0,,0.0,answer_line
+train,364,The city of Huaihua is in China.,1,1.0,1.0,1.0,answer_line
+train,365,The city of Osaka is in Indonesia.,0,0.0,,0.0,answer_line
+train,366,The city of Helsinki is in China.,0,0.0,,0.0,answer_line
+train,367,The city of Bukavu is in China.,0,0.0,,0.0,answer_line
+train,368,The city of Chuxiong is in Russia.,0,0.0,,0.0,answer_line
+train,369,The city of Ansan-si is in Afghanistan.,0,0.0,,0.0,answer_line
+train,370,The city of Pelentong is in India.,0,1.0,,1.0,answer_line
+train,371,The city of Kampung Baru Subang is in Malaysia.,1,1.0,,1.0,answer_line
+train,372,The city of Krakow is in Poland.,1,1.0,1.0,1.0,answer_line
+train,373,The city of Manaus is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,374,The city of Baku is in Azerbaijan.,1,1.0,,1.0,answer_line
+train,375,The city of Kobe is in Japan.,1,1.0,1.0,1.0,answer_line
+train,376,The city of Wanxian is in Syria.,0,0.0,,0.0,answer_line
+train,377,The city of Bucaramanga is in Turkey.,0,0.0,0.0,0.0,answer_line
+train,378,The city of Accra is in Ghana.,1,1.0,1.0,1.0,answer_line
+train,379,The city of Kitakyushu is in Nigeria.,0,0.0,,0.0,answer_line
+train,380,The city of Matola is in China.,0,0.0,,0.0,answer_line
+train,381,The city of Kemerovo is in Lebanon.,0,0.0,,0.0,answer_line
+train,382,The city of Pasir Gudang is in Malaysia.,1,0.0,,0.0,answer_line
+train,383,The city of Aleppo is in Syria.,1,1.0,,1.0,answer_line
+train,384,The city of Pontianak is in Indonesia.,1,1.0,,1.0,answer_line
+train,385,The city of Nagoya is in India.,0,0.0,,0.0,answer_line
+train,386,The city of Vladivostok is in Russia.,1,0.0,,0.0,answer_line
+train,387,The city of Petaling Jaya is in Malaysia.,1,1.0,,1.0,answer_line
+train,388,The city of Tolyatti is in China.,0,0.0,,0.0,answer_line
+train,389,The city of Bareilly is in India.,1,1.0,1.0,1.0,answer_line
+train,390,The city of Accra is in Mozambique.,0,0.0,,0.0,answer_line
+train,391,The city of Nyala is in China.,0,0.0,,0.0,answer_line
+train,392,The city of Kanayannur is in India.,1,0.0,,0.0,answer_line
+train,393,The city of Goyang-si is in Brazil.,0,0.0,,0.0,answer_line
+train,394,The city of Maoming is in China.,1,1.0,,1.0,answer_line
+train,395,The city of Binh Thanh is in Brazil.,0,0.0,0.0,0.0,answer_line
+train,396,The city of Qui Nhon is in Jordan.,0,0.0,,0.0,answer_line
+train,397,The city of Najafgarh is in India.,1,1.0,,1.0,answer_line
+train,398,The city of Mandalay is in Myanmar.,1,1.0,1.0,1.0,answer_line
+train,399,The city of Calgary is in China.,0,0.0,,0.0,answer_line
+train,400,The city of Contagem is in China.,0,0.0,,0.0,answer_line
+train,401,The city of Madurai is in China.,0,0.0,0.0,0.0,answer_line
+train,402,The city of Ningbo is in China.,1,1.0,1.0,1.0,answer_line
+train,403,The city of Malatya is in Iran.,0,0.0,,0.0,answer_line
+train,404,The city of Cheonan is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,405,The city of Sialkot is in Pakistan.,1,0.0,,0.0,answer_line
+train,406,The city of Jiaozhou is in China.,1,1.0,1.0,1.0,answer_line
+train,407,The city of Tolyatti is in Russia.,1,0.0,,0.0,answer_line
+train,408,The city of Can Tho is in China.,0,0.0,,0.0,answer_line
+train,409,The city of Jeonju is in Egypt.,0,0.0,,0.0,answer_line
+train,410,The city of Ganzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,411,The city of Liuzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,412,The city of Jieyang is in Russia.,0,1.0,,1.0,answer_line
+train,413,The city of Tiruppur is in Russia.,0,0.0,,0.0,answer_line
+train,414,The city of Bareilly is in North Korea.,0,0.0,,0.0,answer_line
+train,415,The city of Mexicali is in Mexico.,1,1.0,,1.0,answer_line
+train,416,The city of Mukim Pulai is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,417,The city of Pokhara is in Nepal.,1,0.0,,0.0,answer_line
+train,418,The city of Yinchuan is in China.,1,0.0,,0.0,answer_line
+train,419,The city of Erode is in Guinea.,0,0.0,,0.0,answer_line
+train,420,The city of Coimbatore is in India.,1,1.0,,1.0,answer_line
+train,421,The city of Jabalpur is in India.,1,1.0,,1.0,answer_line
+train,422,The city of Arifwala is in Pakistan.,1,0.0,,0.0,answer_line
+train,423,The city of Caloocan is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,424,The city of Camama is in Russia.,0,1.0,1.0,1.0,answer_line
+train,425,The city of Neijiang is in Afghanistan.,0,0.0,,0.0,answer_line
+train,426,The city of Rui'an is in China.,1,1.0,1.0,1.0,answer_line
+train,427,The city of Qinzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,428,The city of Manaus is in Malaysia.,0,0.0,,0.0,answer_line
+train,429,The city of Detroit is in the United States.,1,1.0,1.0,1.0,answer_line
+train,430,The city of Recife is in Brazil.,1,0.0,,0.0,answer_line
+train,431,The city of Homs is in Syria.,1,1.0,1.0,1.0,answer_line
+train,432,The city of Tshikapa is in South Korea.,0,0.0,,0.0,answer_line
+train,433,The city of Lueliang is in India.,0,0.0,,0.0,answer_line
+train,434,The city of Torreon is in Honduras.,0,0.0,,0.0,answer_line
+train,435,The city of Linfen is in Russia.,0,0.0,,0.0,answer_line
+train,436,The city of Mysuru is in India.,1,1.0,1.0,1.0,answer_line
+train,437,The city of Nouakchott is in Morocco.,0,0.0,,0.0,answer_line
+train,438,The city of Kisangani is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,439,The city of Yangjiang is in China.,1,1.0,,1.0,answer_line
+train,440,The city of Nanjing is in India.,0,0.0,,0.0,answer_line
+train,441,The city of Mississauga is in Canada.,1,0.0,,0.0,answer_line
+train,442,The city of Rohini is in India.,1,1.0,,1.0,answer_line
+train,443,The city of Shah Alam is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,444,The city of Ibague is in Colombia.,1,1.0,,1.0,answer_line
+train,445,The city of Makhachkala is in China.,0,0.0,,0.0,answer_line
+train,446,The city of Al Ain City is in the United Arab Emirates.,1,1.0,,1.0,answer_line
+train,447,The city of San Miguel de Tucuman is in China.,0,0.0,,0.0,answer_line
+train,448,The city of Liupanshui is in China.,1,1.0,1.0,1.0,answer_line
+train,449,The city of Maianga is in China.,0,0.0,,0.0,answer_line
+train,450,The city of Sholapur is in India.,1,1.0,1.0,1.0,answer_line
+train,451,The city of Zhenjiang is in Norway.,0,0.0,,0.0,answer_line
+train,452,The city of Suez is in China.,0,0.0,,0.0,answer_line
+train,453,The city of Dalian is in India.,0,0.0,,0.0,answer_line
+train,454,The city of Londrina is in Brazil.,1,1.0,,1.0,answer_line
+train,455,The city of Odesa is in Pakistan.,0,0.0,0.0,0.0,answer_line
+train,456,The city of Port-au-Prince is in Haiti.,1,1.0,1.0,1.0,answer_line
+train,457,The city of Zapopan is in Angola.,0,0.0,,0.0,answer_line
+train,458,The city of Surat is in India.,1,0.0,,0.0,answer_line
+train,459,The city of Kobe is in China.,0,0.0,,0.0,answer_line
+train,460,The city of Ho Chi Minh City is in Vietnam.,1,1.0,,1.0,answer_line
+train,461,The city of Kananga is in China.,0,0.0,,0.0,answer_line
+train,462,The city of Wuhan is in Nigeria.,0,0.0,,0.0,answer_line
+train,463,The city of Wuzhong is in Vietnam.,0,0.0,,0.0,answer_line
+train,464,The city of Soshanguve is in India.,0,0.0,,0.0,answer_line
+train,465,The city of Shaoguan is in China.,1,1.0,1.0,1.0,answer_line
+train,466,The city of Anqing is in India.,0,0.0,,0.0,answer_line
+train,467,The city of Kimhae is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,468,The city of Anshan is in Pakistan.,0,0.0,,0.0,answer_line
+train,469,The city of Zarqa is in Jordan.,1,1.0,1.0,1.0,answer_line
+train,470,The city of Zhoushan is in China.,1,1.0,1.0,1.0,answer_line
+train,471,The city of Tegucigalpa is in Honduras.,1,1.0,1.0,1.0,answer_line
+train,472,The city of Vilnius is in Ukraine.,0,0.0,,0.0,answer_line
+train,473,The city of Bikaner is in Egypt.,0,0.0,,0.0,answer_line
+train,474,The city of Pasig City is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,475,The city of Malang is in Angola.,0,0.0,,0.0,answer_line
+train,476,The city of Yibin is in Canada.,0,0.0,,0.0,answer_line
+train,477,The city of Borivli is in Azerbaijan.,0,1.0,1.0,1.0,answer_line
+train,478,The city of Adachi is in Japan.,1,1.0,1.0,1.0,answer_line
+train,479,The city of Warri is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,480,The city of Sao Jose dos Campos is in Uganda.,0,0.0,0.0,0.0,answer_line
+train,481,The city of Bobo-Dioulasso is in Malaysia.,0,0.0,,0.0,answer_line
+train,482,The city of Homyel' is in Belarus.,1,1.0,1.0,1.0,answer_line
+train,483,The city of Ilorin is in Nigeria.,1,1.0,,1.0,answer_line
+train,484,The city of Quito is in Ecuador.,1,1.0,1.0,1.0,answer_line
+train,485,The city of Oujda is in Morocco.,1,0.0,,0.0,answer_line
+train,486,The city of Budapest is in South Korea.,0,0.0,,0.0,answer_line
+train,487,The city of Sanaa is in Yemen.,1,0.0,,0.0,answer_line
+train,488,The city of Hamamatsu is in Russia.,0,0.0,,0.0,answer_line
+train,489,The city of Ranchi is in China.,0,0.0,,0.0,answer_line
+train,490,The city of Kota Bharu is in Malaysia.,1,1.0,,1.0,answer_line
+train,491,The city of Kallakurichi is in Germany.,0,0.0,,0.0,answer_line
+train,492,The city of Daxing'anling is in China.,1,1.0,1.0,1.0,answer_line
+train,493,The city of Osogbo is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,494,The city of Bandar Lampung is in Indonesia.,1,1.0,,1.0,answer_line
+train,495,The city of Battagram is in Pakistan.,1,0.0,,0.0,answer_line
+train,496,The city of Marrakesh is in Morocco.,1,1.0,,1.0,answer_line
+train,497,The city of Johannesburg is in Japan.,0,0.0,,0.0,answer_line
+train,498,The city of Incheon is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,499,The city of Ulanqab is in Pakistan.,0,0.0,0.0,0.0,answer_line
+train,500,The city of Zigong is in China.,1,1.0,,1.0,answer_line
+train,501,The city of Kolhapur is in India.,1,1.0,,1.0,answer_line
+train,502,The city of Minsk is in Egypt.,0,0.0,,0.0,answer_line
+train,503,The city of Abeokuta is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,504,The city of UEruemqi is in China.,1,1.0,,1.0,answer_line
+train,505,The city of Baoji is in Japan.,0,0.0,,0.0,answer_line
+train,506,The city of Daejeon is in Rwanda.,0,0.0,,0.0,answer_line
+train,507,The city of Albuquerque is in Nepal.,0,0.0,,0.0,answer_line
+train,508,The city of Cimahi is in Egypt.,0,0.0,,0.0,answer_line
+train,509,The city of Sorocaba is in Iraq.,0,0.0,,0.0,answer_line
+train,510,The city of Hongkou is in China.,1,1.0,,1.0,answer_line
+train,511,The city of Ajmer is in Japan.,0,0.0,,0.0,answer_line
+train,512,The city of Putian is in Egypt.,0,1.0,1.0,1.0,answer_line
+train,513,The city of Ile-Ife is in Nigeria.,1,1.0,,1.0,answer_line
+train,514,The city of Hubballi is in Angola.,0,0.0,,0.0,answer_line
+train,515,The city of Indore is in Myanmar.,0,0.0,,0.0,answer_line
+train,516,The city of Guarulhos is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,517,The city of Jeddah is in Saudi Arabia.,1,1.0,1.0,1.0,answer_line
+train,518,The city of Kasur is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,519,The city of Tashkent is in Ukraine.,0,0.0,,0.0,answer_line
+train,520,The city of Qiqihar is in South Korea.,0,0.0,,0.0,answer_line
+train,521,The city of Ciudad Juarez is in Japan.,0,0.0,,0.0,answer_line
+train,522,The city of Bekasi is in China.,0,0.0,,0.0,answer_line
+train,523,The city of Pingliang is in Indonesia.,0,0.0,,0.0,answer_line
+train,524,The city of Pietermaritzburg is in South Africa.,1,1.0,1.0,1.0,answer_line
+train,525,The city of Hue is in Iraq.,0,0.0,,0.0,answer_line
+train,526,The city of Chiclayo is in Pakistan.,0,0.0,,0.0,answer_line
+train,527,The city of Ajegunle is in Russia.,0,0.0,,0.0,answer_line
+train,528,The city of Hegang is in China.,1,1.0,1.0,1.0,answer_line
+train,529,The city of N'Djamena is in Chad.,1,1.0,1.0,1.0,answer_line
+train,530,The city of Golfe is in Angola.,1,0.0,,0.0,answer_line
+train,531,The city of Nansana is in China.,0,1.0,,1.0,answer_line
+train,532,The city of Linyi is in Mexico.,0,0.0,,0.0,answer_line
+train,533,The city of Yangjiang is in India.,0,0.0,,0.0,answer_line
+train,534,The city of Benguela is in Angola.,1,0.0,,0.0,answer_line
+train,535,The city of Ziyang is in Iraq.,0,0.0,,0.0,answer_line
+train,536,The city of Haiphong is in China.,0,0.0,,0.0,answer_line
+train,537,The city of Homs is in Morocco.,0,0.0,,0.0,answer_line
+train,538,The city of Ulyanovsk is in Russia.,1,0.0,0.0,0.0,answer_line
+train,539,The city of Al Hudaydah is in Yemen.,1,1.0,1.0,1.0,answer_line
+train,540,The city of Zhangye is in China.,1,1.0,,1.0,answer_line
+train,541,The city of Bijie is in China.,1,0.0,,0.0,answer_line
+train,542,The city of Tirunelveli is in India.,1,1.0,1.0,1.0,answer_line
+train,543,The city of Borivli is in India.,1,1.0,1.0,1.0,answer_line
+train,544,The city of Saitama is in Australia.,0,0.0,,0.0,answer_line
+train,545,The city of Puxi is in Nigeria.,0,0.0,,0.0,answer_line
+train,546,The city of Wuhan is in China.,1,1.0,1.0,1.0,answer_line
+train,547,The city of Suwon is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,548,The city of Jiangmen is in Poland.,0,0.0,,0.0,answer_line
+train,549,The city of Suizhou is in China.,1,1.0,1.0,1.0,answer_line
+train,550,The city of Dar es Salaam is in Tanzania.,1,1.0,1.0,1.0,answer_line
+train,551,The city of Bukavu is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,552,The city of Mirpur Model Thana is in Bangladesh.,1,0.0,,0.0,answer_line
+train,553,The city of Multan is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,554,The city of Bucaramanga is in Colombia.,1,1.0,1.0,1.0,answer_line
+train,555,The city of Jaboatao dos Guararapes is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,556,The city of Peshawar is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,557,The city of Sao Jose dos Campos is in Brazil.,1,1.0,,1.0,answer_line
+train,558,The city of Johannesburg is in South Africa.,1,1.0,1.0,1.0,answer_line
+train,559,The city of Gold Coast is in Angola.,0,0.0,,0.0,answer_line
+train,560,The city of Ciudad Guayana is in Poland.,0,0.0,0.0,0.0,answer_line
+train,561,The city of Makati City is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,562,The city of Indore is in India.,1,1.0,1.0,1.0,answer_line
+train,563,The city of Hengyang is in the Philippines.,0,0.0,0.0,0.0,answer_line
+train,564,The city of Sialkot is in China.,0,0.0,,0.0,answer_line
+train,565,The city of Bhavnagar is in India.,1,0.0,,0.0,answer_line
+train,566,The city of Gaziantep is in Turkey.,1,1.0,1.0,1.0,answer_line
+train,567,The city of Okayama is in Malaysia.,0,0.0,,0.0,answer_line
+train,568,The city of Kinshasa is in Sudan.,0,0.0,,0.0,answer_line
+train,569,The city of Beira is in China.,0,0.0,,0.0,answer_line
+train,570,The city of Macapa is in Iraq.,0,0.0,0.0,0.0,answer_line
+train,571,The city of Marrakesh is in China.,0,0.0,,0.0,answer_line
+train,572,The city of Tomsk is in the Philippines.,0,0.0,,0.0,answer_line
+train,573,The city of Nova Iguacu is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,574,The city of Ankara is in Jordan.,0,0.0,,0.0,answer_line
+train,575,The city of Bangkok is in Thailand.,1,1.0,1.0,1.0,answer_line
+train,576,The city of Chuzhou is in Bangladesh.,0,1.0,1.0,1.0,answer_line
+train,577,The city of Dharavi is in India.,1,0.0,0.0,0.0,answer_line
+train,578,The city of Pimpri is in India.,1,1.0,1.0,1.0,answer_line
+train,579,The city of Fushun is in China.,1,1.0,1.0,1.0,answer_line
+train,580,The city of Basrah is in Iraq.,1,1.0,1.0,1.0,answer_line
+train,581,The city of Wanning is in China.,1,1.0,1.0,1.0,answer_line
+train,582,The city of Ipoh is in Ghana.,0,0.0,,0.0,answer_line
+train,583,The city of Perm is in Russia.,1,1.0,1.0,1.0,answer_line
+train,584,The city of Algiers is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,585,The city of Nasiriyah is in Venezuela.,0,0.0,,0.0,answer_line
+train,586,The city of Shangrao is in China.,1,1.0,1.0,1.0,answer_line
+train,587,The city of Zhaotong is in India.,0,0.0,,0.0,answer_line
+train,588,The city of Kozhikode is in India.,1,1.0,1.0,1.0,answer_line
+train,589,The city of Curitiba is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,590,The city of Beijing is in the Philippines.,0,0.0,,0.0,answer_line
+train,591,The city of Munich is in Syria.,0,0.0,,0.0,answer_line
+train,592,The city of Shuangyashan is in China.,1,1.0,1.0,1.0,answer_line
+train,593,The city of Bucharest is in China.,0,0.0,,0.0,answer_line
+train,594,The city of Cotonou is in Benin.,1,1.0,1.0,1.0,answer_line
+train,595,The city of Tijuana is in China.,0,0.0,0.0,0.0,answer_line
+train,596,The city of Huaibei is in China.,1,1.0,1.0,1.0,answer_line
+train,597,The city of Dalian is in China.,1,1.0,1.0,1.0,answer_line
+train,598,The city of Bhavnagar is in China.,0,0.0,,0.0,answer_line
+train,599,The city of Gwalior is in India.,1,1.0,1.0,1.0,answer_line
+train,600,The city of Durban is in South Africa.,1,1.0,1.0,1.0,answer_line
+train,601,The city of Ordos is in China.,1,1.0,1.0,1.0,answer_line
+train,602,The city of Erbil is in Iraq.,1,1.0,1.0,1.0,answer_line
+train,603,The city of Puxi is in China.,1,1.0,1.0,1.0,answer_line
+train,604,The city of Albuquerque is in the United States.,1,1.0,1.0,1.0,answer_line
+train,605,The city of Shekhupura is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,606,The city of Daegu is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,607,The city of The Bronx is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,608,The city of New York City is in the United States.,1,1.0,,1.0,answer_line
+train,609,The city of Xiangtan is in Indonesia.,0,0.0,,0.0,answer_line
+train,610,The city of Shizuishan is in Iran.,0,0.0,,0.0,answer_line
+train,611,The city of Paranaque City is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,612,The city of Nha Trang is in Morocco.,0,0.0,,0.0,answer_line
+train,613,The city of Ha'il is in Finland.,0,0.0,,0.0,answer_line
+train,614,The city of Malatya is in Turkey.,1,1.0,1.0,1.0,answer_line
+train,615,The city of Jalandhar is in Russia.,0,0.0,0.0,0.0,answer_line
+train,616,The city of Sevastopol is in Brazil.,0,0.0,,0.0,answer_line
+train,617,The city of Ciudad Nezahualcoyotl is in Bangladesh.,0,0.0,0.0,0.0,answer_line
+train,618,The city of Mulenvos is in Angola.,1,0.0,,0.0,answer_line
+train,619,The city of Yekaterinburg is in Iraq.,0,0.0,,0.0,answer_line
+train,620,The city of Istanbul is in China.,0,0.0,,0.0,answer_line
+train,621,The city of Cucuta is in Colombia.,1,1.0,1.0,1.0,answer_line
+train,622,The city of Leipzig is in Germany.,1,1.0,,1.0,answer_line
+train,623,The city of Jamnagar is in the Philippines.,0,0.0,,0.0,answer_line
+train,624,The city of Beijing is in China.,1,1.0,,1.0,answer_line
+train,625,The city of Sukkur is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,626,The city of Dongying is in Mexico.,0,0.0,,0.0,answer_line
+train,627,The city of Qinhuangdao is in India.,0,0.0,,0.0,answer_line
+train,628,The city of Weihai is in Tajikistan.,0,0.0,0.0,0.0,answer_line
+train,629,The city of Assiut is in Egypt.,1,1.0,,1.0,answer_line
+train,630,The city of Al Mahallah al Kubra is in Indonesia.,0,0.0,,0.0,answer_line
+train,631,The city of Dortmund is in Germany.,1,1.0,,1.0,answer_line
+train,632,The city of Goiania is in Brazil.,1,0.0,0.0,0.0,answer_line
+train,633,The city of Xuhui is in China.,1,0.0,,0.0,answer_line
+train,634,The city of Laibin is in China.,1,1.0,1.0,1.0,answer_line
+train,635,The city of Likasi is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,636,The city of Karaj is in Iran.,1,1.0,1.0,1.0,answer_line
+train,637,The city of Benxi is in China.,1,1.0,1.0,1.0,answer_line
+train,638,The city of Ufa is in Russia.,1,1.0,1.0,1.0,answer_line
+train,639,The city of Abidjan is in Côte d'Ivoire.,1,1.0,1.0,1.0,answer_line
+train,640,The city of Hohhot is in China.,1,1.0,,1.0,answer_line
+train,641,The city of Guatemala City is in Guatemala.,1,1.0,1.0,1.0,answer_line
+train,642,The city of Nanchong is in China.,1,1.0,,1.0,answer_line
+train,643,The city of Tlaquepaque is in Mexico.,1,1.0,,1.0,answer_line
+train,644,The city of Qiqihar is in China.,1,1.0,1.0,1.0,answer_line
+train,645,The city of Pasig City is in Syria.,0,0.0,0.0,0.0,answer_line
+train,646,The city of Ulhasnagar is in Japan.,0,0.0,,0.0,answer_line
+train,647,The city of Yibin is in China.,1,0.0,,0.0,answer_line
+train,648,The city of Duque de Caxias is in China.,0,0.0,0.0,0.0,answer_line
+train,649,The city of Caloocan is in India.,0,0.0,,0.0,answer_line
+train,650,The city of Al Ahmadi is in Kuwait.,1,1.0,1.0,1.0,answer_line
+train,651,The city of Xuchang is in China.,1,1.0,1.0,1.0,answer_line
+train,652,The city of Orumiyeh is in Angola.,0,0.0,,0.0,answer_line
+train,653,The city of Hamamatsu is in Japan.,1,1.0,,1.0,answer_line
+train,654,The city of Saint Petersburg is in India.,0,0.0,,0.0,answer_line
+train,655,The city of Tegucigalpa is in China.,0,0.0,,0.0,answer_line
+train,656,The city of Sanya is in China.,1,1.0,1.0,1.0,answer_line
+train,657,The city of Milwaukee is in the United States.,1,1.0,1.0,1.0,answer_line
+train,658,The city of Rangpur is in Bangladesh.,1,1.0,,1.0,answer_line
+train,659,The city of Aktobe is in Pakistan.,0,0.0,,0.0,answer_line
+train,660,The city of Zhangjiakou is in China.,1,0.0,,0.0,answer_line
+train,661,The city of Semarang is in Indonesia.,1,1.0,,1.0,answer_line
+train,662,The city of Mukim Pulai is in Belarus.,0,0.0,,0.0,answer_line
+train,663,The city of Siliguri is in Pakistan.,0,0.0,,0.0,answer_line
+train,664,The city of Bijie is in Brazil.,0,1.0,1.0,1.0,answer_line
+train,665,The city of Arifwala is in South Africa.,0,0.0,,0.0,answer_line
+train,666,The city of Baghdad is in China.,0,0.0,,0.0,answer_line
+train,667,The city of Cimahi is in Indonesia.,1,1.0,1.0,1.0,answer_line
+train,668,The city of Jiujiang is in China.,1,1.0,,1.0,answer_line
+train,669,The city of Shekhupura is in Lithuania.,0,1.0,1.0,1.0,answer_line
+train,670,The city of Guigang is in China.,1,0.0,,0.0,answer_line
+train,671,The city of Fukuoka is in Japan.,1,1.0,1.0,1.0,answer_line
+train,672,The city of Kolkata is in India.,1,1.0,1.0,1.0,answer_line
+train,673,The city of Nashik is in India.,1,1.0,,1.0,answer_line
+train,674,The city of Warangal is in India.,1,0.0,0.0,0.0,answer_line
+train,675,The city of Surat is in Angola.,0,0.0,,0.0,answer_line
+train,676,The city of Bauchi is in India.,0,0.0,,0.0,answer_line
+train,677,The city of Amritsar is in India.,1,1.0,,1.0,answer_line
+train,678,The city of Kaduna is in Nigeria.,1,1.0,1.0,1.0,answer_line
+train,679,The city of Pest is in India.,0,0.0,,0.0,answer_line
+train,680,The city of Ar Raqqah is in Turkey.,0,0.0,,0.0,answer_line
+train,681,The city of Hanzhong is in China.,1,1.0,,1.0,answer_line
+train,682,The city of Chunian is in Guatemala.,0,1.0,,1.0,answer_line
+train,683,The city of Langfang is in Angola.,0,0.0,,0.0,answer_line
+train,684,The city of Frankfurt am Main is in Germany.,1,1.0,,1.0,answer_line
+train,685,The city of Bikaner is in India.,1,1.0,1.0,1.0,answer_line
+train,686,The city of Amman is in Jordan.,1,1.0,1.0,1.0,answer_line
+train,687,The city of Vadodara is in India.,1,1.0,,1.0,answer_line
+train,688,The city of Astrakhan is in Russia.,1,1.0,1.0,1.0,answer_line
+train,689,The city of Phnom Penh is in Cambodia.,1,1.0,,1.0,answer_line
+train,690,The city of Mersin is in China.,0,0.0,,0.0,answer_line
+train,691,The city of Xuancheng is in Malaysia.,0,0.0,,0.0,answer_line
+train,692,The city of Songjiang is in China.,1,1.0,,1.0,answer_line
+train,693,The city of Porto Velho is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,694,The city of Sanming is in China.,1,1.0,,1.0,answer_line
+train,695,The city of Maputo is in Mozambique.,1,1.0,1.0,1.0,answer_line
+train,696,The city of Aracaju is in the United States.,0,0.0,,0.0,answer_line
+train,697,The city of Arequipa is in China.,0,0.0,,0.0,answer_line
+train,698,The city of Rajshahi is in Bangladesh.,1,1.0,1.0,1.0,answer_line
+train,699,The city of Al Fayyum is in Egypt.,1,1.0,1.0,1.0,answer_line
+train,700,The city of Tasikmalaya is in Indonesia.,1,1.0,,1.0,answer_line
+train,701,The city of Zagreb is in Croatia.,1,1.0,,1.0,answer_line
+train,702,The city of Dombivali is in India.,1,1.0,1.0,1.0,answer_line
+train,703,The city of Suwon is in China.,0,0.0,,0.0,answer_line
+train,704,The city of Amravati is in India.,1,1.0,1.0,1.0,answer_line
+train,705,The city of Toulouse is in Kenya.,0,0.0,,0.0,answer_line
+train,706,The city of Ordos is in Egypt.,0,0.0,,0.0,answer_line
+train,707,The city of Recife is in India.,0,0.0,,0.0,answer_line
+train,708,The city of Incheon is in China.,0,0.0,,0.0,answer_line
+train,709,The city of Liaocheng is in Ukraine.,0,0.0,,0.0,answer_line
+train,710,The city of Loni is in Indonesia.,0,0.0,,0.0,answer_line
+train,711,The city of Kinshasa is in the Democratic Republic of the Congo.,1,1.0,1.0,1.0,answer_line
+train,712,The city of Baku is in China.,0,0.0,,0.0,answer_line
+train,713,The city of Port Said is in Egypt.,1,1.0,1.0,1.0,answer_line
+train,714,The city of Hefei is in China.,1,1.0,1.0,1.0,answer_line
+train,715,The city of Lianyungang is in China.,1,1.0,1.0,1.0,answer_line
+train,716,The city of Kunshan is in China.,1,1.0,,1.0,answer_line
+train,717,The city of Kitakyushu is in Japan.,1,1.0,,1.0,answer_line
+train,718,The city of Taiz is in Yemen.,1,1.0,,1.0,answer_line
+train,719,The city of Ndola is in Zambia.,1,0.0,,0.0,answer_line
+train,720,The city of Jiaozuo is in China.,1,1.0,,1.0,answer_line
+train,721,The city of Astana is in Hungary.,0,0.0,,0.0,answer_line
+train,722,The city of Changwon is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,723,The city of Kirkuk is in Iraq.,1,1.0,,1.0,answer_line
+train,724,The city of Guarulhos is in Azerbaijan.,0,0.0,,0.0,answer_line
+train,725,The city of Mexicali is in Russia.,0,0.0,,0.0,answer_line
+train,726,The city of Okayama is in Japan.,1,1.0,1.0,1.0,answer_line
+train,727,The city of Xinyang is in China.,1,1.0,1.0,1.0,answer_line
+train,728,The city of Anyang-si is in Poland.,0,0.0,0.0,0.0,answer_line
+train,729,The city of Mukalla is in Indonesia.,0,0.0,,0.0,answer_line
+train,730,The city of Shenyang is in Malaysia.,0,0.0,,0.0,answer_line
+train,731,The city of Guankou is in China.,1,0.0,,0.0,answer_line
+train,732,The city of Guwahati is in India.,1,1.0,1.0,1.0,answer_line
+train,733,The city of Mirpur Model Thana is in Burkina Faso.,0,0.0,,0.0,answer_line
+train,734,The city of Mbeya is in Tanzania.,1,1.0,1.0,1.0,answer_line
+train,735,The city of Ta'if is in Saudi Arabia.,1,1.0,1.0,1.0,answer_line
+train,736,The city of Seoul is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,737,The city of Wroclaw is in Poland.,1,0.0,0.0,0.0,answer_line
+train,738,The city of Bobo-Dioulasso is in Burkina Faso.,1,1.0,,1.0,answer_line
+train,739,The city of Guang'an is in China.,1,1.0,1.0,1.0,answer_line
+train,740,The city of Qujing is in China.,1,1.0,1.0,1.0,answer_line
+train,741,The city of Oklahoma City is in the United States.,1,1.0,1.0,1.0,answer_line
+train,742,The city of Calgary is in Canada.,1,0.0,,0.0,answer_line
+train,743,The city of Sao Bernardo do Campo is in Nigeria.,0,0.0,0.0,0.0,answer_line
+train,744,The city of Xianyang is in China.,1,1.0,1.0,1.0,answer_line
+train,745,The city of Kampala is in Uganda.,1,1.0,1.0,1.0,answer_line
+train,746,The city of Kumamoto is in Brazil.,0,0.0,,0.0,answer_line
+train,747,The city of Petaling Jaya is in China.,0,0.0,,0.0,answer_line
+train,748,The city of Giza is in Egypt.,1,1.0,1.0,1.0,answer_line
+train,749,The city of Seoul is in Mozambique.,0,0.0,,0.0,answer_line
+train,750,The city of Zagreb is in India.,0,0.0,,0.0,answer_line
+train,751,The city of Utsunomiya is in Japan.,1,0.0,,0.0,answer_line
+train,752,The city of Johor Bahru is in France.,0,0.0,,0.0,answer_line
+train,753,The city of Stockholm is in the Dominican Republic.,0,0.0,,0.0,answer_line
+train,754,The city of Lome is in Togo.,1,1.0,1.0,1.0,answer_line
+train,755,The city of Benin City is in Nigeria.,1,0.0,0.0,0.0,answer_line
+train,756,The city of Goiania is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,757,The city of Dodoma is in China.,0,0.0,,0.0,answer_line
+train,758,The city of Daxing'anling is in Nepal.,0,0.0,,0.0,answer_line
+train,759,The city of Ecatepec de Morelos is in Mexico.,1,1.0,1.0,1.0,answer_line
+train,760,The city of New Kingston is in Jamaica.,1,1.0,1.0,1.0,answer_line
+train,761,The city of Zhaoqing is in China.,1,1.0,,1.0,answer_line
+train,762,The city of Lviv is in Ukraine.,1,1.0,,1.0,answer_line
+train,763,The city of Kanpur is in India.,1,1.0,1.0,1.0,answer_line
+train,764,The city of Heze is in Iraq.,0,0.0,,0.0,answer_line
+train,765,The city of Shanghai is in China.,1,1.0,1.0,1.0,answer_line
+train,766,The city of Makati City is in China.,0,0.0,,0.0,answer_line
+train,767,The city of Almaty is in Kazakhstan.,1,1.0,1.0,1.0,answer_line
+train,768,The city of Dakar is in Senegal.,1,1.0,,1.0,answer_line
+train,769,The city of Abu Dhabi is in the Dominican Republic.,0,0.0,,0.0,answer_line
+train,770,The city of E'zhou is in Zambia.,0,0.0,,0.0,answer_line
+train,771,The city of Pudong is in Morocco.,0,0.0,,0.0,answer_line
+train,772,The city of Isfahan is in Syria.,0,0.0,,0.0,answer_line
+train,773,The city of Heroica Matamoros is in Mexico.,1,1.0,,1.0,answer_line
+train,774,The city of Joao Pessoa is in Lithuania.,0,0.0,,0.0,answer_line
+train,775,The city of Indianapolis is in Japan.,0,0.0,,0.0,answer_line
+train,776,The city of Thiruvananthapuram is in India.,1,1.0,1.0,1.0,answer_line
+train,777,The city of Brasilia is in Venezuela.,0,0.0,,0.0,answer_line
+train,778,The city of Asmara is in South Korea.,0,0.0,,0.0,answer_line
+train,779,The city of Kumasi is in Ghana.,1,1.0,1.0,1.0,answer_line
+train,780,The city of Huludao is in China.,1,1.0,1.0,1.0,answer_line
+train,781,The city of Salta is in Argentina.,1,1.0,1.0,1.0,answer_line
+train,782,The city of Chattogram is in Bangladesh.,1,1.0,1.0,1.0,answer_line
+train,783,The city of Weifang is in Turkey.,0,0.0,,0.0,answer_line
+train,784,The city of Ebute Ikorodu is in the Philippines.,0,0.0,0.0,0.0,answer_line
+train,785,The city of Mombasa is in Kenya.,1,1.0,1.0,1.0,answer_line
+train,786,The city of Bhilai is in Brazil.,0,0.0,,0.0,answer_line
+train,787,The city of Zahedan is in Iran.,1,1.0,1.0,1.0,answer_line
+train,788,The city of Hiroshima is in Japan.,1,1.0,1.0,1.0,answer_line
+train,789,The city of Kyiv is in Germany.,0,0.0,,0.0,answer_line
+train,790,The city of Chicago is in China.,0,0.0,,0.0,answer_line
+train,791,The city of Al Mahallah al Kubra is in Egypt.,1,0.0,,0.0,answer_line
+train,792,The city of Aparecida de Goiania is in India.,0,0.0,,0.0,answer_line
+train,793,The city of Chuxiong is in China.,1,1.0,,1.0,answer_line
+train,794,The city of Pretoria is in Egypt.,0,0.0,,0.0,answer_line
+train,795,The city of Shangluo is in China.,1,1.0,1.0,1.0,answer_line
+train,796,The city of Cangzhou is in the United States.,0,0.0,,0.0,answer_line
+train,797,The city of Zapopan is in Mexico.,1,1.0,1.0,1.0,answer_line
+train,798,The city of Panzhihua is in China.,1,0.0,,0.0,answer_line
+train,799,The city of Aden is in Yemen.,1,1.0,,1.0,answer_line
+train,800,The city of Ulhasnagar is in India.,1,1.0,1.0,1.0,answer_line
+train,801,The city of Al Mawsil al Jadidah is in Iraq.,1,1.0,1.0,1.0,answer_line
+train,802,The city of Sapporo is in Japan.,1,0.0,,0.0,answer_line
+train,803,The city of Madurai is in India.,1,1.0,1.0,1.0,answer_line
+train,804,The city of Duque de Caxias is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,805,The city of Beirut is in India.,0,0.0,,0.0,answer_line
+train,806,The city of Okara is in Pakistan.,1,0.0,,0.0,answer_line
+train,807,The city of Nairobi is in Kenya.,1,1.0,1.0,1.0,answer_line
+train,808,The city of Hannover is in Afghanistan.,0,0.0,,0.0,answer_line
+train,809,The city of Kikwit is in Argentina.,0,0.0,,0.0,answer_line
+train,810,The city of Guigang is in India.,0,0.0,,0.0,answer_line
+train,811,The city of Ghaziabad is in China.,0,0.0,,0.0,answer_line
+train,812,The city of Zhumadian is in China.,1,0.0,,0.0,answer_line
+train,813,The city of Libreville is in Gabon.,1,1.0,1.0,1.0,answer_line
+train,814,The city of Tabriz is in Turkey.,0,0.0,,0.0,answer_line
+train,815,The city of Budta is in Japan.,0,0.0,,0.0,answer_line
+train,816,The city of Cankaya is in Mozambique.,0,0.0,,0.0,answer_line
+train,817,The city of Tijuana is in Mexico.,1,1.0,,1.0,answer_line
+train,818,The city of Aracaju is in Brazil.,1,1.0,,1.0,answer_line
+train,819,The city of Saint Petersburg is in Russia.,1,1.0,,1.0,answer_line
+train,820,The city of Qingpu is in China.,1,1.0,,1.0,answer_line
+train,821,The city of Serang is in Sudan.,0,0.0,,0.0,answer_line
+train,822,The city of Zigong is in Turkey.,0,0.0,,0.0,answer_line
+train,823,The city of Pallabi is in New Zealand.,0,0.0,0.0,0.0,answer_line
+train,824,The city of Dera Ismail Khan is in Mozambique.,0,0.0,,0.0,answer_line
+train,825,The city of Tangshan is in China.,1,1.0,1.0,1.0,answer_line
+train,826,The city of Zhangzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,827,The city of Asmara is in Eritrea.,1,1.0,,1.0,answer_line
+train,828,The city of Munich is in Germany.,1,1.0,1.0,1.0,answer_line
+train,829,The city of Ghaziabad is in India.,1,1.0,1.0,1.0,answer_line
+train,830,The city of Malacca is in China.,0,0.0,,0.0,answer_line
+train,831,The city of Suqian is in China.,1,1.0,,1.0,answer_line
+train,832,The city of Bucheon-si is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,833,The city of Multan is in Malaysia.,0,0.0,,0.0,answer_line
+train,834,The city of Belford Roxo is in Brazil.,1,0.0,,0.0,answer_line
+train,835,The city of Balbala is in India.,0,0.0,,0.0,answer_line
+train,836,The city of Vijayawada is in India.,1,1.0,1.0,1.0,answer_line
+train,837,The city of Antalya is in Turkey.,1,1.0,,1.0,answer_line
+train,838,The city of Hamadan is in Jordan.,0,0.0,,0.0,answer_line
+train,839,The city of Batam is in Indonesia.,1,0.0,,0.0,answer_line
+train,840,The city of Taiz is in Nigeria.,0,0.0,,0.0,answer_line
+train,841,The city of Rio de Janeiro is in China.,0,0.0,0.0,0.0,answer_line
+train,842,The city of Karbala is in Kuwait.,0,0.0,,0.0,answer_line
+train,843,The city of Ibadan is in India.,0,0.0,,0.0,answer_line
+train,844,The city of Quetta is in India.,0,0.0,,0.0,answer_line
+train,845,The city of Nowrangapur is in India.,1,1.0,1.0,1.0,answer_line
+train,846,The city of Palembang is in Russia.,0,0.0,,0.0,answer_line
+train,847,The city of Santiago de Cuba is in Cuba.,1,1.0,1.0,1.0,answer_line
+train,848,The city of Binzhou is in China.,1,0.0,,0.0,answer_line
+train,849,The city of Pallabi is in Bangladesh.,1,0.0,,0.0,answer_line
+train,850,The city of Banjarmasin is in Indonesia.,1,1.0,,1.0,answer_line
+train,851,The city of Tangerang is in Germany.,0,0.0,,0.0,answer_line
+train,852,The city of Osaka is in Japan.,1,1.0,,1.0,answer_line
+train,853,The city of Bengbu is in the United States.,0,0.0,,0.0,answer_line
+train,854,The city of Samarinda is in Russia.,0,0.0,,0.0,answer_line
+train,855,The city of Meizhou is in China.,1,1.0,1.0,1.0,answer_line
+train,856,The city of Londrina is in China.,0,0.0,,0.0,answer_line
+train,857,The city of Evaton is in Malawi.,0,0.0,,0.0,answer_line
+train,858,The city of Diyarbakir is in Turkey.,1,1.0,,1.0,answer_line
+train,859,The city of Yinchuan is in France.,0,0.0,,0.0,answer_line
+train,860,The city of Guankou is in Poland.,0,1.0,,1.0,answer_line
+train,861,The city of Ra's Bayrut is in Lebanon.,1,1.0,1.0,1.0,answer_line
+train,862,The city of Niteroi is in India.,0,0.0,,0.0,answer_line
+train,863,The city of Huzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,864,The city of Bayan Nur is in China.,1,0.0,,0.0,answer_line
+train,865,The city of Minhang is in China.,1,1.0,1.0,1.0,answer_line
+train,866,The city of Feira de Santana is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,867,The city of Zhanjiang is in China.,1,1.0,1.0,1.0,answer_line
+train,868,The city of Chongming is in Tanzania.,0,0.0,,0.0,answer_line
+train,869,The city of Samarkand is in Uzbekistan.,1,1.0,,1.0,answer_line
+train,870,The city of Al Ahmadi is in Yemen.,0,0.0,,0.0,answer_line
+train,871,The city of Thuan An is in Vietnam.,1,1.0,1.0,1.0,answer_line
+train,872,The city of Andijon is in China.,0,0.0,,0.0,answer_line
+train,873,The city of Balikpapan is in Indonesia.,1,0.0,,0.0,answer_line
+train,874,The city of Cuautitlan Izcalli is in Turkey.,0,0.0,,0.0,answer_line
+train,875,The city of Kunshan is in Zimbabwe.,0,0.0,,0.0,answer_line
+train,876,The city of Aktobe is in Kazakhstan.,1,1.0,,1.0,answer_line
+train,877,The city of Sharjah is in Brazil.,0,0.0,,0.0,answer_line
+train,878,The city of Sarajevo is in Bosnia and Herzegovina.,1,1.0,,1.0,answer_line
+train,879,The city of Kalyan is in India.,1,1.0,,1.0,answer_line
+train,880,The city of Kolwezi is in Mozambique.,0,1.0,1.0,1.0,answer_line
+train,881,The city of Torreon is in Mexico.,1,1.0,,1.0,answer_line
+train,882,The city of Bloemfontein is in China.,0,0.0,,0.0,answer_line
+train,883,The city of Kalininskiy is in Germany.,0,0.0,,0.0,answer_line
+train,884,The city of Krasnoyarsk is in Russia.,1,1.0,1.0,1.0,answer_line
+train,885,The city of Setagaya is in Hungary.,0,0.0,,0.0,answer_line
+train,886,The city of Haiphong is in Vietnam.,1,1.0,,1.0,answer_line
+train,887,The city of Nakuru is in Turkey.,0,0.0,,0.0,answer_line
+train,888,The city of Agadir is in Kenya.,0,0.0,,0.0,answer_line
+train,889,The city of Ulsan is in China.,0,0.0,,0.0,answer_line
+train,890,The city of Johor Bahru is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,891,The city of Zamboanga is in the Philippines.,1,0.0,,0.0,answer_line
+train,892,The city of Budapest is in Hungary.,1,1.0,1.0,1.0,answer_line
+train,893,The city of Minhang is in the United States.,0,0.0,,0.0,answer_line
+train,894,The city of Kermanshah is in Malaysia.,0,0.0,,0.0,answer_line
+train,895,The city of Seattle is in the United States.,1,1.0,1.0,1.0,answer_line
+train,896,The city of Sorocaba is in Brazil.,1,1.0,,1.0,answer_line
+train,897,The city of Daqing is in India.,0,0.0,,0.0,answer_line
+train,898,The city of Bokaro is in India.,1,1.0,1.0,1.0,answer_line
+train,899,The city of Assiut is in Indonesia.,0,0.0,,0.0,answer_line
+train,900,The city of Ouagadougou is in Burkina Faso.,1,1.0,1.0,1.0,answer_line
+train,901,The city of Nha Trang is in Vietnam.,1,1.0,1.0,1.0,answer_line
+train,902,The city of Ahmedabad is in India.,1,1.0,,1.0,answer_line
+train,903,The city of Zanzibar is in Tanzania.,1,1.0,1.0,1.0,answer_line
+train,904,The city of Katsina is in South Korea.,0,0.0,,0.0,answer_line
+train,905,The city of Selayang Baru Utara is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,906,The city of Nanjing is in China.,1,1.0,1.0,1.0,answer_line
+train,907,The city of Jammu is in India.,1,1.0,1.0,1.0,answer_line
+train,908,The city of Beira is in Mozambique.,1,1.0,1.0,1.0,answer_line
+train,909,The city of Duesseldorf is in Vietnam.,0,0.0,,0.0,answer_line
+train,910,The city of Maiduguri is in Nigeria.,1,1.0,,1.0,answer_line
+train,911,The city of Auckland is in New Zealand.,1,1.0,1.0,1.0,answer_line
+train,912,The city of Muscat is in China.,0,0.0,,0.0,answer_line
+train,913,The city of Cuautitlan Izcalli is in Mexico.,1,1.0,,1.0,answer_line
+train,914,The city of Benin City is in Saudi Arabia.,0,0.0,,0.0,answer_line
+train,915,The city of Fes is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,916,The city of Laiwu is in China.,1,1.0,1.0,1.0,answer_line
+train,917,The city of Nanchang is in China.,1,1.0,1.0,1.0,answer_line
+train,918,The city of Enugu is in China.,0,0.0,,0.0,answer_line
+train,919,The city of Changshu is in Bangladesh.,0,0.0,,0.0,answer_line
+train,920,The city of Situbondo is in China.,0,0.0,,0.0,answer_line
+train,921,The city of Ta'if is in Nigeria.,0,0.0,,0.0,answer_line
+train,922,The city of Ajmer is in India.,1,1.0,1.0,1.0,answer_line
+train,923,The city of Chattogram is in Djibouti.,0,0.0,,0.0,answer_line
+train,924,The city of Cancun is in Vietnam.,0,0.0,,0.0,answer_line
+train,925,The city of Karachi is in Pakistan.,1,1.0,1.0,1.0,answer_line
+train,926,The city of Muntinlupa is in the Philippines.,1,1.0,1.0,1.0,answer_line
+train,927,The city of Jakarta is in Mongolia.,0,0.0,,0.0,answer_line
+train,928,The city of Cape Town is in South Africa.,1,1.0,,1.0,answer_line
+train,929,The city of Kuala Lumpur is in Japan.,0,0.0,,0.0,answer_line
+train,930,The city of Davao is in China.,0,0.0,,0.0,answer_line
+train,931,The city of Tashkent is in Uzbekistan.,1,1.0,1.0,1.0,answer_line
+train,932,The city of Binzhou is in Côte d'Ivoire.,0,0.0,,0.0,answer_line
+train,933,The city of Hamadan is in Iran.,1,1.0,1.0,1.0,answer_line
+train,934,The city of Thiruvananthapuram is in Mozambique.,0,0.0,0.0,0.0,answer_line
+train,935,The city of Port Harcourt is in China.,0,0.0,,0.0,answer_line
+train,936,The city of Iztapalapa is in Malaysia.,0,0.0,,0.0,answer_line
+train,937,The city of Kallakurichi is in India.,1,1.0,1.0,1.0,answer_line
+train,938,The city of Lubumbashi is in Mexico.,0,0.0,,0.0,answer_line
+train,939,The city of Zhenjiang is in China.,1,1.0,1.0,1.0,answer_line
+train,940,The city of Lahore is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,941,The city of Jiaozuo is in Brazil.,0,0.0,,0.0,answer_line
+train,942,The city of Samarinda is in Indonesia.,1,0.0,,0.0,answer_line
+train,943,The city of Bhopal is in Egypt.,0,0.0,,0.0,answer_line
+train,944,The city of Dhanbad is in the United States.,0,0.0,,0.0,answer_line
+train,945,The city of Santo Domingo Oeste is in Iran.,0,0.0,0.0,0.0,answer_line
+train,946,The city of Tokyo is in Japan.,1,1.0,,1.0,answer_line
+train,947,The city of Arak is in Iran.,1,1.0,1.0,1.0,answer_line
+train,948,The city of Teni is in India.,1,0.0,,0.0,answer_line
+train,949,The city of Ya'an is in Russia.,0,0.0,,0.0,answer_line
+train,950,The city of Lusaka is in Zambia.,1,1.0,,1.0,answer_line
+train,951,The city of Golfe is in Togo.,0,0.0,,0.0,answer_line
+train,952,The city of Panshan is in China.,1,1.0,1.0,1.0,answer_line
+train,953,The city of Langfang is in China.,1,1.0,1.0,1.0,answer_line
+train,954,The city of Milwaukee is in Brazil.,0,0.0,,0.0,answer_line
+train,955,The city of Shijiazhuang is in Belarus.,0,0.0,,0.0,answer_line
+train,956,The city of Piura is in Peru.,1,1.0,1.0,1.0,answer_line
+train,957,The city of Cuiaba is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,958,The city of Perm is in India.,0,0.0,,0.0,answer_line
+train,959,The city of Guayaquil is in Bangladesh.,0,0.0,,0.0,answer_line
+train,960,The city of Balbala is in Djibouti.,1,0.0,,0.0,answer_line
+train,961,The city of Hongkou is in Morocco.,0,0.0,,0.0,answer_line
+train,962,The city of Zhabei is in Japan.,0,0.0,,0.0,answer_line
+train,963,The city of Bukit Rahman Putra is in Malaysia.,1,1.0,1.0,1.0,answer_line
+train,964,The city of Zunyi is in China.,1,1.0,1.0,1.0,answer_line
+train,965,The city of Sultanah is in China.,0,0.0,,0.0,answer_line
+train,966,The city of Harare is in India.,0,0.0,0.0,0.0,answer_line
+train,967,The city of Meerut is in Pakistan.,0,0.0,,0.0,answer_line
+train,968,The city of Cangzhou is in China.,1,0.0,,0.0,answer_line
+train,969,The city of Mukalla is in Yemen.,1,0.0,,0.0,answer_line
+train,970,The city of Luohe is in China.,1,1.0,1.0,1.0,answer_line
+train,971,The city of Changshu is in China.,1,1.0,1.0,1.0,answer_line
+train,972,The city of Xining is in India.,0,0.0,,0.0,answer_line
+train,973,The city of Bulawayo is in Japan.,0,0.0,,0.0,answer_line
+train,974,The city of Phnom Penh is in Chad.,0,0.0,,0.0,answer_line
+train,975,The city of Maceio is in Brazil.,1,1.0,1.0,1.0,answer_line
+train,976,The city of Yichang is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,977,The city of Changchun is in China.,1,1.0,,1.0,answer_line
+train,978,The city of Shubra al Khaymah is in Indonesia.,0,1.0,1.0,1.0,answer_line
+train,979,The city of Luzhou is in China.,1,1.0,1.0,1.0,answer_line
+train,980,The city of Leon de los Aldama is in Mexico.,1,1.0,,1.0,answer_line
+train,981,The city of Soweto is in Mexico.,0,0.0,,0.0,answer_line
+train,982,The city of Pekanbaru is in Belarus.,0,0.0,,0.0,answer_line
+train,983,The city of Gustavo Adolfo Madero is in Mexico.,1,1.0,1.0,1.0,answer_line
+train,984,The city of Quezon City is in Pakistan.,0,0.0,,0.0,answer_line
+train,985,The city of Salta is in South Africa.,0,0.0,,0.0,answer_line
+train,986,The city of Izhevsk is in Russia.,1,0.0,,0.0,answer_line
+train,987,The city of Yangpu is in China.,1,1.0,1.0,1.0,answer_line
+train,988,The city of Mudanjiang is in India.,0,1.0,1.0,1.0,answer_line
+train,989,The city of Daejeon is in South Korea.,1,1.0,1.0,1.0,answer_line
+train,990,The city of Edogawe is in Japan.,1,1.0,1.0,1.0,answer_line
+train,991,The city of Victoria de Durango is in Mexico.,1,1.0,1.0,1.0,answer_line
+train,992,The city of Moradabad is in India.,1,1.0,,1.0,answer_line
+train,993,The city of Winnipeg is in Canada.,1,1.0,,1.0,answer_line
+train,994,The city of Nizhniy Novgorod is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+train,995,The city of Shubra al Khaymah is in Egypt.,1,1.0,1.0,1.0,answer_line
+train,996,The city of Maputo is in China.,0,0.0,,0.0,answer_line
+train,997,The city of Jaboatao dos Guararapes is in Japan.,0,0.0,,0.0,answer_line
+train,998,The city of Adana is in Turkey.,1,1.0,1.0,1.0,answer_line
+test,0,The city of Baotou is in China.,1,1.0,1.0,1.0,answer_line
+test,1,The city of Namangan is in Brazil.,0,0.0,,0.0,answer_line
+test,2,The city of Jinzhong is in China.,1,1.0,1.0,1.0,answer_line
+test,3,The city of Sholapur is in China.,0,0.0,,0.0,answer_line
+test,4,The city of Sanya is in Malaysia.,0,0.0,,0.0,answer_line
+test,5,The city of Gazipur is in Bangladesh.,1,1.0,,1.0,answer_line
+test,6,The city of Kemerovo is in Russia.,1,0.0,,0.0,answer_line
+test,7,The city of Anqing is in China.,1,1.0,1.0,1.0,answer_line
+test,8,The city of Shanghai is in Malaysia.,0,0.0,,0.0,answer_line
+test,9,The city of Coyoacan is in Mexico.,1,1.0,,1.0,answer_line
+test,10,The city of Suginami is in Japan.,1,1.0,1.0,1.0,answer_line
+test,11,The city of Nizhniy Novgorod is in Russia.,1,1.0,1.0,1.0,answer_line
+test,12,The city of Izmir is in Indonesia.,0,0.0,,0.0,answer_line
+test,13,The city of Chongming is in China.,1,1.0,1.0,1.0,answer_line
+test,14,The city of Vadodara is in Bangladesh.,0,0.0,,0.0,answer_line
+test,15,The city of Kolhapur is in Tanzania.,0,0.0,,0.0,answer_line
+test,16,The city of Xiangtan is in China.,1,1.0,1.0,1.0,answer_line
+test,17,The city of Harbin is in China.,1,1.0,1.0,1.0,answer_line
+test,18,The city of Esenyurt is in Jordan.,0,0.0,,0.0,answer_line
+test,19,The city of Kunming is in Mexico.,0,0.0,,0.0,answer_line
+test,20,The city of Pest is in Hungary.,1,0.0,,0.0,answer_line
+test,21,The city of Xuchang is in India.,0,0.0,,0.0,answer_line
+test,22,The city of Abu Dhabi is in the United Arab Emirates.,1,1.0,,1.0,answer_line
+test,23,The city of Chenzhou is in Ukraine.,0,0.0,,0.0,answer_line
+test,24,The city of Tanggu is in Turkey.,0,0.0,,0.0,answer_line
+test,25,The city of Tlalpan is in Mexico.,1,1.0,,1.0,answer_line
+test,26,The city of Riga is in Brazil.,0,0.0,,0.0,answer_line
+test,27,The city of Cotonou is in Malaysia.,0,0.0,,0.0,answer_line
+test,28,The city of Siping is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+test,29,The city of Puning is in China.,1,0.0,,0.0,answer_line
+test,30,The city of Joao Pessoa is in Brazil.,1,1.0,1.0,1.0,answer_line
+test,31,The city of Tianshui is in China.,1,1.0,,1.0,answer_line
+test,32,The city of Sadr City is in Eritrea.,0,0.0,,0.0,answer_line
+test,33,The city of Zhu Cheng City is in China.,1,0.0,,0.0,answer_line
+test,34,The city of Novokuznetsk is in Malaysia.,0,0.0,,0.0,answer_line
+test,35,The city of Shantou is in Bulgaria.,0,0.0,,0.0,answer_line
+test,36,The city of Xinyu is in China.,1,1.0,1.0,1.0,answer_line
+test,37,The city of Suez is in Egypt.,1,1.0,1.0,1.0,answer_line
+test,38,The city of Kathmandu is in India.,0,0.0,,0.0,answer_line
+test,39,The city of Panshan is in Brazil.,0,0.0,,0.0,answer_line
+test,40,The city of Weinan is in China.,1,1.0,1.0,1.0,answer_line
+test,41,The city of Mazar-e Sharif is in Afghanistan.,1,1.0,,1.0,answer_line
+test,42,The city of Kota Kinabalu is in Malaysia.,1,1.0,1.0,1.0,answer_line
+test,43,The city of Nashik is in Brazil.,0,0.0,,0.0,answer_line
+test,44,The city of Qinzhou is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+test,45,The city of Denpasar is in Russia.,0,0.0,,0.0,answer_line
+test,46,The city of Pyongyang is in North Korea.,1,1.0,,1.0,answer_line
+test,47,The city of Sangli is in China.,0,1.0,1.0,1.0,answer_line
+test,48,The city of Puente Alto is in China.,0,0.0,,0.0,answer_line
+test,49,The city of Zhaotong is in China.,1,1.0,1.0,1.0,answer_line
+test,50,The city of Santo Domingo Oeste is in the Dominican Republic.,1,1.0,1.0,1.0,answer_line
+test,51,The city of Niamey is in Niger.,1,1.0,1.0,1.0,answer_line
+test,52,The city of Cabinda is in Angola.,1,1.0,,1.0,answer_line
+test,53,The city of Jamshedpur is in India.,1,1.0,,1.0,answer_line
+test,54,The city of Matsuyama is in Japan.,1,1.0,,1.0,answer_line
+test,55,The city of Himeji is in Japan.,1,0.0,,0.0,answer_line
+test,56,The city of Pretoria is in South Africa.,1,1.0,,1.0,answer_line
+test,57,The city of Karol Bagh is in Brazil.,0,0.0,,0.0,answer_line
+test,58,The city of Navi Mumbai is in India.,1,1.0,1.0,1.0,answer_line
+test,59,The city of Zhumadian is in Colombia.,0,0.0,,0.0,answer_line
+test,60,The city of Riga is in Latvia.,1,1.0,,1.0,answer_line
+test,61,The city of Rio de Janeiro is in Brazil.,1,1.0,,1.0,answer_line
+test,62,The city of Cebu City is in South Africa.,0,0.0,,0.0,answer_line
+test,63,The city of Bokaro is in Venezuela.,0,0.0,,0.0,answer_line
+test,64,The city of Basrah is in China.,0,0.0,,0.0,answer_line
+test,65,The city of Zanzibar is in India.,0,0.0,,0.0,answer_line
+test,66,The city of Gqeberha is in South Africa.,1,0.0,,0.0,answer_line
+test,67,The city of Kryvyy Rih is in Ukraine.,1,1.0,1.0,1.0,answer_line
+test,68,The city of Chennai is in India.,1,1.0,,1.0,answer_line
+test,69,The city of Khulna is in Bangladesh.,1,1.0,,1.0,answer_line
+test,70,The city of Teresina is in South Korea.,0,0.0,,0.0,answer_line
+test,71,The city of Utsunomiya is in Canada.,0,0.0,,0.0,answer_line
+test,72,The city of Bilimora is in India.,1,1.0,1.0,1.0,answer_line
+test,73,The city of Lipetsk is in Russia.,1,0.0,,0.0,answer_line
+test,74,The city of Qui Nhon is in Vietnam.,1,1.0,1.0,1.0,answer_line
+test,75,The city of Bien Hoa is in China.,0,0.0,,0.0,answer_line
+test,76,The city of Zarqa is in Russia.,0,0.0,,0.0,answer_line
+test,77,The city of Jaipur is in India.,1,1.0,1.0,1.0,answer_line
+test,78,The city of Baise is in Angola.,0,1.0,,1.0,answer_line
+test,79,The city of Carrefour is in China.,0,1.0,,1.0,answer_line
+test,80,The city of Navi Mumbai is in China.,0,0.0,,0.0,answer_line
+test,81,The city of Harbin is in Uganda.,0,0.0,,0.0,answer_line
+test,82,The city of Abeokuta is in Bangladesh.,0,0.0,,0.0,answer_line
+test,83,The city of Ho Chi Minh City is in Nigeria.,0,0.0,,0.0,answer_line
+test,84,The city of Kampung Baru Subang is in China.,0,0.0,,0.0,answer_line
+test,85,The city of Konya is in Senegal.,0,0.0,,0.0,answer_line
+test,86,The city of Astana is in Kazakhstan.,1,1.0,,1.0,answer_line
+test,87,The city of Abu Ghurayb is in Iraq.,1,1.0,1.0,1.0,answer_line
+test,88,The city of Al Ain City is in South Korea.,0,0.0,,0.0,answer_line
+test,89,The city of Antananarivo is in Egypt.,0,0.0,,0.0,answer_line
+test,90,The city of Shangqiu is in China.,1,1.0,1.0,1.0,answer_line
+test,91,The city of Yaroslavl is in Niger.,0,0.0,,0.0,answer_line
+test,92,The city of Hezhou is in China.,1,1.0,1.0,1.0,answer_line
+test,93,The city of Batam is in Vietnam.,0,0.0,,0.0,answer_line
+test,94,The city of Jambi City is in Indonesia.,1,1.0,,1.0,answer_line
+test,95,The city of Teni is in Côte d'Ivoire.,0,1.0,,1.0,answer_line
+test,96,The city of Yaounde is in Cameroon.,1,1.0,1.0,1.0,answer_line
+test,97,The city of Port-au-Prince is in South Africa.,0,0.0,,0.0,answer_line
+test,98,The city of Guangyuan is in China.,1,1.0,,1.0,answer_line
+test,99,The city of Nasiriyah is in Iraq.,1,1.0,1.0,1.0,answer_line
+test,100,The city of Abobo is in Saudi Arabia.,0,0.0,,0.0,answer_line
+test,101,The city of Bucharest is in Romania.,1,1.0,,1.0,answer_line
+test,102,The city of Jhang Sadr is in Angola.,0,0.0,,0.0,answer_line
+test,103,The city of Maianga is in Angola.,1,1.0,,1.0,answer_line
+test,104,The city of Dammam is in Saudi Arabia.,1,1.0,1.0,1.0,answer_line
+test,105,The city of Oslo is in Norway.,1,1.0,,1.0,answer_line
+test,106,The city of Semarang is in Malaysia.,0,0.0,,0.0,answer_line
+test,107,The city of New York City is in New Zealand.,0,0.0,0.0,0.0,answer_line
+test,108,The city of Xianyang is in Mexico.,0,0.0,0.0,0.0,answer_line
+test,109,The city of Jamnagar is in India.,1,0.0,,0.0,answer_line
+test,110,The city of Zibo is in China.,1,1.0,1.0,1.0,answer_line
+test,111,The city of Yerevan is in Honduras.,0,0.0,,0.0,answer_line
+test,112,The city of Laibin is in Egypt.,0,0.0,,0.0,answer_line
+test,113,The city of Wanzhou is in China.,1,1.0,1.0,1.0,answer_line
+test,114,The city of N'Djamena is in China.,0,0.0,,0.0,answer_line
+test,115,The city of Dakar is in Germany.,0,0.0,,0.0,answer_line
+test,116,The city of Sokoto is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,117,The city of Kitwe is in Malaysia.,0,0.0,,0.0,answer_line
+test,118,The city of Kakamega is in Kenya.,1,1.0,1.0,1.0,answer_line
+test,119,The city of Panzhihua is in Nigeria.,0,0.0,0.0,0.0,answer_line
+test,120,The city of Vientiane is in Laos.,1,1.0,1.0,1.0,answer_line
+test,121,The city of Changde is in China.,1,1.0,1.0,1.0,answer_line
+test,122,The city of Shymkent is in India.,0,0.0,0.0,0.0,answer_line
+test,123,The city of Bien Hoa is in Vietnam.,1,1.0,1.0,1.0,answer_line
+test,124,The city of Hiroshima is in Poland.,0,0.0,,0.0,answer_line
+test,125,The city of Tyumen is in Russia.,1,0.0,,0.0,answer_line
+test,126,The city of Pelentong is in Malaysia.,1,0.0,,0.0,answer_line
+test,127,The city of Lyon is in China.,0,0.0,0.0,0.0,answer_line
+test,128,The city of Ziyang is in China.,1,1.0,,1.0,answer_line
+test,129,The city of Himeji is in the United States.,0,0.0,,0.0,answer_line
+test,130,The city of Dortmund is in China.,0,0.0,,0.0,answer_line
+test,131,The city of Anshun is in Canada.,0,0.0,,0.0,answer_line
+test,132,The city of Baotou is in Iran.,0,0.0,,0.0,answer_line
+test,133,The city of Jiangmen is in China.,1,1.0,,1.0,answer_line
+test,134,The city of Tiruchirappalli is in China.,0,0.0,,0.0,answer_line
+test,135,The city of Ananindeua is in Brazil.,1,1.0,,1.0,answer_line
+test,136,The city of Antalya is in Kazakhstan.,0,0.0,,0.0,answer_line
+test,137,The city of Kanayannur is in Mexico.,0,0.0,,0.0,answer_line
+test,138,The city of Bannu is in Pakistan.,1,1.0,,1.0,answer_line
+test,139,The city of Madinat an Nasr is in Egypt.,1,1.0,,1.0,answer_line
+test,140,The city of Abuja is in China.,0,0.0,0.0,0.0,answer_line
+test,141,The city of Sarajevo is in Malaysia.,0,0.0,,0.0,answer_line
+test,142,The city of Sargodha is in Pakistan.,1,1.0,,1.0,answer_line
+test,143,The city of Hebi is in Brazil.,0,1.0,,1.0,answer_line
+test,144,The city of Kikolo is in Angola.,1,1.0,,1.0,answer_line
+test,145,The city of Shenyang is in China.,1,1.0,,1.0,answer_line
+test,146,The city of Ra's Bayrut is in Ghana.,0,0.0,,0.0,answer_line
+test,147,The city of Palembang is in Indonesia.,1,1.0,,1.0,answer_line
+test,148,The city of Aden is in China.,0,0.0,,0.0,answer_line
+test,149,The city of Guatemala City is in Mexico.,0,0.0,,0.0,answer_line
+test,150,The city of Cagayan de Oro is in the Philippines.,1,1.0,1.0,1.0,answer_line
+test,151,The city of Dushanbe is in Tajikistan.,1,0.0,,0.0,answer_line
+test,152,The city of Bloemfontein is in South Africa.,1,1.0,,1.0,answer_line
+test,153,The city of Ludhiana is in India.,1,1.0,,1.0,answer_line
+test,154,The city of Calabar is in Uganda.,0,0.0,,0.0,answer_line
+test,155,The city of Khabarovsk is in Russia.,1,0.0,,0.0,answer_line
+test,156,The city of Mandalay is in the United States.,0,0.0,,0.0,answer_line
+test,157,The city of Vladivostok is in China.,0,0.0,,0.0,answer_line
+test,158,The city of Peshawar is in India.,0,0.0,,0.0,answer_line
+test,159,The city of Moradabad is in Turkey.,0,0.0,,0.0,answer_line
+test,160,The city of Aihara is in India.,0,0.0,,0.0,answer_line
+test,161,The city of Iskandar Puteri is in Malaysia.,1,1.0,1.0,1.0,answer_line
+test,162,The city of Gujranwala is in Pakistan.,1,1.0,1.0,1.0,answer_line
+test,163,The city of Shantou is in China.,1,1.0,1.0,1.0,answer_line
+test,164,The city of Chizhou is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+test,165,The city of Ahvaz is in Iran.,1,1.0,,1.0,answer_line
+test,166,The city of Varanasi is in India.,1,1.0,1.0,1.0,answer_line
+test,167,The city of Kananga is in the Democratic Republic of the Congo.,1,1.0,,1.0,answer_line
+test,168,The city of Indianapolis is in the United States.,1,1.0,,1.0,answer_line
+test,169,The city of Mexico City is in Mexico.,1,1.0,1.0,1.0,answer_line
+test,170,The city of Kampala is in Malaysia.,0,0.0,,0.0,answer_line
+test,171,The city of Macapa is in Brazil.,1,0.0,,0.0,answer_line
+test,172,The city of Comilla is in Bangladesh.,1,1.0,1.0,1.0,answer_line
+test,173,The city of Jiaxing is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+test,174,The city of Nampula is in Mozambique.,1,1.0,1.0,1.0,answer_line
+test,175,The city of Owerri is in Japan.,0,0.0,,0.0,answer_line
+test,176,The city of Mogadishu is in Somalia.,1,1.0,,1.0,answer_line
+test,177,The city of Victoria de Durango is in Belarus.,0,0.0,,0.0,answer_line
+test,178,The city of UEskuedar is in China.,0,0.0,,0.0,answer_line
+test,179,The city of Barnaul is in Russia.,1,1.0,1.0,1.0,answer_line
+test,180,The city of Chunian is in Pakistan.,1,1.0,1.0,1.0,answer_line
+test,181,The city of Thembisa is in South Africa.,1,1.0,1.0,1.0,answer_line
+test,182,The city of Liaocheng is in China.,1,1.0,1.0,1.0,answer_line
+test,183,The city of Yingkou is in China.,1,1.0,1.0,1.0,answer_line
+test,184,The city of Changwon is in China.,0,0.0,,0.0,answer_line
+test,185,The city of Cancun is in Mexico.,1,1.0,,1.0,answer_line
+test,186,The city of Aparecida de Goiania is in Brazil.,1,1.0,1.0,1.0,answer_line
+test,187,The city of Likasi is in China.,0,0.0,,0.0,answer_line
+test,188,The city of UEruemqi is in Bangladesh.,0,0.0,0.0,0.0,answer_line
+test,189,The city of Yangon is in Turkey.,0,0.0,,0.0,answer_line
+test,190,The city of Namangan is in Uzbekistan.,1,1.0,1.0,1.0,answer_line
+test,191,The city of Guilin is in China.,1,1.0,1.0,1.0,answer_line
+test,192,The city of Lanzhou is in Mexico.,0,0.0,,0.0,answer_line
+test,193,The city of Pudong is in China.,1,1.0,1.0,1.0,answer_line
+test,194,The city of Madinah is in Saudi Arabia.,1,1.0,1.0,1.0,answer_line
+test,195,The city of Dammam is in Pakistan.,0,0.0,,0.0,answer_line
+test,196,The city of Mosul is in North Korea.,0,0.0,,0.0,answer_line
+test,197,The city of Irkutsk is in Russia.,1,1.0,,1.0,answer_line
+test,198,The city of Fortaleza is in China.,0,0.0,,0.0,answer_line
+test,199,The city of Longyan is in Thailand.,0,0.0,,0.0,answer_line
+test,200,"The city of Mianzhu, Deyang, Sichuan is in Angola.",0,0.0,,0.0,answer_line
+test,201,The city of Niamey is in South Korea.,0,0.0,,0.0,answer_line
+test,202,The city of Soshanguve is in South Africa.,1,0.0,,0.0,answer_line
+test,203,The city of Dongying is in China.,1,1.0,1.0,1.0,answer_line
+test,204,The city of Zhengzhou is in Uzbekistan.,0,0.0,,0.0,answer_line
+test,205,The city of Guangzhou is in China.,1,1.0,1.0,1.0,answer_line
+test,206,The city of Shizuishan is in China.,1,1.0,1.0,1.0,answer_line
+test,207,The city of Bhopal is in India.,1,1.0,1.0,1.0,answer_line
+test,208,The city of Ranchi is in India.,1,1.0,1.0,1.0,answer_line
+test,209,The city of Erzurum is in Turkey.,1,1.0,1.0,1.0,answer_line
+test,210,The city of San Luis Potosi is in Mexico.,1,1.0,1.0,1.0,answer_line
+test,211,The city of Kumamoto is in Japan.,1,1.0,1.0,1.0,answer_line
+test,212,The city of Izmir is in Turkey.,1,1.0,1.0,1.0,answer_line
+test,213,The city of Jieyang is in China.,1,1.0,1.0,1.0,answer_line
+test,214,The city of Shymkent is in Kazakhstan.,1,1.0,1.0,1.0,answer_line
+test,215,The city of Kota Kuala Muda is in France.,0,0.0,,0.0,answer_line
+test,216,The city of Caracas is in India.,0,0.0,,0.0,answer_line
+test,217,The city of Mulenvos is in Mexico.,0,0.0,,0.0,answer_line
+test,218,The city of Makhachkala is in Russia.,1,1.0,1.0,1.0,answer_line
+test,219,The city of Khulna is in China.,0,0.0,,0.0,answer_line
+test,220,The city of Zhanjiang is in the United States.,0,0.0,,0.0,answer_line
+test,221,The city of Huangshi is in Nicaragua.,0,0.0,,0.0,answer_line
+test,222,The city of Madinat an Nasr is in Mexico.,0,0.0,0.0,0.0,answer_line
+test,223,The city of Muscat is in Oman.,1,1.0,,1.0,answer_line
+test,224,The city of Taguig is in Japan.,0,0.0,,0.0,answer_line
+test,225,The city of Visakhapatnam is in India.,1,1.0,,1.0,answer_line
+test,226,The city of Tucson is in China.,0,0.0,0.0,0.0,answer_line
+test,227,The city of Khartoum is in Sudan.,1,1.0,1.0,1.0,answer_line
+test,228,The city of Ecatepec de Morelos is in Lebanon.,0,0.0,,0.0,answer_line
+test,229,The city of Thane is in Bangladesh.,0,0.0,,0.0,answer_line
+test,230,The city of Anshun is in China.,1,1.0,1.0,1.0,answer_line
+test,231,The city of Wanxian is in China.,1,1.0,1.0,1.0,answer_line
+test,232,The city of Zunyi is in the United Arab Emirates.,0,0.0,,0.0,answer_line
+test,233,The city of Sokoto is in Syria.,0,0.0,0.0,0.0,answer_line
+test,234,The city of Nyala is in Sudan.,1,0.0,,0.0,answer_line
+test,235,The city of Khabarovsk is in Saudi Arabia.,0,0.0,,0.0,answer_line
+test,236,The city of Khartoum North is in Sudan.,1,1.0,1.0,1.0,answer_line
+test,237,The city of Bogor is in Indonesia.,1,1.0,1.0,1.0,answer_line
+test,238,The city of Rawalpindi is in Turkey.,0,0.0,,0.0,answer_line
+test,239,The city of Managua is in Nicaragua.,1,1.0,1.0,1.0,answer_line
+test,240,The city of Dodoma is in Tanzania.,1,1.0,1.0,1.0,answer_line
+test,241,The city of Arusha is in Tanzania.,1,0.0,,0.0,answer_line
+test,242,The city of Sanming is in Colombia.,0,0.0,,0.0,answer_line
+test,243,The city of Mombasa is in Brazil.,0,0.0,,0.0,answer_line
+test,244,The city of Xiaogan is in China.,1,1.0,1.0,1.0,answer_line
+test,245,The city of Astrakhan is in Nigeria.,0,0.0,,0.0,answer_line
+test,246,The city of Ganzhou is in Indonesia.,0,0.0,,0.0,answer_line
+test,247,The city of Hachioji is in Japan.,1,1.0,,1.0,answer_line
+test,248,The city of Naucalpan de Juarez is in Mexico.,1,1.0,,1.0,answer_line
+test,249,The city of Mohammadpur is in Bangladesh.,1,1.0,1.0,1.0,answer_line
+test,250,The city of Sagamihara is in Japan.,1,1.0,1.0,1.0,answer_line
+test,251,The city of Kota Bharu is in China.,0,0.0,,0.0,answer_line
+test,252,The city of General Santos is in the Philippines.,1,1.0,1.0,1.0,answer_line
+test,253,The city of Fort Worth is in France.,0,0.0,,0.0,answer_line
+test,254,The city of Dehradun is in Mexico.,0,0.0,,0.0,answer_line
+test,255,The city of Kagoshima is in Ecuador.,0,0.0,,0.0,answer_line
+test,256,The city of Volgograd is in Russia.,1,0.0,,0.0,answer_line
+test,257,The city of Ibb is in India.,0,0.0,,0.0,answer_line
+test,258,The city of Siliguri is in India.,1,1.0,1.0,1.0,answer_line
+test,259,The city of Tlalpan is in Saudi Arabia.,0,0.0,,0.0,answer_line
+test,260,The city of Pune is in India.,1,1.0,,1.0,answer_line
+test,261,The city of Ludhiana is in China.,0,0.0,,0.0,answer_line
+test,262,The city of Algiers is in Algeria.,1,1.0,1.0,1.0,answer_line
+test,263,The city of Chisinau is in Malaysia.,0,0.0,,0.0,answer_line
+test,264,The city of Latakia is in Syria.,1,1.0,1.0,1.0,answer_line
+test,265,The city of Calabar is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,266,The city of Koeln is in Germany.,1,1.0,,1.0,answer_line
+test,267,The city of Tyumen is in Turkey.,0,0.0,,0.0,answer_line
+test,268,The city of Itabashi is in Japan.,1,0.0,,0.0,answer_line
+test,269,The city of Novokuznetsk is in Russia.,1,0.0,,0.0,answer_line
+test,270,The city of Hoji ya Henda is in Angola.,1,0.0,,0.0,answer_line
+test,271,The city of Nanning is in China.,1,1.0,,1.0,answer_line
+test,272,The city of Iskandar Puteri is in Gabon.,0,0.0,,0.0,answer_line
+test,273,The city of Copenhagen is in Denmark.,1,1.0,,1.0,answer_line
+test,274,The city of Narela is in India.,1,1.0,1.0,1.0,answer_line
+test,275,The city of Ile-Ife is in China.,0,0.0,,0.0,answer_line
+test,276,The city of Penza is in Russia.,1,0.0,,0.0,answer_line
+test,277,The city of Pokhara is in Uzbekistan.,0,0.0,,0.0,answer_line
+test,278,The city of Oujda is in Japan.,0,0.0,,0.0,answer_line
+test,279,The city of Owerri is in Nigeria.,1,0.0,,0.0,answer_line
+test,280,The city of Aqsu is in China.,1,1.0,1.0,1.0,answer_line
+test,281,The city of Ha'il is in Saudi Arabia.,1,1.0,1.0,1.0,answer_line
+test,282,The city of Jajmau is in Malaysia.,0,0.0,,0.0,answer_line
+test,283,The city of Akure is in Jordan.,0,0.0,,0.0,answer_line
+test,284,The city of Reynosa is in Mexico.,1,1.0,,1.0,answer_line
+test,285,The city of Mbeya is in Burundi.,0,0.0,,0.0,answer_line
+test,286,The city of Cebu City is in the Philippines.,1,1.0,,1.0,answer_line
+test,287,The city of Tshikapa is in the Democratic Republic of the Congo.,1,0.0,,0.0,answer_line
+test,288,The city of Evaton is in South Africa.,1,1.0,1.0,1.0,answer_line
+test,289,The city of Bauchi is in Nigeria.,1,1.0,,1.0,answer_line
+test,290,The city of Bayan Nur is in Bangladesh.,0,,,,none
+test,291,The city of Xingtai is in Kazakhstan.,0,0.0,,0.0,answer_line
+test,292,The city of Kolkata is in Mozambique.,0,0.0,0.0,0.0,answer_line
+test,293,The city of Fes is in Morocco.,1,1.0,1.0,1.0,answer_line
+test,294,The city of Putuo is in Malaysia.,0,0.0,,0.0,answer_line
+test,295,The city of Sangli is in India.,1,1.0,1.0,1.0,answer_line
+test,296,The city of Latakia is in Burkina Faso.,0,0.0,,0.0,answer_line
+test,297,The city of Bagcilar is in the United States.,0,0.0,,0.0,answer_line
+test,298,The city of Meknes is in Cuba.,0,0.0,,0.0,answer_line
+test,299,The city of Matsuyama is in India.,0,0.0,,0.0,answer_line
+test,300,The city of Volgograd is in the Philippines.,0,0.0,,0.0,answer_line
+test,301,The city of Mumbai is in India.,1,1.0,,1.0,answer_line
+test,302,The city of Rajshahi is in Malaysia.,0,0.0,,0.0,answer_line
+test,303,The city of Pimpri is in China.,0,0.0,,0.0,answer_line
+test,304,The city of Hwaseong-si is in South Korea.,1,1.0,1.0,1.0,answer_line
+test,305,The city of Xianning is in China.,1,1.0,1.0,1.0,answer_line
+test,306,The city of Xiaogan is in Bangladesh.,0,0.0,,0.0,answer_line
+test,307,The city of Kyoto is in Ukraine.,0,0.0,,0.0,answer_line
+test,308,The city of Panjin is in China.,1,1.0,1.0,1.0,answer_line
+test,309,The city of Huainan is in India.,0,0.0,,0.0,answer_line
+test,310,The city of Lanzhou is in China.,1,1.0,1.0,1.0,answer_line
+test,311,The city of Buraydah is in Saudi Arabia.,1,1.0,,1.0,answer_line
+test,312,The city of Port Harcourt is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,313,The city of Qinhuangdao is in China.,1,1.0,1.0,1.0,answer_line
+test,314,The city of Wenzhou is in Colombia.,0,0.0,,0.0,answer_line
+test,315,The city of Ajegunle is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,316,The city of Kuecuekcekmece is in Turkey.,1,0.0,,0.0,answer_line
+test,317,The city of Warri is in Myanmar.,0,0.0,,0.0,answer_line
+test,318,The city of Auckland is in China.,0,0.0,,0.0,answer_line
+test,319,The city of Amravati is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+test,320,The city of Carrefour is in Haiti.,1,0.0,,0.0,answer_line
+test,321,The city of Bujumbura is in Burundi.,1,0.0,,0.0,answer_line
+test,322,The city of Zhuzhou is in the United States.,0,0.0,,0.0,answer_line
+test,323,The city of Kota Kinabalu is in India.,0,0.0,,0.0,answer_line
+test,324,The city of Daqing is in China.,1,0.0,,0.0,answer_line
+test,325,The city of Ciudad Nezahualcoyotl is in Mexico.,1,1.0,1.0,1.0,answer_line
+test,326,The city of Yunfu is in China.,1,0.0,,0.0,answer_line
+test,327,The city of Soacha is in Colombia.,1,1.0,1.0,1.0,answer_line
+test,328,The city of Lubango is in Angola.,1,1.0,1.0,1.0,answer_line
+test,329,The city of Bamako is in Nepal.,0,0.0,,0.0,answer_line
+test,330,The city of Setagaya is in Japan.,1,1.0,1.0,1.0,answer_line
+test,331,The city of Saitama is in Japan.,1,1.0,1.0,1.0,answer_line
+test,332,The city of Ibadan is in Nigeria.,1,0.0,,0.0,answer_line
+test,333,The city of Ashgabat is in Turkmenistan.,1,1.0,1.0,1.0,answer_line
+test,334,The city of Rahim Yar Khan is in China.,0,0.0,,0.0,answer_line
+test,335,The city of Guli is in China.,1,1.0,,1.0,answer_line
+test,336,The city of Minsk is in Belarus.,1,1.0,,1.0,answer_line
+test,337,The city of Porto Velho is in Russia.,0,0.0,,0.0,answer_line
+test,338,The city of Hubballi is in India.,1,1.0,1.0,1.0,answer_line
+test,339,The city of Yaroslavl is in Russia.,1,0.0,,0.0,answer_line
+test,340,The city of Maracaibo is in Venezuela.,1,0.0,,0.0,answer_line
+test,341,The city of Yerevan is in Armenia.,1,1.0,,1.0,answer_line
+test,342,The city of Borama is in Somalia.,1,1.0,1.0,1.0,answer_line
+test,343,The city of Sargodha is in Bangladesh.,0,0.0,,0.0,answer_line
+test,344,The city of Kaifeng is in Pakistan.,0,0.0,,0.0,answer_line
+test,345,The city of Nay Pyi Taw is in Kazakhstan.,0,1.0,1.0,1.0,answer_line
+test,346,The city of Wanzhou is in Guinea.,0,0.0,,0.0,answer_line
+test,347,The city of Kalaburagi is in Turkey.,0,0.0,,0.0,answer_line
+test,348,The city of Kasur is in Yemen.,0,0.0,,0.0,answer_line
+test,349,The city of Florianopolis is in Brazil.,1,1.0,1.0,1.0,answer_line
+test,350,The city of Luancheng is in India.,0,0.0,,0.0,answer_line
+test,351,The city of Ebute Ikorodu is in Nigeria.,1,0.0,,0.0,answer_line
+test,352,The city of Nansana is in Uganda.,1,0.0,,0.0,answer_line
+test,353,The city of Tirunelveli is in Turkmenistan.,0,0.0,0.0,0.0,answer_line
+test,354,The city of Sungai Petani is in Malaysia.,1,1.0,,1.0,answer_line
+test,355,The city of Frankfurt am Main is in China.,0,0.0,,0.0,answer_line
+test,356,The city of Gujranwala is in Japan.,0,0.0,,0.0,answer_line
+test,357,The city of Bulawayo is in Zimbabwe.,1,1.0,1.0,1.0,answer_line
+test,358,The city of Santo Domingo Este is in the Dominican Republic.,1,1.0,1.0,1.0,answer_line
+test,359,The city of Virar is in India.,1,1.0,,1.0,answer_line
+test,360,The city of Wenzhou is in China.,1,1.0,1.0,1.0,answer_line
+test,361,The city of Guangzhou is in the Democratic Republic of the Congo.,0,0.0,0.0,0.0,answer_line
+test,362,The city of Hlaingthaya is in China.,0,0.0,,0.0,answer_line
+test,363,The city of Guilin is in Nigeria.,0,0.0,0.0,0.0,answer_line
+test,364,The city of Camama is in Angola.,1,1.0,1.0,1.0,answer_line
+test,365,The city of Cho Lon is in Vietnam.,1,1.0,1.0,1.0,answer_line
+test,366,The city of Fukuoka is in Belarus.,0,0.0,,0.0,answer_line
+test,367,The city of Tiruchirappalli is in India.,1,1.0,1.0,1.0,answer_line
+test,368,The city of Mogadishu is in South Korea.,0,0.0,,0.0,answer_line
+test,369,The city of Sharjah is in the United Arab Emirates.,1,0.0,0.0,0.0,answer_line
+test,370,The city of Zhangjiagang is in China.,1,1.0,1.0,1.0,answer_line
+test,371,The city of Eskisehir is in Turkey.,1,1.0,1.0,1.0,answer_line
+test,372,The city of San Pedro Sula is in Côte d'Ivoire.,0,0.0,,0.0,answer_line
+test,373,The city of Addis Ababa is in Ethiopia.,1,1.0,1.0,1.0,answer_line
+test,374,The city of Wuzhou is in Finland.,0,0.0,0.0,0.0,answer_line
+test,375,The city of Wanning is in the Philippines.,0,0.0,,0.0,answer_line
+test,376,The city of Ibb is in Yemen.,1,1.0,1.0,1.0,answer_line
+test,377,The city of Zaozhuang is in China.,1,1.0,1.0,1.0,answer_line
+test,378,The city of Ribeirao Preto is in Vietnam.,0,0.0,,0.0,answer_line
+test,379,The city of Erbil is in China.,0,0.0,,0.0,answer_line
+test,380,The city of Yunfu is in Indonesia.,0,0.0,,0.0,answer_line
+test,381,The city of Irkutsk is in Brazil.,0,0.0,0.0,0.0,answer_line
+test,382,The city of Hengyang is in China.,1,1.0,1.0,1.0,answer_line
+test,383,The city of Benoni is in South Africa.,1,1.0,1.0,1.0,answer_line
+test,384,The city of Krasnoyarsk is in the Dominican Republic.,0,0.0,,0.0,answer_line
+test,385,The city of Xiamen is in China.,1,1.0,1.0,1.0,answer_line
+test,386,The city of Abobo is in Côte d'Ivoire.,1,1.0,,1.0,answer_line
+test,387,The city of Battagram is in Indonesia.,0,0.0,,0.0,answer_line
+test,388,The city of South Tangerang is in Brazil.,0,0.0,,0.0,answer_line
+test,389,The city of Esenyurt is in Turkey.,1,1.0,1.0,1.0,answer_line
+test,390,The city of Dnipro is in Turkey.,0,0.0,,0.0,answer_line
+test,391,The city of Siping is in China.,1,1.0,1.0,1.0,answer_line
+test,392,The city of Tabriz is in Iran.,1,1.0,1.0,1.0,answer_line
+test,393,The city of Dhanbad is in India.,1,1.0,1.0,1.0,answer_line
+test,394,The city of Irbid is in India.,0,0.0,,0.0,answer_line
+test,395,The city of Panjin is in Syria.,0,0.0,,0.0,answer_line
+test,396,The city of Xuhui is in India.,0,0.0,,0.0,answer_line
+test,397,The city of Baoji is in China.,1,1.0,1.0,1.0,answer_line
+test,398,The city of Cixi is in France.,0,0.0,,0.0,answer_line
+test,399,The city of Abuja is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,400,The city of Pimpri-Chinchwad is in India.,1,1.0,1.0,1.0,answer_line
+test,401,The city of Yekaterinburg is in Russia.,1,1.0,,1.0,answer_line
+test,402,The city of Arequipa is in Peru.,1,1.0,1.0,1.0,answer_line
+test,403,The city of Ansan-si is in South Korea.,1,1.0,1.0,1.0,answer_line
+test,404,The city of Zamboanga is in India.,0,0.0,,0.0,answer_line
+test,405,The city of Tucson is in the United States.,1,0.0,,0.0,answer_line
+test,406,The city of Sofia is in China.,0,0.0,,0.0,answer_line
+test,407,The city of Curitiba is in Iran.,0,0.0,,0.0,answer_line
+test,408,The city of Chenzhou is in China.,1,0.0,,0.0,answer_line
+test,409,The city of Nanded is in the Democratic Republic of the Congo.,0,0.0,,0.0,answer_line
+test,410,The city of Santiago de los Caballeros is in the Dominican Republic.,1,1.0,,1.0,answer_line
+test,411,The city of Rasapudipalem is in Cambodia.,0,1.0,1.0,1.0,answer_line
+test,412,The city of Akure is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,413,The city of Surakarta is in Indonesia.,1,0.0,,0.0,answer_line
+test,414,The city of Aguascalientes is in Mexico.,1,1.0,,1.0,answer_line
+test,415,The city of Hamhung is in North Korea.,1,1.0,1.0,1.0,answer_line
+test,416,The city of Soweto is in South Africa.,1,1.0,,1.0,answer_line
+test,417,The city of Huainan is in China.,1,1.0,,1.0,answer_line
+test,418,The city of Busan is in South Korea.,1,1.0,1.0,1.0,answer_line
+test,419,The city of Dandong is in China.,1,1.0,1.0,1.0,answer_line
+test,420,The city of Handan is in China.,1,1.0,,1.0,answer_line
+test,421,The city of Budta is in the Philippines.,1,0.0,,0.0,answer_line
+test,422,The city of Huizhou is in China.,1,1.0,1.0,1.0,answer_line
+test,423,The city of Jiangyin is in India.,0,0.0,,0.0,answer_line
+test,424,The city of Queens is in China.,0,0.0,,0.0,answer_line
+test,425,The city of General Santos is in Canada.,0,0.0,0.0,0.0,answer_line
+test,426,The city of Cuttack is in India.,1,1.0,1.0,1.0,answer_line
+test,427,The city of Linyi is in China.,1,1.0,1.0,1.0,answer_line
+test,428,The city of Omdurman is in Indonesia.,0,0.0,,0.0,answer_line
+test,429,The city of Mengzi is in China.,1,1.0,1.0,1.0,answer_line
+test,430,The city of Hohhot is in Pakistan.,0,0.0,,0.0,answer_line
+test,431,The city of Maiduguri is in China.,0,0.0,0.0,0.0,answer_line
+test,432,The city of Kyiv is in Ukraine.,1,1.0,,1.0,answer_line
+test,433,The city of Jos is in Nigeria.,1,1.0,1.0,1.0,answer_line
+test,434,The city of Kalininskiy is in Russia.,1,1.0,1.0,1.0,answer_line
+test,435,The city of Suizhou is in Kyrgyzstan.,0,0.0,0.0,0.0,answer_line
+test,436,The city of Zhu Cheng City is in Japan.,0,1.0,,1.0,answer_line
+test,437,The city of Davao is in the Philippines.,1,1.0,1.0,1.0,answer_line
+test,438,The city of San Pedro Sula is in Honduras.,1,1.0,1.0,1.0,answer_line
+test,439,The city of Bhilai is in India.,1,1.0,1.0,1.0,answer_line
+test,440,The city of Esenler is in China.,0,0.0,,0.0,answer_line
+test,441,The city of Kuantan is in Malaysia.,1,1.0,1.0,1.0,answer_line
+test,442,The city of Kagoshima is in Japan.,1,1.0,1.0,1.0,answer_line
+test,443,The city of Adana is in China.,0,0.0,,0.0,answer_line
+test,444,The city of Cankaya is in Turkey.,1,0.0,,0.0,answer_line
+test,445,The city of Oslo is in Vietnam.,0,0.0,,0.0,answer_line
+test,446,The city of Guayaquil is in Ecuador.,1,1.0,,1.0,answer_line
+test,447,The city of Duesseldorf is in Germany.,1,1.0,1.0,1.0,answer_line
+test,448,The city of Rohini is in Saudi Arabia.,0,1.0,1.0,1.0,answer_line
+test,449,The city of Weihai is in China.,1,1.0,1.0,1.0,answer_line
+test,450,The city of Pimpri-Chinchwad is in China.,0,0.0,,0.0,answer_line
+test,451,The city of Pyongyang is in China.,0,0.0,,0.0,answer_line
+test,452,The city of Huaibei is in Japan.,0,0.0,,0.0,answer_line
+test,453,The city of Tianjin is in China.,1,1.0,1.0,1.0,answer_line
+test,454,The city of Hebi is in China.,1,1.0,,1.0,answer_line
+test,455,The city of Baghdad is in Iraq.,1,1.0,1.0,1.0,answer_line
+test,456,The city of Copenhagen is in Nigeria.,0,0.0,,0.0,answer_line
+test,457,The city of Pikine is in Senegal.,1,1.0,,1.0,answer_line
+test,458,The city of Putian is in China.,1,1.0,1.0,1.0,answer_line
+test,459,The city of Callao is in Peru.,1,1.0,,1.0,answer_line
+test,460,The city of Niigata is in China.,0,0.0,,0.0,answer_line
+test,461,The city of Prayagraj is in China.,0,0.0,,0.0,answer_line
+test,462,The city of Calumbo is in Angola.,1,0.0,,0.0,answer_line
+test,463,The city of Douala is in Cameroon.,1,0.0,,0.0,answer_line

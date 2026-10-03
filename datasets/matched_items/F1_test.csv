@@ -1,0 +1,492 @@
+statement,label
+The city of Baotou is not in Iran.,1
+The city of Jinzhong is not in Russia.,1
+The city of Sholapur is not in India.,0
+The city of Sanya is not in China.,0
+The city of Gazipur is not in India.,1
+The city of Kemerovo is not in Lebanon.,1
+The city of Anqing is not in India.,1
+The city of Shanghai is not in China.,0
+The city of Coyoacan is not in India.,1
+The city of Hoji ya Henda is not in Angola.,0
+The city of Suginami is not in China.,1
+The city of Nizhniy Novgorod is not in the Democratic Republic of the Congo.,1
+The city of Izmir is not in Turkey.,0
+The city of Vadodara is not in India.,0
+The city of Kolhapur is not in India.,0
+The city of Xiangtan is not in Indonesia.,1
+The city of Harbin is not in Uganda.,1
+The city of Esenyurt is not in Turkey.,0
+The city of Kunming is not in China.,0
+The city of Zhangzhou is not in China.,0
+The city of Xuchang is not in China.,0
+The city of Abu Dhabi is not in the Dominican Republic.,1
+The city of Chenzhou is not in China.,0
+The city of Tanggu is not in China.,0
+The city of Tlalpan is not in Saudi Arabia.,1
+The city of Riga is not in Latvia.,0
+The city of Cotonou is not in Benin.,0
+The city of Siping is not in China.,0
+The city of Puning is not in Russia.,1
+The city of Joao Pessoa is not in Lithuania.,1
+The city of Tianshui is not in Turkey.,1
+The city of Sadr City is not in Iraq.,0
+The city of Zhu Cheng City is not in Japan.,1
+The city of Shantou is not in China.,0
+The city of Kathmandu is not in Nepal.,0
+The city of Panshan is not in China.,0
+The city of Weinan is not in Ukraine.,1
+The city of Mazar-e Sharif is not in India.,1
+The city of Kota Kinabalu is not in India.,1
+The city of Nashik is not in India.,0
+The city of Qinzhou is not in China.,0
+The city of Denpasar is not in Indonesia.,0
+The city of Puning is not in China.,0
+The city of Belford Roxo is not in Brazil.,0
+The city of Sangli is not in India.,0
+The city of Puente Alto is not in Chile.,0
+The city of Zhaotong is not in India.,1
+The city of Santo Domingo Oeste is not in Iran.,1
+The city of Niamey is not in South Korea.,1
+The city of Cabinda is not in South Africa.,1
+The city of Jamshedpur is not in Russia.,1
+The city of Matsuyama is not in India.,1
+The city of Himeji is not in the United States.,1
+The city of Pretoria is not in Egypt.,1
+The city of Karol Bagh is not in India.,0
+The city of Narela is not in India.,0
+The city of Navi Mumbai is not in China.,1
+The city of Zhumadian is not in China.,0
+The city of Riga is not in Brazil.,1
+The city of Rio de Janeiro is not in China.,1
+The city of Cebu City is not in the Philippines.,0
+The city of Meizhou is not in China.,0
+The city of Bokaro is not in India.,0
+The city of Basrah is not in Iraq.,0
+The city of Zanzibar is not in Tanzania.,0
+The city of Gqeberha is not in China.,1
+The city of Kryvyy Rih is not in China.,1
+The city of Chennai is not in Tanzania.,1
+The city of Khulna is not in China.,1
+The city of Teresina is not in Brazil.,0
+The city of Benoni is not in South Africa.,0
+The city of Bilimora is not in the United States.,1
+The city of Lipetsk is not in Burkina Faso.,1
+The city of Qui Nhon is not in Jordan.,1
+The city of Bien Hoa is not in Vietnam.,0
+The city of Zarqa is not in Jordan.,0
+The city of Jaipur is not in China.,1
+The city of Baise is not in China.,0
+The city of Carrefour is not in Haiti.,0
+The city of Navi Mumbai is not in India.,0
+The city of Harbin is not in China.,0
+The city of Abeokuta is not in Nigeria.,0
+The city of Ho Chi Minh City is not in Vietnam.,0
+The city of Kampung Baru Subang is not in Malaysia.,0
+The city of Konya is not in Turkey.,0
+The city of Astana is not in Hungary.,1
+The city of Abu Ghurayb is not in India.,1
+The city of Al Ain City is not in the United Arab Emirates.,0
+The city of Antananarivo is not in Madagascar.,0
+The city of Shangqiu is not in Uzbekistan.,1
+The city of Yaroslavl is not in Russia.,0
+The city of Hezhou is not in Brazil.,1
+The city of Batam is not in Indonesia.,0
+The city of Jambi City is not in China.,1
+The city of Teni is not in India.,0
+The city of Nuremberg is not in Germany.,0
+The city of Yaounde is not in China.,1
+The city of Port-au-Prince is not in Haiti.,0
+The city of Guangyuan is not in Indonesia.,1
+The city of Nasiriyah is not in Venezuela.,1
+The city of Abobo is not in Côte d'Ivoire.,0
+The city of Bucharest is not in China.,1
+The city of Jhang Sadr is not in Pakistan.,0
+The city of Maianga is not in China.,1
+The city of Dammam is not in Pakistan.,1
+The city of Oslo is not in Vietnam.,1
+The city of Al Basrah al Qadimah is not in Iraq.,0
+The city of Semarang is not in Indonesia.,0
+The city of Jamshedpur is not in India.,0
+The city of New York City is not in the United States.,0
+The city of Xianyang is not in China.,0
+The city of Shangyu is not in China.,0
+The city of Jamnagar is not in the Philippines.,1
+The city of Zibo is not in Bangladesh.,1
+The city of Yerevan is not in Armenia.,0
+The city of Laibin is not in China.,0
+The city of Wanzhou is not in Guinea.,1
+The city of Tangshan is not in China.,0
+The city of N'Djamena is not in Chad.,0
+The city of Dakar is not in Senegal.,0
+The city of Sokoto is not in Syria.,1
+The city of Kitwe is not in Zambia.,0
+The city of Kakamega is not in India.,1
+The city of Panzhihua is not in China.,0
+The city of Vientiane is not in Indonesia.,1
+The city of Changde is not in India.,1
+The city of Shymkent is not in Kazakhstan.,0
+The city of Bien Hoa is not in China.,1
+The city of Hiroshima is not in Japan.,0
+The city of Tyumen is not in Turkey.,1
+The city of Pelentong is not in India.,1
+The city of Lyon is not in France.,0
+The city of Ziyang is not in Iraq.,1
+The city of Dortmund is not in Germany.,0
+The city of Anshun is not in China.,0
+The city of Baotou is not in China.,0
+The city of Jiangmen is not in Poland.,1
+The city of Novosibirsk is not in Russia.,0
+The city of Jinan is not in China.,0
+The city of Giza is not in Egypt.,0
+The city of Tiruchirappalli is not in India.,0
+The city of Thu GJuc is not in India.,1
+The city of Ananindeua is not in Iran.,1
+The city of Antalya is not in Turkey.,0
+The city of Kanayannur is not in India.,0
+The city of Bannu is not in Senegal.,1
+The city of Madinat an Nasr is not in Mexico.,1
+The city of Abuja is not in Nigeria.,0
+The city of Sarajevo is not in Bosnia and Herzegovina.,0
+The city of Sargodha is not in Bangladesh.,1
+The city of Hebi is not in China.,0
+The city of Kikolo is not in China.,1
+The city of Shenyang is not in Malaysia.,1
+The city of Ra's Bayrut is not in Lebanon.,0
+The city of Palembang is not in Russia.,1
+The city of Aden is not in Yemen.,0
+The city of Guatemala City is not in Guatemala.,0
+The city of Cagayan de Oro is not in the United States.,1
+The city of Dushanbe is not in China.,1
+The city of Bloemfontein is not in China.,1
+The city of Bukit Rahman Putra is not in Malaysia.,0
+The city of Ludhiana is not in China.,1
+The city of Calabar is not in Nigeria.,0
+The city of Khabarovsk is not in Saudi Arabia.,1
+The city of Mandalay is not in Myanmar.,0
+The city of Kanpur is not in India.,0
+The city of Vladivostok is not in Russia.,0
+The city of Peshawar is not in Pakistan.,0
+The city of Moradabad is not in India.,0
+The city of Aihara is not in Japan.,0
+The city of Iskandar Puteri is not in Gabon.,1
+The city of Gujranwala is not in Japan.,1
+The city of Shantou is not in Bulgaria.,1
+The city of Chizhou is not in China.,0
+The city of Ahvaz is not in China.,1
+The city of Varanasi is not in Vietnam.,1
+The city of Omsk is not in Russia.,0
+The city of Kananga is not in China.,1
+The city of Indianapolis is not in Japan.,1
+The city of Mexico City is not in Guatemala.,1
+The city of Kampala is not in Uganda.,0
+The city of Macapa is not in Iraq.,1
+The city of Comilla is not in China.,1
+The city of Jiaxing is not in China.,0
+The city of Nampula is not in Pakistan.,1
+The city of Owerri is not in Nigeria.,0
+The city of Mogadishu is not in South Korea.,1
+The city of Victoria de Durango is not in Mexico.,0
+The city of Tehran is not in Iran.,0
+The city of UEskuedar is not in Turkey.,0
+The city of Chunian is not in Guatemala.,1
+The city of Thembisa is not in Yemen.,1
+The city of Liaocheng is not in Ukraine.,1
+The city of Yingkou is not in Malaysia.,1
+The city of Changwon is not in South Korea.,0
+The city of Cancun is not in Vietnam.,1
+The city of Aparecida de Goiania is not in India.,1
+The city of Likasi is not in the Democratic Republic of the Congo.,0
+The city of UEruemqi is not in China.,0
+The city of Yangon is not in Myanmar.,0
+The city of Namangan is not in Brazil.,1
+The city of Guilin is not in Nigeria.,1
+The city of Varanasi is not in India.,0
+The city of Lanzhou is not in China.,0
+The city of Pudong is not in Morocco.,1
+The city of Madinah is not in Malaysia.,1
+The city of Dammam is not in Saudi Arabia.,0
+The city of Mosul is not in Iraq.,0
+The city of Irkutsk is not in Brazil.,1
+The city of Fortaleza is not in Brazil.,0
+The city of Longyan is not in China.,0
+"The city of Mianzhu, Deyang, Sichuan is not in China.",0
+The city of Chelyabinsk is not in Russia.,0
+The city of Niamey is not in Niger.,0
+The city of Soshanguve is not in India.,1
+The city of Dongying is not in Mexico.,1
+The city of Zhengzhou is not in China.,0
+The city of Guangzhou is not in the Democratic Republic of the Congo.,1
+The city of Shizuishan is not in Iran.,1
+The city of Bhopal is not in Egypt.,1
+The city of Ranchi is not in China.,1
+The city of Kumasi is not in Ghana.,0
+The city of Erzurum is not in Brazil.,1
+The city of San Luis Potosi is not in China.,1
+The city of Kumamoto is not in Brazil.,1
+The city of Izmir is not in Indonesia.,1
+The city of Jieyang is not in Russia.,1
+The city of Kota Kuala Muda is not in Malaysia.,0
+The city of Caracas is not in Venezuela.,0
+The city of Mulenvos is not in Angola.,0
+The city of Makhachkala is not in China.,1
+The city of Khulna is not in Bangladesh.,0
+The city of Zhanjiang is not in China.,0
+The city of Huangshi is not in China.,0
+The city of Madinat an Nasr is not in Egypt.,0
+The city of Muscat is not in China.,1
+The city of Taguig is not in the Philippines.,0
+The city of Visakhapatnam is not in China.,1
+The city of Tucson is not in the United States.,0
+The city of Khartoum is not in India.,1
+The city of Ecatepec de Morelos is not in Mexico.,0
+The city of Thane is not in India.,0
+The city of Anshun is not in Canada.,1
+The city of Wanxian is not in Syria.,1
+The city of Zunyi is not in China.,0
+The city of Sokoto is not in Nigeria.,0
+The city of Nyala is not in China.,1
+The city of Khabarovsk is not in Russia.,0
+The city of Bogor is not in Yemen.,1
+The city of Rawalpindi is not in Pakistan.,0
+The city of Managua is not in China.,1
+The city of Dodoma is not in China.,1
+The city of Arusha is not in Vietnam.,1
+The city of Sanming is not in China.,0
+The city of Mombasa is not in Kenya.,0
+The city of Xiaogan is not in Bangladesh.,1
+The city of Astrakhan is not in Russia.,0
+The city of Ganzhou is not in China.,0
+The city of Naucalpan de Juarez is not in China.,1
+The city of Mohammadpur is not in Turkey.,1
+The city of Sagamihara is not in China.,1
+The city of Kota Bharu is not in Malaysia.,0
+The city of General Santos is not in Canada.,1
+The city of Fort Worth is not in the United States.,0
+The city of Dehradun is not in India.,0
+The city of Kagoshima is not in Japan.,0
+The city of Volgograd is not in the Philippines.,1
+The city of Ibb is not in Yemen.,0
+The city of Siliguri is not in Pakistan.,1
+The city of Reynosa is not in Mexico.,0
+The city of Tlalpan is not in Mexico.,0
+The city of Pune is not in the United States.,1
+The city of Ludhiana is not in India.,0
+The city of Algiers is not in the Democratic Republic of the Congo.,1
+The city of Queens is not in China.,1
+The city of Chisinau is not in Moldova.,0
+The city of Latakia is not in Burkina Faso.,1
+The city of Dandong is not in China.,0
+The city of Calabar is not in Uganda.,1
+The city of Koeln is not in Kyrgyzstan.,1
+The city of Tyumen is not in Russia.,0
+The city of Itabashi is not in China.,1
+The city of Novokuznetsk is not in Malaysia.,1
+The city of Hoji ya Henda is not in China.,1
+The city of Kayseri is not in Turkey.,0
+The city of Nanning is not in Iraq.,1
+The city of Iskandar Puteri is not in Malaysia.,0
+The city of Copenhagen is not in Nigeria.,1
+The city of Narela is not in China.,1
+The city of Ile-Ife is not in Nigeria.,0
+The city of Penza is not in Colombia.,1
+The city of Pokhara is not in Nepal.,0
+The city of Oujda is not in Morocco.,0
+The city of Owerri is not in Japan.,1
+The city of Aqsu is not in Russia.,1
+The city of Ha'il is not in Finland.,1
+The city of Jajmau is not in India.,0
+The city of Akure is not in Nigeria.,0
+The city of Reynosa is not in China.,1
+The city of Mbeya is not in Tanzania.,0
+The city of Cebu City is not in South Africa.,1
+The city of Tshikapa is not in South Korea.,1
+The city of Evaton is not in Malawi.,1
+The city of Bauchi is not in India.,1
+The city of Pietermaritzburg is not in South Africa.,0
+The city of Bayan Nur is not in China.,0
+The city of Xingtai is not in China.,0
+The city of Kolkata is not in India.,0
+The city of Fes is not in the Democratic Republic of the Congo.,1
+The city of Putuo is not in China.,0
+The city of Sangli is not in China.,1
+The city of Latakia is not in Syria.,0
+The city of Bagcilar is not in Turkey.,0
+The city of Meknes is not in Morocco.,0
+The city of Matsuyama is not in Japan.,0
+The city of Volgograd is not in Russia.,0
+The city of Mumbai is not in Vietnam.,1
+The city of Rajshahi is not in Bangladesh.,0
+The city of Pimpri is not in India.,0
+The city of Hwaseong-si is not in China.,1
+The city of Ahvaz is not in Iran.,0
+The city of Xianning is not in Russia.,1
+The city of Mississauga is not in Canada.,0
+The city of Xiaogan is not in China.,0
+The city of Kyoto is not in Japan.,0
+The city of Panjin is not in Syria.,1
+The city of Huainan is not in China.,0
+The city of Lanzhou is not in Mexico.,1
+The city of Buraydah is not in India.,1
+The city of Port Harcourt is not in China.,1
+The city of Qinhuangdao is not in India.,1
+The city of Wenzhou is not in China.,0
+The city of Ajegunle is not in Russia.,1
+The city of Kuecuekcekmece is not in Mexico.,1
+The city of Warri is not in Nigeria.,0
+The city of Auckland is not in New Zealand.,0
+The city of Amravati is not in India.,0
+The city of Ciudad Juarez is not in Japan.,1
+The city of Carrefour is not in China.,1
+The city of Krasnodar is not in Russia.,0
+The city of Zhuzhou is not in China.,0
+The city of Sanaa is not in Yemen.,0
+The city of Kota Kinabalu is not in Malaysia.,0
+The city of Daqing is not in India.,1
+The city of Ciudad Nezahualcoyotl is not in Bangladesh.,1
+The city of Yunfu is not in Indonesia.,1
+The city of Soacha is not in India.,1
+The city of Lubango is not in India.,1
+The city of Bamako is not in Mali.,0
+The city of Setagaya is not in Hungary.,1
+The city of Saitama is not in Australia.,1
+The city of Ibadan is not in India.,1
+The city of Rahim Yar Khan is not in Pakistan.,0
+The city of Naucalpan de Juarez is not in Mexico.,0
+The city of Guli is not in Brazil.,1
+The city of Minsk is not in Egypt.,1
+The city of Porto Velho is not in Brazil.,0
+The city of Hubballi is not in Angola.,1
+The city of Yaroslavl is not in Niger.,1
+The city of Virar is not in India.,0
+The city of Yerevan is not in Honduras.,1
+The city of Borama is not in South Korea.,1
+The city of Sargodha is not in Pakistan.,0
+The city of Kaifeng is not in China.,0
+The city of Nay Pyi Taw is not in Myanmar.,0
+The city of Wanzhou is not in China.,0
+The city of Kalaburagi is not in India.,0
+The city of Kasur is not in Pakistan.,0
+The city of Florianopolis is not in the United States.,1
+The city of Luancheng is not in China.,0
+The city of Ebute Ikorodu is not in the Philippines.,1
+The city of Nansana is not in China.,1
+The city of Tirunelveli is not in India.,0
+The city of Sungai Petani is not in Malawi.,1
+The city of Frankfurt am Main is not in Germany.,0
+The city of Voronezh is not in Russia.,0
+The city of Gujranwala is not in Pakistan.,0
+The city of Bulawayo is not in Japan.,1
+The city of Santo Domingo Este is not in the Philippines.,1
+The city of Virar is not in China.,1
+The city of Wenzhou is not in Colombia.,1
+The city of Guangzhou is not in China.,0
+The city of Hlaingthaya is not in Myanmar.,0
+The city of Guilin is not in China.,0
+The city of Camama is not in Russia.,1
+The city of Cho Lon is not in the Dominican Republic.,1
+The city of Tiruchirappalli is not in China.,1
+The city of Mogadishu is not in Somalia.,0
+The city of Sharjah is not in Brazil.,1
+The city of Tokyo is not in Japan.,0
+The city of Zhangjiagang is not in Indonesia.,1
+The city of Eskisehir is not in Mauritania.,1
+The city of San Pedro Sula is not in Honduras.,0
+The city of Addis Ababa is not in India.,1
+The city of Wuzhou is not in China.,0
+The city of Wanning is not in China.,0
+The city of Ibb is not in India.,1
+The city of Zaozhuang is not in South Korea.,1
+The city of Ribeirao Preto is not in Brazil.,0
+The city of Erbil is not in Iraq.,0
+The city of Yunfu is not in China.,0
+The city of Pikine is not in Senegal.,0
+The city of Irkutsk is not in Russia.,0
+The city of Hengyang is not in the Philippines.,1
+The city of Benoni is not in India.,1
+The city of Krasnoyarsk is not in Russia.,0
+The city of Xiamen is not in Brazil.,1
+The city of Juiz de Fora is not in Brazil.,0
+The city of Luohe is not in China.,0
+The city of Abobo is not in Saudi Arabia.,1
+The city of Battagram is not in Pakistan.,0
+The city of South Tangerang is not in Indonesia.,0
+The city of Esenyurt is not in Jordan.,1
+The city of Dnipro is not in Ukraine.,0
+The city of Siping is not in the Democratic Republic of the Congo.,1
+The city of Tabriz is not in Turkey.,1
+The city of Dhanbad is not in the United States.,1
+The city of Irbid is not in Jordan.,0
+The city of Panjin is not in China.,0
+The city of Xuhui is not in China.,0
+The city of Baoji is not in Japan.,1
+The city of Cixi is not in China.,0
+The city of Abuja is not in China.,1
+The city of Pimpri-Chinchwad is not in China.,1
+The city of Yekaterinburg is not in Iraq.,1
+The city of Chongqing is not in China.,0
+The city of Ansan-si is not in Afghanistan.,1
+The city of Zamboanga is not in the Philippines.,0
+The city of Sofia is not in Bulgaria.,0
+The city of Curitiba is not in Brazil.,0
+The city of Chenzhou is not in Ukraine.,1
+The city of Nanded is not in India.,0
+The city of Santiago de los Caballeros is not in Bangladesh.,1
+The city of Rasapudipalem is not in India.,0
+The city of Akure is not in Jordan.,1
+The city of Surakarta is not in Pakistan.,1
+The city of Aguascalientes is not in India.,1
+The city of Hamhung is not in Turkey.,1
+The city of Soweto is not in Mexico.,1
+The city of Huainan is not in India.,1
+The city of Busan is not in China.,1
+The city of Dandong is not in Indonesia.,1
+The city of Handan is not in Mexico.,1
+The city of Budta is not in Japan.,1
+The city of Huizhou is not in Japan.,1
+The city of Jiangyin is not in China.,0
+The city of Queens is not in the United States.,0
+The city of General Santos is not in the Philippines.,0
+The city of Cuttack is not in Jordan.,1
+The city of Linyi is not in Mexico.,1
+The city of Omdurman is not in Sudan.,0
+The city of Mengzi is not in Venezuela.,1
+The city of Hohhot is not in China.,0
+The city of Maiduguri is not in Nigeria.,0
+The city of Kryvyy Rih is not in Ukraine.,0
+The city of Ulyanovsk is not in Russia.,0
+The city of Kyiv is not in Germany.,1
+The city of Jos is not in India.,1
+The city of Kalininskiy is not in Germany.,1
+The city of Suizhou is not in China.,0
+The city of Zhu Cheng City is not in China.,0
+The city of Davao is not in China.,1
+The city of San Pedro Sula is not in Côte d'Ivoire.,1
+The city of Bhilai is not in Brazil.,1
+The city of Esenler is not in Turkey.,0
+The city of Kuantan is not in China.,1
+The city of Kagoshima is not in Ecuador.,1
+The city of Adana is not in Turkey.,0
+The city of Cankaya is not in Mozambique.,1
+The city of Oslo is not in Norway.,0
+The city of Guayaquil is not in Bangladesh.,1
+The city of Duesseldorf is not in Vietnam.,1
+The city of Rohini is not in India.,0
+The city of Weihai is not in Tajikistan.,1
+The city of Pimpri-Chinchwad is not in India.,0
+The city of Al Hudaydah is not in Yemen.,0
+The city of Pyongyang is not in North Korea.,0
+The city of Huaibei is not in China.,0
+The city of Tianjin is not in India.,1
+The city of Hebi is not in Brazil.,1
+The city of Fuxin is not in China.,0
+The city of Shangrao is not in China.,0
+The city of Baghdad is not in China.,1
+The city of Copenhagen is not in Denmark.,0
+The city of Pikine is not in India.,1
+The city of Putian is not in Egypt.,1
+The city of Barquisimeto is not in Venezuela.,0
+The city of Callao is not in Brazil.,1
+The city of Niigata is not in Japan.,0
+The city of Prayagraj is not in India.,0
+The city of Calumbo is not in Brazil.,1

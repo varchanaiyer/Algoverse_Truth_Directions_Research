@@ -1,0 +1,9 @@
+# Versions used to build and smoke-test these scripts (2026-10-03).
+torch>=2.4
+transformers>=5.0
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+tabulate

@@ -1,0 +1,1487 @@
+split,row,statement,label,answer_verdict,think_verdict,model_verdict,verdict_source
+train,0,"Exactly 2 of the following cities are in Trinidad and Tobago: Riga, Tiruchirappalli.",0,0.0,0.0,0.0,answer_line
+train,1,"Exactly 2 of the following cities are in Ecuador: Suginami, Sanaa.",0,0.0,,0.0,answer_line
+train,2,"Exactly 2 of the following cities are in Mexico: Naucalpan de Juarez, Santiago de Queretaro.",1,1.0,1.0,1.0,answer_line
+train,3,"Exactly 0 of the following cities are in Latvia: Riga, Naberezhnyye Chelny.",0,0.0,,0.0,answer_line
+train,4,"Exactly 0 of the following cities are in Djibouti: Tangshan, Ningbo.",1,1.0,1.0,1.0,answer_line
+train,5,"Exactly 1 of the following cities are in Zimbabwe: Arifwala, Harare.",1,1.0,1.0,1.0,answer_line
+train,6,"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Islamabad.",0,0.0,,0.0,answer_line
+train,7,"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Mulenvos.",1,1.0,,1.0,answer_line
+train,8,"Exactly 2 of the following cities are in Niger: Enugu, Saratov.",0,0.0,,0.0,answer_line
+train,9,"Exactly 0 of the following cities are in Sudan: Nyala, Khartoum.",0,0.0,,0.0,answer_line
+train,10,"Exactly 2 of the following cities are in Angola: Hoji ya Henda, Kikolo.",1,0.0,0.0,0.0,answer_line
+train,11,"Exactly 0 of the following cities are in Poland: Wroclaw, Tashkent.",0,0.0,,0.0,answer_line
+train,12,"Exactly 1 of the following cities are in Norway: Paranaque City, Oslo.",1,1.0,1.0,1.0,answer_line
+train,13,"Exactly 1 of the following cities are in Malaysia: Krakow, Malacca.",1,1.0,1.0,1.0,answer_line
+train,14,"Exactly 0 of the following cities are in Djibouti: Balbala, Qiqihar.",0,1.0,1.0,1.0,answer_line
+train,15,"Exactly 2 of the following cities are in the Dominican Republic: Sao Bernardo do Campo, Shah Alam.",0,0.0,,0.0,answer_line
+train,16,"Exactly 0 of the following cities are in Tonga: Zanzibar, Vladivostok.",1,1.0,1.0,1.0,answer_line
+train,17,"Exactly 0 of the following cities are in Lesotho: Tiruchirappalli, Naberezhnyye Chelny.",1,1.0,1.0,1.0,answer_line
+train,18,"Exactly 2 of the following cities are in Malaysia: Iskandar Puteri, Pelentong.",1,0.0,,0.0,answer_line
+train,19,"Exactly 0 of the following cities are in Denmark: Zhaoqing, Copenhagen.",0,0.0,0.0,0.0,answer_line
+train,20,"Exactly 2 of the following cities are in Pakistan: Rahim Yar Khan, Bahawalpur.",1,1.0,1.0,1.0,answer_line
+train,21,"Exactly 1 of the following cities are in Nauru: Langfang, Zarqa.",0,0.0,0.0,0.0,answer_line
+train,22,"Exactly 2 of the following cities are in Pakistan: Dera Ismail Khan, Sukkur.",1,1.0,1.0,1.0,answer_line
+train,23,"Exactly 2 of the following cities are in Angola: Golfe, Benguela.",1,1.0,1.0,1.0,answer_line
+train,24,"Exactly 2 of the following cities are in Germany: Munich, Hannover.",1,1.0,1.0,1.0,answer_line
+train,25,"Exactly 1 of the following cities are in the United States: Albuquerque, Indianapolis.",0,0.0,,0.0,answer_line
+train,26,"Exactly 0 of the following cities are in Nigeria: Abuja, Ibadan.",0,0.0,,0.0,answer_line
+train,27,"Exactly 2 of the following cities are in Chad: N'Djamena, Hebi.",0,0.0,0.0,0.0,answer_line
+train,28,"Exactly 2 of the following cities are in South Africa: Evaton, Cape Town.",1,1.0,1.0,1.0,answer_line
+train,29,"Exactly 1 of the following cities are in Uganda: Fortaleza, Saint Petersburg.",0,0.0,,0.0,answer_line
+train,30,"Exactly 1 of the following cities are in Tonga: Chicago, Izmir.",0,0.0,0.0,0.0,answer_line
+train,31,"Exactly 1 of the following cities are in Myanmar: Tangier, Mandalay.",1,1.0,1.0,1.0,answer_line
+train,32,"Exactly 0 of the following cities are in Cambodia: Aihara, Agege.",1,1.0,1.0,1.0,answer_line
+train,33,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Cuttack, Ibb.",0,0.0,,0.0,answer_line
+train,34,"Exactly 0 of the following cities are in Tuvalu: Libreville, The Bronx.",1,1.0,1.0,1.0,answer_line
+train,35,"Exactly 0 of the following cities are in Haiti: Thembisa, Port-au-Prince.",0,0.0,,0.0,answer_line
+train,36,"Exactly 2 of the following cities are in Angola: Cabinda, Calumbo.",1,1.0,1.0,1.0,answer_line
+train,37,"Exactly 1 of the following cities are in Syria: Latakia, Gazipur.",1,1.0,1.0,1.0,answer_line
+train,38,"Exactly 1 of the following cities are in Burkina Faso: Tlalpan, Nanning.",0,0.0,0.0,0.0,answer_line
+train,39,"Exactly 2 of the following cities are in Tanzania: Dodoma, Arusha.",1,1.0,1.0,1.0,answer_line
+train,40,"Exactly 0 of the following cities are in Venezuela: Maturin, Barquisimeto.",0,0.0,,0.0,answer_line
+train,41,"Exactly 2 of the following cities are in Gabon: Muntinlupa, Pingdingshan.",0,0.0,0.0,0.0,answer_line
+train,42,"Exactly 2 of the following cities are in Samoa: Jiaozuo, Ribeirao Preto.",0,0.0,0.0,0.0,answer_line
+train,43,"Exactly 2 of the following cities are in Vietnam: Cho Lon, Nha Trang.",1,1.0,,1.0,answer_line
+train,44,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Sarajevo, Esenler.",0,0.0,0.0,0.0,answer_line
+train,45,"Exactly 1 of the following cities are in Honduras: Dongying, Tegucigalpa.",1,1.0,1.0,1.0,answer_line
+train,46,"Exactly 2 of the following cities are in Saudi Arabia: Sultanah, Ta'if.",1,0.0,,0.0,answer_line
+train,47,"Exactly 1 of the following cities are in Saudi Arabia: Ta'if, Santo Domingo Este.",1,1.0,1.0,1.0,answer_line
+train,48,"Exactly 2 of the following cities are in Tanzania: Zanzibar, Arusha.",1,1.0,1.0,1.0,answer_line
+train,49,"Exactly 0 of the following cities are in Uzbekistan: Almaty, Daejeon.",1,1.0,1.0,1.0,answer_line
+train,50,"Exactly 2 of the following cities are in Iran: Hamadan, Osaka.",0,0.0,,0.0,answer_line
+train,51,"Exactly 2 of the following cities are in China: Hengyang, Lianyungang.",1,,,,none
+train,52,"Exactly 2 of the following cities are in Brazil: Ananindeua, Uberlandia.",1,1.0,1.0,1.0,answer_line
+train,53,"Exactly 2 of the following cities are in Pakistan: Rahim Yar Khan, Gujrat.",1,0.0,0.0,0.0,answer_line
+train,54,"Exactly 1 of the following cities are in Poland: Wroclaw, Bucaramanga.",1,1.0,1.0,1.0,answer_line
+train,55,"Exactly 1 of the following cities are in South Africa: Soshanguve, Adachi.",1,0.0,,0.0,answer_line
+train,56,"Exactly 1 of the following cities are in Pakistan: Rawalpindi, Peshawar.",0,0.0,,0.0,answer_line
+train,57,"Exactly 2 of the following cities are in Egypt: Port Said, Baoji.",0,0.0,,0.0,answer_line
+train,58,"Exactly 2 of the following cities are in Thailand: Seattle, Bangkok.",0,0.0,0.0,0.0,answer_line
+train,59,"Exactly 1 of the following cities are in South Korea: Heze, Huaihua.",0,0.0,0.0,0.0,answer_line
+train,60,"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Diyarbakir.",0,0.0,,0.0,answer_line
+train,61,"Exactly 2 of the following cities are in Russia: Khabarovsk, Makhachkala.",1,1.0,1.0,1.0,answer_line
+train,62,"Exactly 2 of the following cities are in China: Puente Alto, Nampula.",0,0.0,,0.0,answer_line
+train,63,"Exactly 0 of the following cities are in Panama: Pelentong, Tolyatti.",1,1.0,1.0,1.0,answer_line
+train,64,"Exactly 2 of the following cities are in the Philippines: Zamboanga, Muntinlupa.",1,1.0,,1.0,answer_line
+train,65,"Exactly 2 of the following cities are in Germany: Leipzig, Munich.",1,1.0,1.0,1.0,answer_line
+train,66,"Exactly 0 of the following cities are in Saudi Arabia: Gaziantep, Makkah.",0,0.0,,0.0,answer_line
+train,67,"Exactly 0 of the following cities are in Croatia: Vladivostok, Oujda.",1,1.0,1.0,1.0,answer_line
+train,68,"Exactly 2 of the following cities are in Uzbekistan: Hermosillo, Ryazan'.",0,0.0,,0.0,answer_line
+train,69,"Exactly 0 of the following cities are in Peru: Chiclayo, Callao.",0,0.0,,0.0,answer_line
+train,70,"Exactly 0 of the following cities are in Oman: Zhumadian, Muscat.",0,0.0,,0.0,answer_line
+train,71,"Exactly 2 of the following cities are in Yemen: Ibb, Aden.",1,1.0,1.0,1.0,answer_line
+train,72,"Exactly 2 of the following cities are in Cambodia: Pasir Gudang, Situbondo.",0,0.0,0.0,0.0,answer_line
+train,73,"Exactly 2 of the following cities are in Iraq: Al Mawsil al Jadidah, Erbil.",1,1.0,1.0,1.0,answer_line
+train,74,"Exactly 1 of the following cities are in Iran: Zibo, Tabriz.",1,1.0,1.0,1.0,answer_line
+train,75,"Exactly 0 of the following cities are in the Netherlands: Guigang, Uberlandia.",1,1.0,1.0,1.0,answer_line
+train,76,"Exactly 2 of the following cities are in Iraq: Karbala, Nasiriyah.",1,1.0,1.0,1.0,answer_line
+train,77,"Exactly 1 of the following cities are in Slovenia: Nakuru, Ningbo.",0,0.0,0.0,0.0,answer_line
+train,78,"Exactly 2 of the following cities are in Iraq: Baghdad, Al Basrah al Qadimah.",1,1.0,1.0,1.0,answer_line
+train,79,"Exactly 0 of the following cities are in Saint Kitts and Nevis: Selayang Baru Utara, Zhengzhou.",1,1.0,1.0,1.0,answer_line
+train,80,"Exactly 0 of the following cities are in Jamaica: Kunshan, Kaifeng.",1,1.0,1.0,1.0,answer_line
+train,81,"Exactly 2 of the following cities are in Turkey: Malatya, Esenyurt.",1,1.0,1.0,1.0,answer_line
+train,82,"Exactly 0 of the following cities are in Lebanon: Hoji ya Henda, Teni.",1,1.0,1.0,1.0,answer_line
+train,83,"Exactly 0 of the following cities are in Belarus: Kumamoto, Minsk.",0,0.0,,0.0,answer_line
+train,84,"Exactly 2 of the following cities are in Germany: Koeln, Hannover.",1,1.0,1.0,1.0,answer_line
+train,85,"Exactly 2 of the following cities are in Yemen: Pokhara, Sanaa.",0,0.0,,0.0,answer_line
+train,86,"Exactly 1 of the following cities are in the Gambia: Chennai, Guigang.",0,0.0,,0.0,answer_line
+train,87,"Exactly 1 of the following cities are in Germany: Koeln, Madinah.",1,1.0,1.0,1.0,answer_line
+train,88,"Exactly 1 of the following cities are in Japan: Enugu, Kallakurichi.",0,0.0,,0.0,answer_line
+train,89,"Exactly 1 of the following cities are in Bahrain: Kozhikode, Bangkok.",0,0.0,0.0,0.0,answer_line
+train,90,"Exactly 2 of the following cities are in Russia: Omsk, Vladivostok.",1,1.0,1.0,1.0,answer_line
+train,91,"Exactly 0 of the following cities are in Djibouti: Balbala, Abu Ghurayb.",0,0.0,,0.0,answer_line
+train,92,"Exactly 2 of the following cities are in Kenya: Kakamega, Nairobi.",1,1.0,1.0,1.0,answer_line
+train,93,"Exactly 2 of the following cities are in Albania: Queens, Shangluo.",0,0.0,0.0,0.0,answer_line
+train,94,"Exactly 1 of the following cities are in the Central African Republic: Nha Trang, Kigali.",0,0.0,,0.0,answer_line
+train,95,"Exactly 2 of the following cities are in Saudi Arabia: Zhengzhou, Madinah.",0,0.0,,0.0,answer_line
+train,96,"Exactly 0 of the following cities are in Cameroon: Weihai, Huzhou.",1,1.0,1.0,1.0,answer_line
+train,97,"Exactly 0 of the following cities are in Burkina Faso: Petaling Jaya, Ouagadougou.",0,0.0,,0.0,answer_line
+train,98,"Exactly 2 of the following cities are in Iraq: Shymkent, Dodoma.",0,0.0,0.0,0.0,answer_line
+train,99,"Exactly 0 of the following cities are in Saudi Arabia: Madinah, Jeddah.",0,0.0,,0.0,answer_line
+train,100,"Exactly 0 of the following cities are in Guinea: Conakry, Jamshedpur.",0,0.0,,0.0,answer_line
+train,101,"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Gurugram.",0,0.0,,0.0,answer_line
+train,102,"Exactly 1 of the following cities are in Togo: Khartoum, Al Basrah al Qadimah.",0,0.0,,0.0,answer_line
+train,103,"Exactly 1 of the following cities are in Angola: Nakuru, Batam.",0,0.0,,0.0,answer_line
+train,104,"Exactly 1 of the following cities are in Syria: Ar Raqqah, Carrefour.",1,1.0,1.0,1.0,answer_line
+train,105,"Exactly 1 of the following cities are in Sudan: Huludao, Khartoum.",1,1.0,1.0,1.0,answer_line
+train,106,"Exactly 2 of the following cities are in Turkey: Santiago de los Caballeros, Esenler.",0,0.0,0.0,0.0,answer_line
+train,107,"Exactly 0 of the following cities are in Slovakia: Zhangjiagang, Jambi City.",1,1.0,1.0,1.0,answer_line
+train,108,"Exactly 0 of the following cities are in Chile: Puente Alto, Harare.",0,1.0,1.0,1.0,answer_line
+train,109,"Exactly 2 of the following cities are in Finland: Khabarovsk, UEskuedar.",0,,,,none
+train,110,"Exactly 0 of the following cities are in Suriname: Feira de Santana, Kampung Baru Subang.",1,1.0,1.0,1.0,answer_line
+train,111,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Okayama, Changde.",1,1.0,,1.0,answer_line
+train,112,"Exactly 0 of the following cities are in Sweden: Abuja, Stockholm.",0,0.0,,0.0,answer_line
+train,113,"Exactly 1 of the following cities are in Moldova: Batam, Chisinau.",1,1.0,1.0,1.0,answer_line
+train,114,"Exactly 0 of the following cities are in France: Marseille, Tijuana.",0,0.0,,0.0,answer_line
+train,115,"Exactly 2 of the following cities are in Afghanistan: Hubballi, Kalininskiy.",0,0.0,,0.0,answer_line
+train,116,"Exactly 0 of the following cities are in Mexico: Cancun, Gustavo Adolfo Madero.",0,0.0,,0.0,answer_line
+train,117,"Exactly 2 of the following cities are in the Philippines: Makati City, Zamboanga.",1,1.0,,1.0,answer_line
+train,118,"Exactly 0 of the following cities are in Morocco: Xianning, Liupanshui.",1,1.0,1.0,1.0,answer_line
+train,119,"Exactly 0 of the following cities are in Jordan: Zarqa, Amman.",0,0.0,0.0,0.0,answer_line
+train,120,"Exactly 2 of the following cities are in the Philippines: Davao, General Santos.",1,,,,none
+train,121,"Exactly 2 of the following cities are in Angola: Cabinda, Camama.",1,0.0,0.0,0.0,answer_line
+train,122,"Exactly 2 of the following cities are in Romania: Nansana, Bucharest.",0,0.0,0.0,0.0,answer_line
+train,123,"Exactly 0 of the following cities are in Burundi: Bujumbura, Pasig City.",0,0.0,,0.0,answer_line
+train,124,"Exactly 2 of the following cities are in Belarus: Yingkou, Daqing.",0,0.0,,0.0,answer_line
+train,125,"Exactly 2 of the following cities are in Iraq: Karbala, Abu Ghurayb.",1,1.0,1.0,1.0,answer_line
+train,126,"Exactly 2 of the following cities are in Nigeria: Sokoto, Luancheng.",0,0.0,0.0,0.0,answer_line
+train,127,"Exactly 1 of the following cities are in Nicaragua: Bilimora, Seattle.",0,0.0,0.0,0.0,answer_line
+train,128,"Exactly 1 of the following cities are in Saudi Arabia: Dammam, Ta'if.",0,0.0,,0.0,answer_line
+train,129,"Exactly 0 of the following cities are in Iran: Ahvaz, Qom.",0,0.0,,0.0,answer_line
+train,130,"Exactly 1 of the following cities are in Guinea: Bishkek, Kuantan.",0,0.0,0.0,0.0,answer_line
+train,131,"Exactly 0 of the following cities are in Romania: Daqing, Bucharest.",0,0.0,,0.0,answer_line
+train,132,"Exactly 0 of the following cities are in Iraq: Nasiriyah, Mudanjiang.",0,0.0,,0.0,answer_line
+train,133,"Exactly 1 of the following cities are in Portugal: Nakuru, Guiyang.",0,0.0,0.0,0.0,answer_line
+train,134,"Exactly 2 of the following cities are in Niger: Tiruchirappalli, Binzhou.",0,0.0,,0.0,answer_line
+train,135,"Exactly 0 of the following cities are in Qatar: Heze, Hamadan.",1,1.0,1.0,1.0,answer_line
+train,136,"Exactly 0 of the following cities are in Nicaragua: Managua, Quezon City.",0,0.0,,0.0,answer_line
+train,137,"Exactly 1 of the following cities are in Togo: Huangshi, Lome.",1,1.0,,1.0,answer_line
+train,138,"Exactly 1 of the following cities are in Singapore: Kayseri, Minsk.",0,0.0,,0.0,answer_line
+train,139,"Exactly 0 of the following cities are in Haiti: Carrefour, Port-au-Prince.",0,0.0,,0.0,answer_line
+train,140,"Exactly 2 of the following cities are in Turkey: Bagcilar, Eskisehir.",1,1.0,1.0,1.0,answer_line
+train,141,"Exactly 2 of the following cities are in Mexico: Tlaquepaque, Naucalpan de Juarez.",1,1.0,1.0,1.0,answer_line
+train,142,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Lubumbashi, Mbuji-Mayi.",1,1.0,1.0,1.0,answer_line
+train,143,"Exactly 2 of the following cities are in Latvia: Las Pinas, Can Tho.",0,0.0,0.0,0.0,answer_line
+train,144,"Exactly 2 of the following cities are in Kuwait: Tashkent, Al Ahmadi.",0,0.0,,0.0,answer_line
+train,145,"Exactly 0 of the following cities are in Canada: Qinhuangdao, Quebec.",0,1.0,,1.0,answer_line
+train,146,"Exactly 2 of the following cities are in China: Yangquan, Qingdao.",1,1.0,1.0,1.0,answer_line
+train,147,"Exactly 0 of the following cities are in Chile: Puente Alto, Bhavnagar.",0,0.0,,0.0,answer_line
+train,148,"Exactly 0 of the following cities are in Romania: Yongzhou, Khartoum North.",1,1.0,1.0,1.0,answer_line
+train,149,"Exactly 1 of the following cities are in Myanmar: Isfahan, Kuecuekcekmece.",0,0.0,,0.0,answer_line
+train,150,"Exactly 1 of the following cities are in Lithuania: Amman, Vilnius.",1,1.0,1.0,1.0,answer_line
+train,151,"Exactly 2 of the following cities are in Mozambique: Beira, Nampula.",1,1.0,1.0,1.0,answer_line
+train,152,"Exactly 0 of the following cities are in Mauritania: Weinan, Nouakchott.",0,0.0,,0.0,answer_line
+train,153,"Exactly 2 of the following cities are in Brazil: Curitiba, Aracaju.",1,1.0,1.0,1.0,answer_line
+train,154,"Exactly 2 of the following cities are in Vietnam: Nha Trang, Haiphong.",1,1.0,1.0,1.0,answer_line
+train,155,"Exactly 0 of the following cities are in Mongolia: Shangqiu, Rajkot.",1,1.0,1.0,1.0,answer_line
+train,156,"Exactly 0 of the following cities are in Côte d'Ivoire: Abobo, Bouake.",0,0.0,,0.0,answer_line
+train,157,"Exactly 1 of the following cities are in Montenegro: Kobe, Irbid.",0,0.0,,0.0,answer_line
+train,158,"Exactly 2 of the following cities are in Pakistan: Quetta, Arifwala.",1,0.0,,0.0,answer_line
+train,159,"Exactly 2 of the following cities are in Uzbekistan: Samarkand, Namangan.",1,1.0,1.0,1.0,answer_line
+train,160,"Exactly 0 of the following cities are in Sao Tome and Principe: Antalya, Kanayannur.",1,1.0,,1.0,answer_line
+train,161,"Exactly 0 of the following cities are in Guatemala: Adana, Kampala.",1,1.0,1.0,1.0,answer_line
+train,162,"Exactly 0 of the following cities are in South Korea: Budapest, Jeonju.",0,0.0,,0.0,answer_line
+train,163,"Exactly 0 of the following cities are in Nigeria: Omdurman, Tiruppur.",1,1.0,1.0,1.0,answer_line
+train,164,"Exactly 2 of the following cities are in Nigeria: Osogbo, Owerri.",1,1.0,1.0,1.0,answer_line
+train,165,"Exactly 2 of the following cities are in Moldova: Jamnagar, Malingao.",0,0.0,,0.0,answer_line
+train,166,"Exactly 0 of the following cities are in Malaysia: Petaling Jaya, Culiacan.",0,0.0,0.0,0.0,answer_line
+train,167,"Exactly 2 of the following cities are in Nigeria: Abuja, Abeokuta.",1,1.0,1.0,1.0,answer_line
+train,168,"Exactly 1 of the following cities are in Uganda: Kampala, Mukalla.",1,1.0,1.0,1.0,answer_line
+train,169,"Exactly 2 of the following cities are in Japan: Hamamatsu, Kumamoto.",1,1.0,1.0,1.0,answer_line
+train,170,"Exactly 0 of the following cities are in Tanzania: Mumbai, Zanzibar.",0,0.0,,0.0,answer_line
+train,171,"Exactly 0 of the following cities are in Djibouti: Balbala, Jamshedpur.",0,0.0,,0.0,answer_line
+train,172,"Exactly 1 of the following cities are in Mexico: Naucalpan de Juarez, Ecatepec de Morelos.",0,0.0,,0.0,answer_line
+train,173,"Exactly 2 of the following cities are in Mexico: Iztapalapa, Zapopan.",1,1.0,1.0,1.0,answer_line
+train,174,"Exactly 2 of the following cities are in Egypt: Shubra al Khaymah, Assiut.",1,1.0,1.0,1.0,answer_line
+train,175,"Exactly 0 of the following cities are in Iran: Arak, Ahvaz.",0,0.0,,0.0,answer_line
+train,176,"Exactly 0 of the following cities are in Iran: Arak, Kayseri.",0,0.0,,0.0,answer_line
+train,177,"Exactly 2 of the following cities are in Tanzania: Zanzibar, Dar es Salaam.",1,1.0,1.0,1.0,answer_line
+train,178,"Exactly 0 of the following cities are in Nigeria: Ilorin, Calabar.",0,0.0,0.0,0.0,answer_line
+train,179,"Exactly 0 of the following cities are in Australia: Abuja, Zhumadian.",1,1.0,1.0,1.0,answer_line
+train,180,"Exactly 1 of the following cities are in Guinea-Bissau: Setagaya, Meizhou.",0,0.0,0.0,0.0,answer_line
+train,181,"Exactly 1 of the following cities are in Malaysia: Selayang Baru Utara, Kampung Baru Subang.",0,0.0,0.0,0.0,answer_line
+train,182,"Exactly 2 of the following cities are in Kazakhstan: Aqsu, Almaty.",0,0.0,,0.0,answer_line
+train,183,"Exactly 1 of the following cities are in Turkey: Izmir, Aqsu.",1,1.0,1.0,1.0,answer_line
+train,184,"Exactly 0 of the following cities are in Iraq: Pekanbaru, Soshanguve.",1,1.0,1.0,1.0,answer_line
+train,185,"Exactly 1 of the following cities are in Bhutan: Caracas, Huaibei.",0,0.0,,0.0,answer_line
+train,186,"Exactly 0 of the following cities are in El Salvador: Pyongyang, Jiaozhou.",1,1.0,1.0,1.0,answer_line
+train,187,"Exactly 0 of the following cities are in China: Huludao, Lueliang.",0,0.0,,0.0,answer_line
+train,188,"Exactly 1 of the following cities are in Venezuela: Barquisimeto, Zhangjiagang.",1,1.0,1.0,1.0,answer_line
+train,189,"Exactly 2 of the following cities are in Tanzania: Istanbul, Dodoma.",0,0.0,0.0,0.0,answer_line
+train,190,"Exactly 0 of the following cities are in Chad: N'Djamena, Sanmenxia.",0,0.0,,0.0,answer_line
+train,191,"Exactly 1 of the following cities are in Switzerland: Abu Ghurayb, Maoming.",0,0.0,0.0,0.0,answer_line
+train,192,"Exactly 2 of the following cities are in South Africa: Cape Town, Thembisa.",1,1.0,,1.0,answer_line
+train,193,"Exactly 0 of the following cities are in Albania: Arifwala, Zhuzhou.",1,1.0,1.0,1.0,answer_line
+train,194,"Exactly 2 of the following cities are in Turkmenistan: Pietermaritzburg, Irkutsk.",0,0.0,0.0,0.0,answer_line
+train,195,"Exactly 0 of the following cities are in Ghana: Quetta, Jamnagar.",1,1.0,1.0,1.0,answer_line
+train,196,"Exactly 0 of the following cities are in the Maldives: Fukuoka, Vijayawada.",1,1.0,1.0,1.0,answer_line
+train,197,"Exactly 2 of the following cities are in Jordan: Indore, Mirpur Model Thana.",0,0.0,0.0,0.0,answer_line
+train,198,"Exactly 2 of the following cities are in Mauritius: Dakar, Fes.",0,0.0,0.0,0.0,answer_line
+train,199,"Exactly 1 of the following cities are in Iraq: Al Mawsil al Jadidah, Basrah.",0,0.0,,0.0,answer_line
+train,200,"Exactly 2 of the following cities are in South Korea: Hwaseong-si, Changwon.",1,1.0,1.0,1.0,answer_line
+train,201,"Exactly 1 of the following cities are in Oman: Muscat, Nasiriyah.",1,1.0,1.0,1.0,answer_line
+train,202,"Exactly 0 of the following cities are in Sweden: Adana, Amman.",1,1.0,1.0,1.0,answer_line
+train,203,"Exactly 2 of the following cities are in Venezuela: Caracas, Barquisimeto.",1,1.0,1.0,1.0,answer_line
+train,204,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Kumamoto, Bandar Lampung.",1,1.0,,1.0,answer_line
+train,205,"Exactly 2 of the following cities are in China: Rui'an, Anqing.",1,1.0,1.0,1.0,answer_line
+train,206,"Exactly 1 of the following cities are in Samoa: Izmir, Seoul.",0,0.0,,0.0,answer_line
+train,207,"Exactly 1 of the following cities are in Turkey: Esenler, Bikaner.",1,1.0,1.0,1.0,answer_line
+train,208,"Exactly 1 of the following cities are in the Gambia: Amman, Camayenne.",0,0.0,,0.0,answer_line
+train,209,"Exactly 1 of the following cities are in Germany: Koeln, Dortmund.",0,0.0,,0.0,answer_line
+train,210,"Exactly 0 of the following cities are in Iraq: Sadr City, Mohammadpur.",0,0.0,,0.0,answer_line
+train,211,"Exactly 2 of the following cities are in China: Tianshui, Ulanqab.",1,1.0,,1.0,answer_line
+train,212,"Exactly 2 of the following cities are in Myanmar: Jilin, Nay Pyi Taw.",0,0.0,,0.0,answer_line
+train,213,"Exactly 0 of the following cities are in Saudi Arabia: Najran, Buraydah.",0,0.0,,0.0,answer_line
+train,214,"Exactly 2 of the following cities are in Peru: Piura, Arequipa.",1,1.0,,1.0,answer_line
+train,215,"Exactly 0 of the following cities are in Norway: Jiamusi, Oslo.",0,0.0,,0.0,answer_line
+train,216,"Exactly 0 of the following cities are in Egypt: Madinat an Nasr, Vilnius.",0,0.0,0.0,0.0,answer_line
+train,217,"Exactly 1 of the following cities are in Japan: Kobe, Hamamatsu.",0,0.0,,0.0,answer_line
+train,218,"Exactly 2 of the following cities are in Benin: Hongkou, Petaling Jaya.",0,0.0,0.0,0.0,answer_line
+train,219,"Exactly 2 of the following cities are in Thailand: Bangkok, Tanggu.",0,0.0,0.0,0.0,answer_line
+train,220,"Exactly 1 of the following cities are in Tunisia: Phnom Penh, Borama.",0,0.0,0.0,0.0,answer_line
+train,221,"Exactly 2 of the following cities are in Indonesia: Jakarta, Makassar.",1,1.0,,1.0,answer_line
+train,222,"Exactly 1 of the following cities are in Sweden: Frankfurt am Main, Stockholm.",1,1.0,1.0,1.0,answer_line
+train,223,"Exactly 1 of the following cities are in Kenya: Mombasa, Dalian.",1,1.0,1.0,1.0,answer_line
+train,224,"Exactly 0 of the following cities are in Iran: Isfahan, Dera Ismail Khan.",0,0.0,,0.0,answer_line
+train,225,"Exactly 1 of the following cities are in Portugal: Mersin, Nyala.",0,0.0,0.0,0.0,answer_line
+train,226,"Exactly 0 of the following cities are in Haiti: Rui'an, Bannu.",1,1.0,1.0,1.0,answer_line
+train,227,"Exactly 2 of the following cities are in Indonesia: Tasikmalaya, Samarinda.",1,1.0,1.0,1.0,answer_line
+train,228,"Exactly 2 of the following cities are in Sri Lanka: Algiers, Niteroi.",0,0.0,0.0,0.0,answer_line
+train,229,"Exactly 2 of the following cities are in Vietnam: Da Nang, Qui Nhon.",1,1.0,1.0,1.0,answer_line
+train,230,"Exactly 0 of the following cities are in Hungary: Pest, Budapest.",0,0.0,,0.0,answer_line
+train,231,"Exactly 0 of the following cities are in China: Wanzhou, Zibo.",0,0.0,,0.0,answer_line
+train,232,"Exactly 0 of the following cities are in Turkey: Bagcilar, Yekaterinburg.",0,0.0,,0.0,answer_line
+train,233,"Exactly 1 of the following cities are in Guatemala: Huzhou, Guatemala City.",1,1.0,1.0,1.0,answer_line
+train,234,"Exactly 1 of the following cities are in South Korea: Ansan-si, Kimhae.",0,1.0,1.0,1.0,answer_line
+train,235,"Exactly 2 of the following cities are in the Netherlands: Kitwe, Bilimora.",0,0.0,0.0,0.0,answer_line
+train,236,"Exactly 0 of the following cities are in Ethiopia: Seattle, Shantou.",1,1.0,1.0,1.0,answer_line
+train,237,"Exactly 1 of the following cities are in Lesotho: Budta, Sorocaba.",0,0.0,,0.0,answer_line
+train,238,"Exactly 1 of the following cities are in Bangladesh: Dhanbad, Gazipur.",1,1.0,1.0,1.0,answer_line
+train,239,"Exactly 2 of the following cities are in the Bahamas: Mandalay, Likasi.",0,0.0,0.0,0.0,answer_line
+train,240,"Exactly 1 of the following cities are in Latvia: Linfen, Riga.",1,1.0,1.0,1.0,answer_line
+train,241,"Exactly 0 of the following cities are in Eritrea: UEruemqi, Asmara.",0,0.0,,0.0,answer_line
+train,242,"Exactly 2 of the following cities are in Paraguay: Chelyabinsk, Changshu.",0,0.0,,0.0,answer_line
+train,243,"Exactly 1 of the following cities are in Venezuela: Deyang, Okara.",0,0.0,0.0,0.0,answer_line
+train,244,"Exactly 2 of the following cities are in South Africa: Yichang, Taguig.",0,0.0,0.0,0.0,answer_line
+train,245,"Exactly 1 of the following cities are in Djibouti: Xuchang, Balbala.",1,1.0,1.0,1.0,answer_line
+train,246,"Exactly 2 of the following cities are in China: Mudanjiang, Ningbo.",1,1.0,1.0,1.0,answer_line
+train,247,"Exactly 1 of the following cities are in Azerbaijan: Zhangzhou, Tokyo.",0,0.0,0.0,0.0,answer_line
+train,248,"Exactly 1 of the following cities are in the Dominican Republic: Teni, Ananindeua.",0,1.0,1.0,1.0,answer_line
+train,249,"Exactly 0 of the following cities are in Sierra Leone: Cuautitlan Izcalli, Guli.",1,1.0,1.0,1.0,answer_line
+train,250,"Exactly 1 of the following cities are in Côte d'Ivoire: Bhayandar, Abidjan.",1,1.0,1.0,1.0,answer_line
+train,251,"Exactly 2 of the following cities are in Canada: Calgary, Aracaju.",0,0.0,0.0,0.0,answer_line
+train,252,"Exactly 2 of the following cities are in Togo: Tiruchirappalli, Denpasar.",0,0.0,0.0,0.0,answer_line
+train,253,"Exactly 1 of the following cities are in Iceland: Mukim Pulai, Gazipur.",0,0.0,,0.0,answer_line
+train,254,"Exactly 1 of the following cities are in Vietnam: Khabarovsk, Liupanshui.",0,0.0,0.0,0.0,answer_line
+train,255,"Exactly 1 of the following cities are in Nigeria: Kathmandu, Ya'an.",0,0.0,,0.0,answer_line
+train,256,"Exactly 1 of the following cities are in Malawi: Maceio, Bujumbura.",0,0.0,,0.0,answer_line
+train,257,"Exactly 1 of the following cities are in Canada: Cagayan de Oro, Calgary.",1,1.0,1.0,1.0,answer_line
+train,258,"Exactly 2 of the following cities are in Indonesia: Ajmer, Agege.",0,0.0,,0.0,answer_line
+train,259,"Exactly 0 of the following cities are in Chile: Luohe, Puente Alto.",0,0.0,,0.0,answer_line
+train,260,"Exactly 0 of the following cities are in Paraguay: Naucalpan de Juarez, Erode.",1,1.0,1.0,1.0,answer_line
+train,261,"Exactly 2 of the following cities are in Mongolia: Kallakurichi, Juiz de Fora.",0,0.0,,0.0,answer_line
+train,262,"Exactly 2 of the following cities are in the United States: Tucson, Fort Worth.",1,1.0,1.0,1.0,answer_line
+train,263,"Exactly 1 of the following cities are in Switzerland: Ipoh, Rajkot.",0,0.0,,0.0,answer_line
+train,264,"Exactly 2 of the following cities are in Samoa: Ar Raqqah, Matola.",0,0.0,0.0,0.0,answer_line
+train,265,"Exactly 0 of the following cities are in Jordan: Amman, Krakow.",0,0.0,,0.0,answer_line
+train,266,"Exactly 1 of the following cities are in Burkina Faso: Feira de Santana, Makati City.",0,0.0,,0.0,answer_line
+train,267,"Exactly 2 of the following cities are in Brazil: Goiania, Sao Jose dos Campos.",1,1.0,1.0,1.0,answer_line
+train,268,"Exactly 2 of the following cities are in Saudi Arabia: Madinah, Buraydah.",1,0.0,0.0,0.0,answer_line
+train,269,"Exactly 0 of the following cities are in Samoa: Aracaju, Johor Bahru.",1,1.0,1.0,1.0,answer_line
+train,270,"Exactly 0 of the following cities are in Zimbabwe: Bulawayo, Yekaterinburg.",0,0.0,,0.0,answer_line
+train,271,"Exactly 0 of the following cities are in Zambia: Lusaka, Kunshan.",0,0.0,0.0,0.0,answer_line
+train,272,"Exactly 2 of the following cities are in Malaysia: Kampala, Ndola.",0,0.0,0.0,0.0,answer_line
+train,273,"Exactly 1 of the following cities are in Romania: Caloocan, Gustavo Adolfo Madero.",0,0.0,,0.0,answer_line
+train,274,"Exactly 0 of the following cities are in Morocco: Tangier, Marrakesh.",0,0.0,,0.0,answer_line
+train,275,"Exactly 1 of the following cities are in Iceland: Ecatepec de Morelos, Maceio.",0,0.0,,0.0,answer_line
+train,276,"Exactly 2 of the following cities are in Norway: Oslo, Porto Alegre.",0,0.0,0.0,0.0,answer_line
+train,277,"Exactly 0 of the following cities are in Brazil: Porto Alegre, Ananindeua.",0,0.0,,0.0,answer_line
+train,278,"Exactly 2 of the following cities are in Japan: Anshan, Dhanbad.",0,0.0,0.0,0.0,answer_line
+train,279,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Likasi, Kinshasa.",1,0.0,,0.0,answer_line
+train,280,"Exactly 1 of the following cities are in Nigeria: Managua, Jaboatao dos Guararapes.",0,0.0,,0.0,answer_line
+train,281,"Exactly 0 of the following cities are in Peru: Piura, Port-au-Prince.",0,0.0,,0.0,answer_line
+train,282,"Exactly 2 of the following cities are in Saudi Arabia: Makkah, Ha'il.",1,1.0,1.0,1.0,answer_line
+train,283,"Exactly 0 of the following cities are in Honduras: Davao, Tegucigalpa.",0,0.0,0.0,0.0,answer_line
+train,284,"Exactly 0 of the following cities are in Guinea: Conakry, Guankou.",0,0.0,,0.0,answer_line
+train,285,"Exactly 0 of the following cities are in North Korea: Florianopolis, Arak.",1,1.0,1.0,1.0,answer_line
+train,286,"Exactly 1 of the following cities are in Burkina Faso: Bobo-Dioulasso, Algiers.",1,1.0,1.0,1.0,answer_line
+train,287,"Exactly 1 of the following cities are in Malaysia: Subang Jaya, Kampung Baru Subang.",0,1.0,1.0,1.0,answer_line
+train,288,"Exactly 0 of the following cities are in Latvia: Al Basrah al Qadimah, Rasapudipalem.",1,1.0,1.0,1.0,answer_line
+train,289,"Exactly 1 of the following cities are in Moldova: Chisinau, Selayang Baru Utara.",1,1.0,1.0,1.0,answer_line
+train,290,"Exactly 2 of the following cities are in Canada: Calgary, Mississauga.",1,1.0,1.0,1.0,answer_line
+train,291,"Exactly 0 of the following cities are in Thailand: Shangrao, Aparecida de Goiania.",1,1.0,1.0,1.0,answer_line
+train,292,"Exactly 1 of the following cities are in Morocco: Golfe, Bayan Nur.",0,1.0,1.0,1.0,answer_line
+train,293,"Exactly 2 of the following cities are in Mexico: Mexico City, Torreon.",1,1.0,1.0,1.0,answer_line
+train,294,"Exactly 1 of the following cities are in Burkina Faso: Ouagadougou, Leipzig.",1,1.0,1.0,1.0,answer_line
+train,295,"Exactly 1 of the following cities are in Germany: Khartoum, Abu Ghurayb.",0,0.0,0.0,0.0,answer_line
+train,296,"Exactly 1 of the following cities are in Argentina: Kolhapur, Maianga.",0,0.0,,0.0,answer_line
+train,297,"Exactly 1 of the following cities are in Lebanon: Ra's Bayrut, Kayseri.",1,1.0,1.0,1.0,answer_line
+train,298,"Exactly 2 of the following cities are in Iraq: Nasiriyah, Al Basrah al Qadimah.",1,1.0,1.0,1.0,answer_line
+train,299,"Exactly 0 of the following cities are in Croatia: Abeokuta, Shubra al Khaymah.",1,1.0,1.0,1.0,answer_line
+train,300,"Exactly 0 of the following cities are in Madagascar: Antananarivo, Gustavo Adolfo Madero.",0,0.0,,0.0,answer_line
+train,301,"Exactly 1 of the following cities are in Jordan: Zarqa, Kota Kinabalu.",1,1.0,1.0,1.0,answer_line
+train,302,"Exactly 0 of the following cities are in Canada: Ashgabat, Calgary.",0,0.0,,0.0,answer_line
+train,303,"Exactly 0 of the following cities are in Syria: Aden, Okara.",1,1.0,1.0,1.0,answer_line
+train,304,"Exactly 2 of the following cities are in Ghana: Kumasi, Ulyanovsk.",0,0.0,0.0,0.0,answer_line
+train,305,"Exactly 1 of the following cities are in Egypt: Port Said, Suez.",0,0.0,,0.0,answer_line
+train,306,"Exactly 0 of the following cities are in New Zealand: Zhanjiang, Hanzhong.",1,1.0,1.0,1.0,answer_line
+train,307,"Exactly 1 of the following cities are in Mexico: Muzaffarabad, Malatya.",0,0.0,,0.0,answer_line
+train,308,"Exactly 1 of the following cities are in Denmark: Khulna, Copenhagen.",1,1.0,1.0,1.0,answer_line
+train,309,"Exactly 0 of the following cities are in Madagascar: Antananarivo, Milwaukee.",0,0.0,,0.0,answer_line
+train,310,"Exactly 2 of the following cities are in Romania: Callao, Bucharest.",0,0.0,0.0,0.0,answer_line
+train,311,"Exactly 0 of the following cities are in Turkmenistan: Ashgabat, Tolyatti.",0,0.0,,0.0,answer_line
+train,312,"Exactly 1 of the following cities are in Rwanda: Madinah, Tijuana.",0,0.0,,0.0,answer_line
+train,313,"Exactly 0 of the following cities are in Zimbabwe: Bareilly, Leipzig.",1,1.0,1.0,1.0,answer_line
+train,314,"Exactly 1 of the following cities are in Mauritania: Odesa, Nouakchott.",1,1.0,1.0,1.0,answer_line
+train,315,"Exactly 1 of the following cities are in Iran: Qom, Kemerovo.",1,1.0,1.0,1.0,answer_line
+train,316,"Exactly 2 of the following cities are in Yemen: Ibb, Al Hudaydah.",1,1.0,1.0,1.0,answer_line
+train,317,"Exactly 1 of the following cities are in Tanzania: Dar es Salaam, Goyang-si.",1,1.0,1.0,1.0,answer_line
+train,318,"Exactly 2 of the following cities are in Japan: Kitakyushu, Niigata.",1,1.0,1.0,1.0,answer_line
+train,319,"Exactly 1 of the following cities are in Syria: Ar Raqqah, Zhanjiang.",1,1.0,,1.0,answer_line
+train,320,"Exactly 2 of the following cities are in Hungary: Pest, Santiago de Queretaro.",0,0.0,0.0,0.0,answer_line
+train,321,"Exactly 2 of the following cities are in Kiribati: Bokaro, Cagayan de Oro.",0,0.0,0.0,0.0,answer_line
+train,322,"Exactly 2 of the following cities are in Yemen: Taiz, Aden.",1,0.0,,0.0,answer_line
+train,323,"Exactly 2 of the following cities are in China: Beijing, Taicang.",1,1.0,1.0,1.0,answer_line
+train,324,"Exactly 2 of the following cities are in Iran: Arak, Kermanshah.",1,1.0,1.0,1.0,answer_line
+train,325,"Exactly 0 of the following cities are in Moldova: Londrina, Chisinau.",0,0.0,,0.0,answer_line
+train,326,"Exactly 2 of the following cities are in Spain: Nansana, Isfahan.",0,0.0,,0.0,answer_line
+train,327,"Exactly 1 of the following cities are in Chile: Luancheng, Qinhuangdao.",0,0.0,0.0,0.0,answer_line
+train,328,"Exactly 1 of the following cities are in Cameroon: Douala, Luancheng.",1,1.0,1.0,1.0,answer_line
+train,329,"Exactly 1 of the following cities are in Norway: Kalininskiy, Oslo.",1,1.0,,1.0,answer_line
+train,330,"Exactly 0 of the following cities are in Malaysia: Shah Alam, Madinat an Nasr.",0,0.0,,0.0,answer_line
+train,331,"Exactly 2 of the following cities are in Egypt: Shubra al Khaymah, Giza.",1,1.0,1.0,1.0,answer_line
+train,332,"Exactly 2 of the following cities are in Nigeria: Maiduguri, Ile-Ife.",1,1.0,1.0,1.0,answer_line
+train,333,"Exactly 2 of the following cities are in Pakistan: Karachi, Lahore.",1,1.0,1.0,1.0,answer_line
+train,334,"Exactly 0 of the following cities are in the United Arab Emirates: Huizhou, Al Ain City.",0,0.0,,0.0,answer_line
+train,335,"Exactly 1 of the following cities are in Iraq: Abu Ghurayb, Thu GJuc.",1,1.0,1.0,1.0,answer_line
+train,336,"Exactly 2 of the following cities are in the Philippines: General Santos, Las Pinas.",1,1.0,1.0,1.0,answer_line
+train,337,"Exactly 1 of the following cities are in Azerbaijan: Suginami, Goiania.",0,0.0,,0.0,answer_line
+train,338,"Exactly 2 of the following cities are in Equatorial Guinea: Ho Chi Minh City, Mexico City.",0,0.0,,0.0,answer_line
+train,339,"Exactly 2 of the following cities are in Syria: Rahim Yar Khan, Panshan.",0,0.0,,0.0,answer_line
+train,340,"Exactly 2 of the following cities are in Sudan: Hegang, Peshawar.",0,0.0,0.0,0.0,answer_line
+train,341,"Exactly 1 of the following cities are in Djibouti: Balbala, Orumiyeh.",1,1.0,1.0,1.0,answer_line
+train,342,"Exactly 2 of the following cities are in Turkey: Cankaya, Istanbul.",1,1.0,1.0,1.0,answer_line
+train,343,"Exactly 2 of the following cities are in Timor-Leste: Jiujiang, Borivli.",0,0.0,,0.0,answer_line
+train,344,"Exactly 1 of the following cities are in Indonesia: Tasikmalaya, Rahim Yar Khan.",1,1.0,1.0,1.0,answer_line
+train,345,"Exactly 2 of the following cities are in Timor-Leste: Xiangtan, Hefei.",0,0.0,0.0,0.0,answer_line
+train,346,"Exactly 1 of the following cities are in Zimbabwe: Kitwe, Tangshan.",0,0.0,0.0,0.0,answer_line
+train,347,"Exactly 1 of the following cities are in Malawi: Lilongwe, Surat.",1,1.0,1.0,1.0,answer_line
+train,348,"Exactly 1 of the following cities are in Vietnam: Cho Lon, Hermosillo.",1,1.0,1.0,1.0,answer_line
+train,349,"Exactly 2 of the following cities are in Malaysia: Homs, Wanxian.",0,0.0,0.0,0.0,answer_line
+train,350,"Exactly 2 of the following cities are in Vietnam: Thu GJuc, Hue.",1,0.0,0.0,0.0,answer_line
+train,351,"Exactly 1 of the following cities are in Nepal: Xiamen, Zhumadian.",0,0.0,0.0,0.0,answer_line
+train,352,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Naberezhnyye Chelny, Huangshi.",1,1.0,1.0,1.0,answer_line
+train,353,"Exactly 1 of the following cities are in Angola: Jinan, Virar.",0,0.0,,0.0,answer_line
+train,354,"Exactly 0 of the following cities are in Zambia: Kitwe, Ndola.",0,0.0,,0.0,answer_line
+train,355,"Exactly 2 of the following cities are in Yemen: Taiz, Al Hudaydah.",1,1.0,1.0,1.0,answer_line
+train,356,"Exactly 1 of the following cities are in Iraq: Puducherry, Al Basrah al Qadimah.",1,1.0,1.0,1.0,answer_line
+train,357,"Exactly 0 of the following cities are in Angola: Golfe, Hoji ya Henda.",0,0.0,,0.0,answer_line
+train,358,"Exactly 0 of the following cities are in Samoa: Guli, Fes.",1,1.0,1.0,1.0,answer_line
+train,359,"Exactly 0 of the following cities are in Cameroon: Yaounde, Tangshan.",0,0.0,,0.0,answer_line
+train,360,"Exactly 1 of the following cities are in Tanzania: Arusha, Hwaseong-si.",1,1.0,1.0,1.0,answer_line
+train,361,"Exactly 1 of the following cities are in Sri Lanka: Arak, Nanjing.",0,0.0,,0.0,answer_line
+train,362,"Exactly 2 of the following cities are in Turkey: Cankaya, Adana.",1,1.0,1.0,1.0,answer_line
+train,363,"Exactly 2 of the following cities are in Poland: Wroclaw, Ghaziabad.",0,0.0,0.0,0.0,answer_line
+train,364,"Exactly 1 of the following cities are in Benin: Goyang-si, Qiqihar.",0,0.0,,0.0,answer_line
+train,365,"Exactly 2 of the following cities are in Japan: Yangquan, Xiamen.",0,0.0,,0.0,answer_line
+train,366,"Exactly 2 of the following cities are in Austria: Jingmen, Bahawalpur.",0,0.0,,0.0,answer_line
+train,367,"Exactly 1 of the following cities are in Benin: Pingdingshan, Sargodha.",0,0.0,0.0,0.0,answer_line
+train,368,"Exactly 0 of the following cities are in Chad: Chuxiong, N'Djamena.",0,0.0,,0.0,answer_line
+train,369,"Exactly 1 of the following cities are in Saint Kitts and Nevis: Bhilai, Busan.",0,0.0,0.0,0.0,answer_line
+train,370,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Bukavu, Mbuji-Mayi.",1,1.0,1.0,1.0,answer_line
+train,371,"Exactly 1 of the following cities are in New Zealand: Auckland, Johor Bahru.",1,1.0,1.0,1.0,answer_line
+train,372,"Exactly 2 of the following cities are in Indonesia: Banjarmasin, Jambi City.",1,1.0,1.0,1.0,answer_line
+train,373,"Exactly 1 of the following cities are in North Korea: Al Mahallah al Kubra, Pyongyang.",1,1.0,1.0,1.0,answer_line
+train,374,"Exactly 0 of the following cities are in Vanuatu: Golfe, Pontianak.",1,1.0,,1.0,answer_line
+train,375,"Exactly 1 of the following cities are in Cuba: Santiago de Cuba, Ajmer.",1,1.0,1.0,1.0,answer_line
+train,376,"Exactly 1 of the following cities are in Azerbaijan: UEruemqi, Baku.",1,1.0,1.0,1.0,answer_line
+train,377,"Exactly 0 of the following cities are in Burkina Faso: Weihai, Bobo-Dioulasso.",0,0.0,,0.0,answer_line
+train,378,"Exactly 1 of the following cities are in Estonia: N'Djamena, Wanzhou.",0,0.0,,0.0,answer_line
+train,379,"Exactly 2 of the following cities are in Jordan: Hue, Irbid.",0,0.0,0.0,0.0,answer_line
+train,380,"Exactly 2 of the following cities are in Venezuela: Maturin, Caracas.",1,1.0,1.0,1.0,answer_line
+train,381,"Exactly 2 of the following cities are in Japan: Saitama, Kitakyushu.",1,1.0,1.0,1.0,answer_line
+train,382,"Exactly 0 of the following cities are in Burkina Faso: Rajkot, Bobo-Dioulasso.",0,0.0,,0.0,answer_line
+train,383,"Exactly 1 of the following cities are in Japan: Hiroshima, Adachi.",0,1.0,1.0,1.0,answer_line
+train,384,"Exactly 1 of the following cities are in Italy: Qiqihar, Kunming.",0,0.0,,0.0,answer_line
+train,385,"Exactly 0 of the following cities are in the United States: Kolhapur, Florianopolis.",1,1.0,1.0,1.0,answer_line
+train,386,"Exactly 2 of the following cities are in the United States: New South Memphis, Tucson.",1,1.0,1.0,1.0,answer_line
+train,387,"Exactly 0 of the following cities are in Tajikistan: Dushanbe, Baku.",0,1.0,1.0,1.0,answer_line
+train,388,"Exactly 2 of the following cities are in Kuwait: Dodoma, Yangon.",0,0.0,,0.0,answer_line
+train,389,"Exactly 0 of the following cities are in San Marino: Chunian, Panjin.",1,1.0,1.0,1.0,answer_line
+train,390,"Exactly 0 of the following cities are in Russia: Nizhniy Novgorod, Orumiyeh.",0,0.0,,0.0,answer_line
+train,391,"Exactly 1 of the following cities are in Ukraine: Belford Roxo, Dnipro.",1,1.0,1.0,1.0,answer_line
+train,392,"Exactly 0 of the following cities are in the United Kingdom: Hohhot, Cotonou.",1,1.0,1.0,1.0,answer_line
+train,393,"Exactly 0 of the following cities are in Vietnam: Bien Hoa, Ananindeua.",0,0.0,,0.0,answer_line
+train,394,"Exactly 2 of the following cities are in Niger: Jaboatao dos Guararapes, Huzhou.",0,0.0,,0.0,answer_line
+train,395,"Exactly 2 of the following cities are in Japan: Niigata, Matsuyama.",1,0.0,,0.0,answer_line
+train,396,"Exactly 1 of the following cities are in Finland: Helsinki, Mombasa.",1,1.0,1.0,1.0,answer_line
+train,397,"Exactly 0 of the following cities are in Haiti: Port-au-Prince, Hangzhou.",0,0.0,0.0,0.0,answer_line
+train,398,"Exactly 1 of the following cities are in Iraq: Himeji, Mosul.",1,1.0,,1.0,answer_line
+train,399,"Exactly 2 of the following cities are in Mauritania: Sanaa, Dharavi.",0,0.0,,0.0,answer_line
+train,400,"Exactly 1 of the following cities are in Mongolia: Utsunomiya, Adachi.",0,0.0,0.0,0.0,answer_line
+train,401,"Exactly 1 of the following cities are in Ukraine: Nyala, Kharkiv.",1,1.0,1.0,1.0,answer_line
+train,402,"Exactly 1 of the following cities are in Spain: Tokyo, Kanpur.",0,0.0,0.0,0.0,answer_line
+train,403,"Exactly 1 of the following cities are in Peru: Callao, Arequipa.",0,0.0,,0.0,answer_line
+train,404,"Exactly 1 of the following cities are in Cambodia: Phnom Penh, Hannover.",1,1.0,1.0,1.0,answer_line
+train,405,"Exactly 1 of the following cities are in Vietnam: Can Tho, Najran.",1,1.0,1.0,1.0,answer_line
+train,406,"Exactly 0 of the following cities are in Saudi Arabia: Ta'if, Jeddah.",0,0.0,,0.0,answer_line
+train,407,"Exactly 0 of the following cities are in Thailand: Katsina, Bayan Nur.",1,1.0,1.0,1.0,answer_line
+train,408,"Exactly 1 of the following cities are in Sao Tome and Principe: Chuxiong, Yangon.",0,0.0,0.0,0.0,answer_line
+train,409,"Exactly 1 of the following cities are in Belarus: Seongnam-si, Qinhuangdao.",0,0.0,,0.0,answer_line
+train,410,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kolwezi, Aktobe.",1,1.0,,1.0,answer_line
+train,411,"Exactly 2 of the following cities are in Guinea: Luohe, Conakry.",0,0.0,,0.0,answer_line
+train,412,"Exactly 2 of the following cities are in Venezuela: Ciudad Guayana, Caracas.",1,1.0,1.0,1.0,answer_line
+train,413,"Exactly 0 of the following cities are in Algeria: Asmara, Algiers.",0,0.0,,0.0,answer_line
+train,414,"Exactly 0 of the following cities are in Kenya: Nakuru, Yangjiang.",0,0.0,,0.0,answer_line
+train,415,"Exactly 0 of the following cities are in Mozambique: New Kingston, Matola.",0,0.0,,0.0,answer_line
+train,416,"Exactly 1 of the following cities are in India: Cancun, Navi Mumbai.",1,1.0,,1.0,answer_line
+train,417,"Exactly 0 of the following cities are in Tanzania: Arusha, Aracaju.",0,0.0,,0.0,answer_line
+train,418,"Exactly 0 of the following cities are in Indonesia: Pontianak, Kanayannur.",0,0.0,,0.0,answer_line
+train,419,"Exactly 1 of the following cities are in Tajikistan: Dushanbe, Mosul.",1,0.0,,0.0,answer_line
+train,420,"Exactly 0 of the following cities are in Burkina Faso: Bobo-Dioulasso, Lianyungang.",0,0.0,0.0,0.0,answer_line
+train,421,"Exactly 0 of the following cities are in Syria: Kharkiv, Latakia.",0,0.0,0.0,0.0,answer_line
+train,422,"Exactly 2 of the following cities are in India: Teni, Pune.",1,0.0,,0.0,answer_line
+train,423,"Exactly 1 of the following cities are in the United Kingdom: Mombasa, Port Harcourt.",0,0.0,0.0,0.0,answer_line
+train,424,"Exactly 1 of the following cities are in Iraq: Sadr City, Al Mawsil al Jadidah.",0,0.0,,0.0,answer_line
+train,425,"Exactly 1 of the following cities are in Nigeria: Mazar-e Sharif, Guli.",0,0.0,0.0,0.0,answer_line
+train,426,"Exactly 2 of the following cities are in Pakistan: Battagram, Gujrat.",1,1.0,1.0,1.0,answer_line
+train,427,"Exactly 1 of the following cities are in Moldova: Coimbatore, Chisinau.",1,1.0,1.0,1.0,answer_line
+train,428,"Exactly 2 of the following cities are in Saudi Arabia: Ciudad Guayana, Ranchi.",0,0.0,,0.0,answer_line
+train,429,"Exactly 1 of the following cities are in India: Jalandhar, Zigong.",1,1.0,1.0,1.0,answer_line
+train,430,"Exactly 0 of the following cities are in Laos: Handan, Suining.",1,1.0,1.0,1.0,answer_line
+train,431,"Exactly 0 of the following cities are in Brazil: Juiz de Fora, Cuiaba.",0,0.0,,0.0,answer_line
+train,432,"Exactly 2 of the following cities are in Benin: Cotonou, Zibo.",0,0.0,,0.0,answer_line
+train,433,"Exactly 2 of the following cities are in Norway: Ghaziabad, Kunshan.",0,0.0,,0.0,answer_line
+train,434,"Exactly 2 of the following cities are in Brazil: Sao Bernardo do Campo, Goiania.",1,1.0,1.0,1.0,answer_line
+train,435,"Exactly 0 of the following cities are in Ecuador: Tlalpan, Mirpur Model Thana.",1,1.0,1.0,1.0,answer_line
+train,436,"Exactly 2 of the following cities are in Mongolia: Kampung Baru Subang, Kisangani.",0,0.0,,0.0,answer_line
+train,437,"Exactly 1 of the following cities are in Mexico: Leon de los Aldama, Cuautitlan Izcalli.",0,0.0,,0.0,answer_line
+train,438,"Exactly 0 of the following cities are in the United States: Indianapolis, New South Memphis.",0,0.0,,0.0,answer_line
+train,439,"Exactly 0 of the following cities are in Greece: Soweto, Hanzhong.",1,1.0,1.0,1.0,answer_line
+train,440,"Exactly 0 of the following cities are in Angola: Camama, Benguela.",0,1.0,1.0,1.0,answer_line
+train,441,"Exactly 2 of the following cities are in Egypt: Suez, Giza.",1,1.0,1.0,1.0,answer_line
+train,442,"Exactly 2 of the following cities are in Saudi Arabia: Buraydah, Sultanah.",1,0.0,,0.0,answer_line
+train,443,"Exactly 2 of the following cities are in Yemen: Taiz, Mukalla.",1,1.0,1.0,1.0,answer_line
+train,444,"Exactly 0 of the following cities are in Vanuatu: Shekhupura, Tangier.",1,1.0,1.0,1.0,answer_line
+train,445,"Exactly 0 of the following cities are in Kazakhstan: Astana, Hefei.",0,0.0,,0.0,answer_line
+train,446,"Exactly 1 of the following cities are in San Marino: Zahedan, Rizhao.",0,0.0,,0.0,answer_line
+train,447,"Exactly 2 of the following cities are in India: Visakhapatnam, Bokaro.",1,1.0,,1.0,answer_line
+train,448,"Exactly 0 of the following cities are in Afghanistan: Teni, Kinshasa.",1,1.0,1.0,1.0,answer_line
+train,449,"Exactly 0 of the following cities are in Turkey: Saratov, Esenler.",0,0.0,,0.0,answer_line
+train,450,"Exactly 1 of the following cities are in Afghanistan: Suginami, Mazar-e Sharif.",1,1.0,1.0,1.0,answer_line
+train,451,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Astana, Nouakchott.",0,0.0,,0.0,answer_line
+train,452,"Exactly 0 of the following cities are in Uganda: UEskuedar, Kuantan.",1,0.0,,0.0,answer_line
+train,453,"Exactly 2 of the following cities are in Peru: Callao, Piura.",1,1.0,,1.0,answer_line
+train,454,"Exactly 0 of the following cities are in Jordan: Irbid, Amman.",0,0.0,,0.0,answer_line
+train,455,"Exactly 2 of the following cities are in India: Dombivali, Dhanbad.",1,1.0,1.0,1.0,answer_line
+train,456,"Exactly 1 of the following cities are in Ethiopia: Suining, Sanaa.",0,1.0,1.0,1.0,answer_line
+train,457,"Exactly 2 of the following cities are in Romania: Bucharest, Akure.",0,0.0,0.0,0.0,answer_line
+train,458,"Exactly 0 of the following cities are in New Zealand: Auckland, Yibin.",0,0.0,0.0,0.0,answer_line
+train,459,"Exactly 1 of the following cities are in Belarus: Sapporo, Minsk.",1,1.0,1.0,1.0,answer_line
+train,460,"Exactly 2 of the following cities are in Chad: N'Djamena, Kagoshima.",0,0.0,,0.0,answer_line
+train,461,"Exactly 2 of the following cities are in Mauritania: Bhopal, Taicang.",0,0.0,,0.0,answer_line
+train,462,"Exactly 0 of the following cities are in Bhutan: Jiangyin, Denpasar.",1,1.0,,1.0,answer_line
+train,463,"Exactly 1 of the following cities are in Saudi Arabia: Kakamega, Sultanah.",1,1.0,1.0,1.0,answer_line
+train,464,"Exactly 1 of the following cities are in Nicaragua: Managua, Samarkand.",1,1.0,1.0,1.0,answer_line
+train,465,"Exactly 1 of the following cities are in Rwanda: Shangrao, Kigali.",1,1.0,1.0,1.0,answer_line
+train,466,"Exactly 2 of the following cities are in Sierra Leone: Tabriz, Subang Jaya.",0,0.0,,0.0,answer_line
+train,467,"Exactly 2 of the following cities are in Angola: Hoji ya Henda, Mulenvos.",1,0.0,,0.0,answer_line
+train,468,"Exactly 1 of the following cities are in Ukraine: Kryvyy Rih, Kharkiv.",0,0.0,0.0,0.0,answer_line
+train,469,"Exactly 1 of the following cities are in Myanmar: Yangon, Isfahan.",1,1.0,1.0,1.0,answer_line
+train,470,"Exactly 0 of the following cities are in Angola: Benguela, Cabinda.",0,0.0,,0.0,answer_line
+train,471,"Exactly 2 of the following cities are in South Africa: Pietermaritzburg, Sukkur.",0,0.0,0.0,0.0,answer_line
+train,472,"Exactly 0 of the following cities are in Morocco: Tlalpan, Faridabad.",1,1.0,1.0,1.0,answer_line
+train,473,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Sarajevo, Muscat.",0,0.0,,0.0,answer_line
+train,474,"Exactly 0 of the following cities are in Vietnam: Da Nang, Thuan An.",0,0.0,,0.0,answer_line
+train,475,"Exactly 2 of the following cities are in Uganda: Al Ahmadi, Chengdu.",0,0.0,,0.0,answer_line
+train,476,"Exactly 1 of the following cities are in Dominica: Cotonou, Cucuta.",0,0.0,0.0,0.0,answer_line
+train,477,"Exactly 2 of the following cities are in Brazil: Sao Jose dos Campos, Duque de Caxias.",1,1.0,1.0,1.0,answer_line
+train,478,"Exactly 0 of the following cities are in Japan: Sadr City, Al Ahmadi.",1,1.0,1.0,1.0,answer_line
+train,479,"Exactly 1 of the following cities are in Colombia: Bucaramanga, Cucuta.",0,0.0,,0.0,answer_line
+train,480,"Exactly 2 of the following cities are in Colombia: Barranquilla, Bucaramanga.",1,1.0,1.0,1.0,answer_line
+train,481,"Exactly 2 of the following cities are in Nigeria: Ajegunle, Enugu.",1,1.0,1.0,1.0,answer_line
+train,482,"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Niluefer.",1,1.0,1.0,1.0,answer_line
+train,483,"Exactly 1 of the following cities are in Jamaica: New Kingston, Managua.",1,1.0,1.0,1.0,answer_line
+train,484,"Exactly 0 of the following cities are in Moldova: Bauchi, Nha Trang.",1,1.0,1.0,1.0,answer_line
+train,485,"Exactly 2 of the following cities are in Ukraine: Odesa, Kyiv.",1,1.0,1.0,1.0,answer_line
+train,486,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Tonghua, Sarajevo.",0,0.0,0.0,0.0,answer_line
+train,487,"Exactly 2 of the following cities are in Hungary: Vijayawada, N'Djamena.",0,1.0,,1.0,answer_line
+train,488,"Exactly 2 of the following cities are in Bangladesh: Khulna, Rangpur.",1,1.0,1.0,1.0,answer_line
+train,489,"Exactly 1 of the following cities are in Niger: Dakar, Niamey.",1,1.0,1.0,1.0,answer_line
+train,490,"Exactly 2 of the following cities are in Indonesia: Cimahi, Jakarta.",1,1.0,1.0,1.0,answer_line
+train,491,"Exactly 0 of the following cities are in Canada: Winnipeg, Thu GJuc.",0,0.0,,0.0,answer_line
+train,492,"Exactly 1 of the following cities are in Azerbaijan: Handan, Zhabei.",0,0.0,0.0,0.0,answer_line
+train,493,"Exactly 0 of the following cities are in Colombia: Guilin, Soacha.",0,0.0,,0.0,answer_line
+train,494,"Exactly 2 of the following cities are in the United States: Milwaukee, Queens.",1,1.0,1.0,1.0,answer_line
+train,495,"Exactly 2 of the following cities are in the Maldives: Esenyurt, Surat.",0,0.0,,0.0,answer_line
+train,496,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Pallabi.",1,0.0,0.0,0.0,answer_line
+train,497,"Exactly 2 of the following cities are in Yemen: Ibb, Sanaa.",1,1.0,,1.0,answer_line
+train,498,"Exactly 0 of the following cities are in Eritrea: Langfang, Ulyanovsk.",1,1.0,1.0,1.0,answer_line
+train,499,"Exactly 2 of the following cities are in Togo: Bhubaneswar, Mudanjiang.",0,0.0,0.0,0.0,answer_line
+train,500,"Exactly 1 of the following cities are in Lebanon: Beirut, Shekhupura.",1,1.0,1.0,1.0,answer_line
+train,501,"Exactly 2 of the following cities are in Indonesia: Pontianak, Malang.",1,1.0,1.0,1.0,answer_line
+train,502,"Exactly 2 of the following cities are in Botswana: Madinah, Mississauga.",0,0.0,0.0,0.0,answer_line
+train,503,"Exactly 2 of the following cities are in Sao Tome and Principe: Sargodha, Hanzhong.",0,0.0,0.0,0.0,answer_line
+train,504,"Exactly 0 of the following cities are in Belarus: Pekanbaru, Homyel'.",0,0.0,,0.0,answer_line
+train,505,"Exactly 1 of the following cities are in Saudi Arabia: Yangquan, Incheon.",0,0.0,,0.0,answer_line
+train,506,"Exactly 1 of the following cities are in Mozambique: Nampula, Matola.",0,0.0,,0.0,answer_line
+train,507,"Exactly 2 of the following cities are in Lithuania: Xuchang, Paranaque City.",0,0.0,,0.0,answer_line
+train,508,"Exactly 0 of the following cities are in Djibouti: Wuwei, Balbala.",0,1.0,1.0,1.0,answer_line
+train,509,"Exactly 2 of the following cities are in Canada: Kota Bharu, Quebec.",0,0.0,,0.0,answer_line
+train,510,"Exactly 1 of the following cities are in Egypt: Shubra al Khaymah, Cuttack.",1,1.0,1.0,1.0,answer_line
+train,511,"Exactly 0 of the following cities are in Chile: Puente Alto, Johannesburg.",0,0.0,,0.0,answer_line
+train,512,"Exactly 0 of the following cities are in Samoa: Kinshasa, Kallakurichi.",1,1.0,1.0,1.0,answer_line
+train,513,"Exactly 0 of the following cities are in Sudan: Subang Jaya, Benin City.",1,1.0,1.0,1.0,answer_line
+train,514,"Exactly 0 of the following cities are in South Africa: Madinat an Nasr, Johannesburg.",0,0.0,,0.0,answer_line
+train,515,"Exactly 1 of the following cities are in Cuba: Jaboatao dos Guararapes, Nizhniy Novgorod.",0,0.0,0.0,0.0,answer_line
+train,516,"Exactly 2 of the following cities are in Mexico: Torreon, Gustavo Adolfo Madero.",1,1.0,1.0,1.0,answer_line
+train,517,"Exactly 0 of the following cities are in Ghana: Taiz, Warangal.",1,1.0,1.0,1.0,answer_line
+train,518,"Exactly 1 of the following cities are in Iran: Panzhihua, Kermanshah.",1,1.0,1.0,1.0,answer_line
+train,519,"Exactly 2 of the following cities are in Haiti: Mexicali, Port-au-Prince.",0,0.0,0.0,0.0,answer_line
+train,520,"Exactly 0 of the following cities are in Mexico: Sangli, Huangshi.",1,1.0,,1.0,answer_line
+train,521,"Exactly 2 of the following cities are in Singapore: Panshan, Hamhung.",0,0.0,,0.0,answer_line
+train,522,"Exactly 1 of the following cities are in Kenya: Nairobi, Zhangjiagang.",1,1.0,1.0,1.0,answer_line
+train,523,"Exactly 1 of the following cities are in Sweden: Benin City, Stockholm.",1,1.0,1.0,1.0,answer_line
+train,524,"Exactly 0 of the following cities are in Lithuania: Ciudad Guayana, Lodz.",1,1.0,1.0,1.0,answer_line
+train,525,"Exactly 2 of the following cities are in Morocco: Meknes, Agadir.",1,1.0,1.0,1.0,answer_line
+train,526,"Exactly 1 of the following cities are in Bhutan: Faisalabad, San Luis Potosi.",0,0.0,0.0,0.0,answer_line
+train,527,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Wuhan, Kota Kinabalu.",0,0.0,,0.0,answer_line
+train,528,"Exactly 1 of the following cities are in North Korea: Moradabad, Chisinau.",0,0.0,,0.0,answer_line
+train,529,"Exactly 1 of the following cities are in Italy: Dakar, Izhevsk.",0,0.0,0.0,0.0,answer_line
+train,530,"Exactly 2 of the following cities are in Burkina Faso: Bobo-Dioulasso, Shangrao.",0,0.0,,0.0,answer_line
+train,531,"Exactly 1 of the following cities are in the United Arab Emirates: Pimpri, Auckland.",0,0.0,0.0,0.0,answer_line
+train,532,"Exactly 1 of the following cities are in Cuba: Hohhot, Sulaymaniyah.",0,0.0,,0.0,answer_line
+train,533,"Exactly 1 of the following cities are in Germany: Qingdao, Putuo.",0,0.0,,0.0,answer_line
+train,534,"Exactly 2 of the following cities are in Guatemala: Aparecida de Goiania, Quezon City.",0,0.0,,0.0,answer_line
+train,535,"Exactly 1 of the following cities are in Haiti: Muntinlupa, Carrefour.",1,1.0,1.0,1.0,answer_line
+train,536,"Exactly 2 of the following cities are in China: Zhumadian, Wuwei.",1,1.0,1.0,1.0,answer_line
+train,537,"Exactly 2 of the following cities are in Bangladesh: Rangpur, Rajshahi.",1,1.0,1.0,1.0,answer_line
+train,538,"Exactly 0 of the following cities are in South Korea: Bhilai, Yinchuan.",1,1.0,1.0,1.0,answer_line
+train,539,"Exactly 1 of the following cities are in China: Suqian, Chenzhou.",0,0.0,,0.0,answer_line
+train,540,"Exactly 1 of the following cities are in Jamaica: Muzaffarabad, New Kingston.",1,1.0,1.0,1.0,answer_line
+train,541,"Exactly 1 of the following cities are in Singapore: Santiago de Queretaro, Bhavnagar.",0,0.0,,0.0,answer_line
+train,542,"Exactly 0 of the following cities are in Brazil: Joao Pessoa, Macapa.",0,0.0,,0.0,answer_line
+train,543,"Exactly 1 of the following cities are in Colombia: Minhang, Heroica Matamoros.",0,0.0,,0.0,answer_line
+train,544,"Exactly 1 of the following cities are in Tunisia: Tokyo, Orumiyeh.",0,0.0,,0.0,answer_line
+train,545,"Exactly 2 of the following cities are in Germany: Dortmund, Duesseldorf.",1,1.0,,1.0,answer_line
+train,546,"Exactly 0 of the following cities are in Argentina: Mar del Plata, Heroica Matamoros.",0,0.0,,0.0,answer_line
+train,547,"Exactly 2 of the following cities are in India: Serang, Virar.",0,0.0,,0.0,answer_line
+train,548,"Exactly 0 of the following cities are in Vanuatu: Battagram, Cucuta.",1,1.0,1.0,1.0,answer_line
+train,549,"Exactly 2 of the following cities are in Russia: Yekaterinburg, Irkutsk.",1,1.0,1.0,1.0,answer_line
+train,550,"Exactly 0 of the following cities are in Uganda: Kampala, Aleppo.",0,0.0,,0.0,answer_line
+train,551,"Exactly 1 of the following cities are in Peru: Chiclayo, Arequipa.",0,0.0,,0.0,answer_line
+train,552,"Exactly 1 of the following cities are in North Korea: Pyongyang, Yichang.",1,1.0,1.0,1.0,answer_line
+train,553,"Exactly 0 of the following cities are in Zambia: Ndola, Rui'an.",0,0.0,,0.0,answer_line
+train,554,"Exactly 0 of the following cities are in Vietnam: Da Nang, Kyiv.",0,0.0,,0.0,answer_line
+train,555,"Exactly 1 of the following cities are in Tajikistan: Dushanbe, Osogbo.",1,0.0,0.0,0.0,answer_line
+train,556,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Mirpur Model Thana.",1,1.0,,1.0,answer_line
+train,557,"Exactly 1 of the following cities are in Romania: Bucharest, Wuhan.",1,1.0,1.0,1.0,answer_line
+train,558,"Exactly 0 of the following cities are in Ecuador: Qom, Kharkiv.",1,1.0,,1.0,answer_line
+train,559,"Exactly 1 of the following cities are in the Czech Republic: Changwon, Sevastopol.",0,0.0,,0.0,answer_line
+train,560,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Xiaogan, Kaduna.",1,1.0,1.0,1.0,answer_line
+train,561,"Exactly 0 of the following cities are in Poland: Thembisa, Ujjain.",1,1.0,1.0,1.0,answer_line
+train,562,"Exactly 1 of the following cities are in Burkina Faso: Makkah, Ouagadougou.",1,1.0,1.0,1.0,answer_line
+train,563,"Exactly 1 of the following cities are in the Philippines: Quezon City, Muntinlupa.",0,0.0,,0.0,answer_line
+train,564,"Exactly 1 of the following cities are in Turkmenistan: Ashgabat, Jiujiang.",1,1.0,1.0,1.0,answer_line
+train,565,"Exactly 1 of the following cities are in Australia: Gazipur, Gold Coast.",1,1.0,1.0,1.0,answer_line
+train,566,"Exactly 1 of the following cities are in Liechtenstein: Kirkuk, Gwalior.",0,0.0,0.0,0.0,answer_line
+train,567,"Exactly 0 of the following cities are in Argentina: Al Mawsil al Jadidah, Mengzi.",1,1.0,1.0,1.0,answer_line
+train,568,"Exactly 0 of the following cities are in Venezuela: Maturin, Manaus.",0,0.0,,0.0,answer_line
+train,569,"Exactly 0 of the following cities are in Togo: Calabar, Lome.",0,0.0,,0.0,answer_line
+train,570,"Exactly 0 of the following cities are in Germany: Hannover, Lusaka.",0,0.0,,0.0,answer_line
+train,571,"Exactly 0 of the following cities are in Ethiopia: Baku, Addis Ababa.",0,0.0,,0.0,answer_line
+train,572,"Exactly 1 of the following cities are in the Central African Republic: Ganzhou, Cebu City.",0,0.0,,0.0,answer_line
+train,573,"Exactly 2 of the following cities are in Saudi Arabia: Makkah, Dammam.",1,1.0,1.0,1.0,answer_line
+train,574,"Exactly 2 of the following cities are in Palau: Osaka, Kumasi.",0,0.0,0.0,0.0,answer_line
+train,575,"Exactly 1 of the following cities are in Guinea: Zhaoqing, Camayenne.",1,1.0,1.0,1.0,answer_line
+train,576,"Exactly 2 of the following cities are in South Korea: Kaifeng, Ho Chi Minh City.",0,0.0,0.0,0.0,answer_line
+train,577,"Exactly 0 of the following cities are in Pakistan: Minhang, Saint Petersburg.",1,1.0,1.0,1.0,answer_line
+train,578,"Exactly 0 of the following cities are in Uganda: Kampala, Zhaotong.",0,0.0,0.0,0.0,answer_line
+train,579,"Exactly 1 of the following cities are in Guinea: Johannesburg, Conakry.",1,1.0,1.0,1.0,answer_line
+train,580,"Exactly 2 of the following cities are in China: Bengbu, Xuancheng.",1,,,,none
+train,581,"Exactly 1 of the following cities are in Iran: Xiamen, Santiago de los Caballeros.",0,0.0,0.0,0.0,answer_line
+train,582,"Exactly 2 of the following cities are in Botswana: Luancheng, Nyala.",0,1.0,1.0,1.0,answer_line
+train,583,"Exactly 1 of the following cities are in Samoa: Isfahan, Malang.",0,0.0,0.0,0.0,answer_line
+train,584,"Exactly 1 of the following cities are in Burundi: Jabalpur, Ningbo.",0,0.0,,0.0,answer_line
+train,585,"Exactly 1 of the following cities are in Cameroon: Yaounde, Homs.",1,1.0,1.0,1.0,answer_line
+train,586,"Exactly 2 of the following cities are in Côte d'Ivoire: Bouake, Kitwe.",0,0.0,,0.0,answer_line
+train,587,"Exactly 0 of the following cities are in Bangladesh: Suez, Pest.",1,1.0,1.0,1.0,answer_line
+train,588,"Exactly 0 of the following cities are in the Central African Republic: Daqing, Camayenne.",1,1.0,1.0,1.0,answer_line
+train,589,"Exactly 2 of the following cities are in Mauritania: Yangjiang, Managua.",0,0.0,,0.0,answer_line
+train,590,"Exactly 0 of the following cities are in Uruguay: Meerut, Weinan.",1,1.0,1.0,1.0,answer_line
+train,591,"Exactly 2 of the following cities are in Portugal: Vladivostok, Bogor.",0,0.0,0.0,0.0,answer_line
+train,592,"Exactly 0 of the following cities are in Ecuador: Guayaquil, Dera Ismail Khan.",0,0.0,,0.0,answer_line
+train,593,"Exactly 0 of the following cities are in Portugal: Bandar Lampung, Lubango.",1,1.0,1.0,1.0,answer_line
+train,594,"Exactly 0 of the following cities are in Mauritania: Ibb, Dortmund.",1,1.0,1.0,1.0,answer_line
+train,595,"Exactly 1 of the following cities are in Australia: Detroit, Gustavo Adolfo Madero.",0,0.0,0.0,0.0,answer_line
+train,596,"Exactly 0 of the following cities are in Argentina: Gustavo Adolfo Madero, Dharavi.",1,1.0,1.0,1.0,answer_line
+train,597,"Exactly 0 of the following cities are in Suriname: Budta, Chelyabinsk.",1,1.0,1.0,1.0,answer_line
+train,598,"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Rawalpindi.",1,1.0,1.0,1.0,answer_line
+train,599,"Exactly 1 of the following cities are in Djibouti: Buraydah, Balbala.",1,0.0,0.0,0.0,answer_line
+train,600,"Exactly 1 of the following cities are in Hungary: Dalian, Pest.",1,1.0,1.0,1.0,answer_line
+train,601,"Exactly 0 of the following cities are in Madagascar: Antananarivo, Karbala.",0,0.0,,0.0,answer_line
+train,602,"Exactly 2 of the following cities are in South Africa: Pietermaritzburg, Soweto.",1,1.0,1.0,1.0,answer_line
+train,603,"Exactly 1 of the following cities are in Azerbaijan: Baku, Krakow.",1,1.0,1.0,1.0,answer_line
+train,604,"Exactly 2 of the following cities are in Mexico: Tlaquepaque, Iztapalapa.",1,1.0,1.0,1.0,answer_line
+train,605,"Exactly 0 of the following cities are in Niger: Culiacan, Taguig.",1,1.0,1.0,1.0,answer_line
+train,606,"Exactly 2 of the following cities are in Japan: Hamamatsu, Osaka.",1,1.0,1.0,1.0,answer_line
+train,607,"Exactly 1 of the following cities are in Cambodia: Osaka, Jammu.",0,0.0,0.0,0.0,answer_line
+train,608,"Exactly 2 of the following cities are in Saudi Arabia: Ta'if, Buraydah.",1,1.0,1.0,1.0,answer_line
+train,609,"Exactly 2 of the following cities are in Iran: Karaj, Tabriz.",1,1.0,1.0,1.0,answer_line
+train,610,"Exactly 1 of the following cities are in Iran: Johor Bahru, Kallakurichi.",0,0.0,0.0,0.0,answer_line
+train,611,"Exactly 0 of the following cities are in Colombia: Soacha, Barranquilla.",0,0.0,,0.0,answer_line
+train,612,"Exactly 1 of the following cities are in Guinea-Bissau: Incheon, Novokuznetsk.",0,0.0,0.0,0.0,answer_line
+train,613,"Exactly 1 of the following cities are in New Zealand: Itabashi, Auckland.",1,1.0,1.0,1.0,answer_line
+train,614,"Exactly 0 of the following cities are in Cambodia: Al Ahmadi, Amravati.",1,1.0,1.0,1.0,answer_line
+train,615,"Exactly 2 of the following cities are in Kuwait: Novokuznetsk, Al Ahmadi.",0,0.0,,0.0,answer_line
+train,616,"Exactly 1 of the following cities are in Tuvalu: Puning, Maianga.",0,1.0,1.0,1.0,answer_line
+train,617,"Exactly 2 of the following cities are in Angola: Samarinda, Camama.",0,0.0,,0.0,answer_line
+train,618,"Exactly 2 of the following cities are in the Philippines: San Luis Potosi, Taguig.",0,0.0,0.0,0.0,answer_line
+train,619,"Exactly 0 of the following cities are in the United Arab Emirates: Sharjah, Abu Dhabi.",0,0.0,,0.0,answer_line
+train,620,"Exactly 1 of the following cities are in Macedonia: Goyang-si, Nairobi.",0,0.0,0.0,0.0,answer_line
+train,621,"Exactly 2 of the following cities are in Portugal: Maiduguri, Zahedan.",0,0.0,,0.0,answer_line
+train,622,"Exactly 0 of the following cities are in Comoros: Puning, Binzhou.",1,1.0,,1.0,answer_line
+train,623,"Exactly 0 of the following cities are in Equatorial Guinea: Rui'an, Torreon.",1,1.0,1.0,1.0,answer_line
+train,624,"Exactly 2 of the following cities are in Latvia: Riga, Wanxian.",0,0.0,0.0,0.0,answer_line
+train,625,"Exactly 2 of the following cities are in China: Rui'an, Quezon City.",0,0.0,,0.0,answer_line
+train,626,"Exactly 2 of the following cities are in Myanmar: Hlaingthaya, Mandalay.",1,1.0,1.0,1.0,answer_line
+train,627,"Exactly 1 of the following cities are in Kazakhstan: Changshu, Bauchi.",0,0.0,0.0,0.0,answer_line
+train,628,"Exactly 2 of the following cities are in South Africa: Evaton, Gqeberha.",1,1.0,1.0,1.0,answer_line
+train,629,"Exactly 1 of the following cities are in Hungary: Caracas, Pest.",1,1.0,1.0,1.0,answer_line
+train,630,"Exactly 1 of the following cities are in Algeria: Algiers, Nyala.",1,1.0,1.0,1.0,answer_line
+train,631,"Exactly 1 of the following cities are in North Korea: Nova Iguacu, Hamhung.",1,1.0,1.0,1.0,answer_line
+train,632,"Exactly 1 of the following cities are in Mali: Saint Petersburg, Shangrao.",0,0.0,,0.0,answer_line
+train,633,"Exactly 2 of the following cities are in Vietnam: Haiphong, Da Nang.",1,1.0,1.0,1.0,answer_line
+train,634,"Exactly 2 of the following cities are in Somalia: Mogadishu, Quetta.",0,0.0,,0.0,answer_line
+train,635,"Exactly 1 of the following cities are in Sudan: Esenler, Khartoum North.",1,1.0,1.0,1.0,answer_line
+train,636,"Exactly 1 of the following cities are in Chad: Bobo-Dioulasso, N'Djamena.",1,1.0,1.0,1.0,answer_line
+train,637,"Exactly 0 of the following cities are in Dominica: Maianga, Cucuta.",1,1.0,1.0,1.0,answer_line
+train,638,"Exactly 2 of the following cities are in Saudi Arabia: Ta'if, Makkah.",1,1.0,1.0,1.0,answer_line
+train,639,"Exactly 1 of the following cities are in the Dominican Republic: Denpasar, Jeonju.",0,0.0,0.0,0.0,answer_line
+train,640,"Exactly 0 of the following cities are in Benin: Lianyungang, Pingdingshan.",1,1.0,1.0,1.0,answer_line
+train,641,"Exactly 1 of the following cities are in Morocco: Agadir, Tangier.",0,0.0,,0.0,answer_line
+train,642,"Exactly 0 of the following cities are in Cyprus: Jhang Sadr, Jiangyin.",1,1.0,1.0,1.0,answer_line
+train,643,"Exactly 2 of the following cities are in South Korea: Bucheon-si, Hwaseong-si.",1,1.0,1.0,1.0,answer_line
+train,644,"Exactly 0 of the following cities are in Turkey: Shuangyashan, Pingliang.",1,1.0,1.0,1.0,answer_line
+train,645,"Exactly 1 of the following cities are in China: Ziyang, Hermosillo.",1,1.0,1.0,1.0,answer_line
+train,646,"Exactly 1 of the following cities are in Equatorial Guinea: Peshawar, Quebec.",0,0.0,,0.0,answer_line
+train,647,"Exactly 1 of the following cities are in Zambia: Dalian, Seongnam-si.",0,0.0,0.0,0.0,answer_line
+train,648,"Exactly 2 of the following cities are in Angola: Golfe, Mulenvos.",1,0.0,0.0,0.0,answer_line
+train,649,"Exactly 0 of the following cities are in Thailand: Ajegunle, Zhangjiakou.",1,1.0,1.0,1.0,answer_line
+train,650,"Exactly 2 of the following cities are in Japan: Hiroshima, Utsunomiya.",1,1.0,1.0,1.0,answer_line
+train,651,"Exactly 1 of the following cities are in Nigeria: Naberezhnyye Chelny, Ebute Ikorodu.",1,1.0,1.0,1.0,answer_line
+train,652,"Exactly 0 of the following cities are in Uganda: Tasikmalaya, Nansana.",0,1.0,,1.0,answer_line
+train,653,"Exactly 1 of the following cities are in Denmark: Ile-Ife, Copenhagen.",1,1.0,1.0,1.0,answer_line
+train,654,"Exactly 0 of the following cities are in Morocco: Mexico City, Agadir.",0,0.0,,0.0,answer_line
+train,655,"Exactly 1 of the following cities are in Denmark: Izmir, Copenhagen.",1,1.0,1.0,1.0,answer_line
+train,656,"Exactly 0 of the following cities are in Lebanon: Suqian, Kharkiv.",1,1.0,1.0,1.0,answer_line
+train,657,"Exactly 2 of the following cities are in Nigeria: Akure, Bauchi.",1,1.0,1.0,1.0,answer_line
+train,658,"Exactly 2 of the following cities are in Moldova: Jiaozhou, Nouakchott.",0,0.0,0.0,0.0,answer_line
+train,659,"Exactly 0 of the following cities are in Pakistan: Kasur, Jhang Sadr.",0,0.0,,0.0,answer_line
+train,660,"Exactly 2 of the following cities are in Nepal: Jinan, Jiaozuo.",0,0.0,0.0,0.0,answer_line
+train,661,"Exactly 1 of the following cities are in Brazil: Ananindeua, Tlalpan.",1,1.0,1.0,1.0,answer_line
+train,662,"Exactly 0 of the following cities are in Mali: Bamako, Huzhou.",0,0.0,,0.0,answer_line
+train,663,"Exactly 2 of the following cities are in Kiribati: Santiago de Cuba, Gujranwala.",0,0.0,,0.0,answer_line
+train,664,"Exactly 2 of the following cities are in Yemen: Sanaa, Lome.",0,0.0,,0.0,answer_line
+train,665,"Exactly 1 of the following cities are in Chile: Tomsk, Ulhasnagar.",0,0.0,,0.0,answer_line
+train,666,"Exactly 1 of the following cities are in Cuba: Heze, Kagoshima.",0,0.0,0.0,0.0,answer_line
+train,667,"Exactly 2 of the following cities are in Venezuela: Maturin, Maracaibo.",1,1.0,1.0,1.0,answer_line
+train,668,"Exactly 1 of the following cities are in Kyrgyzstan: Lilongwe, Bishkek.",1,1.0,1.0,1.0,answer_line
+train,669,"Exactly 1 of the following cities are in Egypt: Niigata, Giza.",1,1.0,1.0,1.0,answer_line
+train,670,"Exactly 2 of the following cities are in Turkey: Niluefer, Ankara.",1,1.0,1.0,1.0,answer_line
+train,671,"Exactly 1 of the following cities are in China: Tonghua, Changde.",0,0.0,,0.0,answer_line
+train,672,"Exactly 1 of the following cities are in Nepal: Paranaque City, Kathmandu.",1,1.0,1.0,1.0,answer_line
+train,673,"Exactly 2 of the following cities are in Guyana: Nanning, Jeddah.",0,0.0,0.0,0.0,answer_line
+train,674,"Exactly 2 of the following cities are in Germany: Dortmund, Leipzig.",1,1.0,1.0,1.0,answer_line
+train,675,"Exactly 2 of the following cities are in Mexico: Hermosillo, Culiacan.",1,1.0,1.0,1.0,answer_line
+train,676,"Exactly 0 of the following cities are in Nigeria: Krakow, Ilorin.",0,0.0,,0.0,answer_line
+train,677,"Exactly 1 of the following cities are in Turkey: Evaton, Addis Ababa.",0,0.0,,0.0,answer_line
+train,678,"Exactly 0 of the following cities are in Peru: Dera Ismail Khan, Marseille.",1,1.0,1.0,1.0,answer_line
+train,679,"Exactly 1 of the following cities are in Turkey: Abu Dhabi, Eskisehir.",1,1.0,1.0,1.0,answer_line
+train,680,"Exactly 0 of the following cities are in Qatar: Suizhou, Suwon.",1,1.0,1.0,1.0,answer_line
+train,681,"Exactly 1 of the following cities are in Tanzania: Mbeya, Shangqiu.",1,1.0,1.0,1.0,answer_line
+train,682,"Exactly 1 of the following cities are in Burundi: Bujumbura, Haiphong.",1,1.0,1.0,1.0,answer_line
+train,683,"Exactly 1 of the following cities are in Sudan: Khartoum North, Nouakchott.",1,1.0,1.0,1.0,answer_line
+train,684,"Exactly 2 of the following cities are in Panama: Kagoshima, Osogbo.",0,0.0,,0.0,answer_line
+train,685,"Exactly 0 of the following cities are in New Zealand: Makassar, Auckland.",0,0.0,,0.0,answer_line
+train,686,"Exactly 1 of the following cities are in Brazil: Gqeberha, Ribeirao Preto.",1,1.0,1.0,1.0,answer_line
+train,687,"Exactly 2 of the following cities are in the United Arab Emirates: Guli, Al Ain City.",0,0.0,0.0,0.0,answer_line
+train,688,"Exactly 1 of the following cities are in Sri Lanka: Qom, Chattogram.",0,0.0,0.0,0.0,answer_line
+train,689,"Exactly 2 of the following cities are in Canada: Winnipeg, Mississauga.",1,1.0,1.0,1.0,answer_line
+train,690,"Exactly 1 of the following cities are in Lesotho: Jos, Yangjiang.",0,0.0,0.0,0.0,answer_line
+train,691,"Exactly 1 of the following cities are in Zimbabwe: Harare, Nanded.",1,1.0,1.0,1.0,answer_line
+train,692,"Exactly 2 of the following cities are in Germany: Mersin, Bursa.",0,0.0,,0.0,answer_line
+train,693,"Exactly 2 of the following cities are in North Korea: Harbin, Hamhung.",0,0.0,,0.0,answer_line
+train,694,"Exactly 2 of the following cities are in Afghanistan: Lu'an, Antalya.",0,0.0,0.0,0.0,answer_line
+train,695,"Exactly 2 of the following cities are in Russia: Volgograd, Barnaul.",1,1.0,1.0,1.0,answer_line
+train,696,"Exactly 1 of the following cities are in Japan: Aihara, Niigata.",0,0.0,,0.0,answer_line
+train,697,"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Mar del Plata.",1,1.0,1.0,1.0,answer_line
+train,698,"Exactly 2 of the following cities are in Gabon: Koeln, Guilin.",0,0.0,0.0,0.0,answer_line
+train,699,"Exactly 2 of the following cities are in South Africa: Gqeberha, Benoni.",1,1.0,1.0,1.0,answer_line
+train,700,"Exactly 2 of the following cities are in Iraq: Al Mawsil al Jadidah, Nasiriyah.",1,0.0,,0.0,answer_line
+train,701,"Exactly 2 of the following cities are in Estonia: Huangshi, Anyang-si.",0,0.0,,0.0,answer_line
+train,702,"Exactly 2 of the following cities are in Germany: Munich, Dortmund.",1,1.0,,1.0,answer_line
+train,703,"Exactly 0 of the following cities are in Russia: Samarkand, Tomsk.",0,0.0,0.0,0.0,answer_line
+train,704,"Exactly 1 of the following cities are in Tonga: Banjarmasin, Thu GJuc.",0,0.0,,0.0,answer_line
+train,705,"Exactly 1 of the following cities are in Hungary: Puducherry, Makassar.",0,0.0,,0.0,answer_line
+train,706,"Exactly 1 of the following cities are in Angola: Cucuta, Benguela.",1,1.0,1.0,1.0,answer_line
+train,707,"Exactly 1 of the following cities are in Guinea: Camayenne, Malingao.",1,1.0,1.0,1.0,answer_line
+train,708,"Exactly 2 of the following cities are in Jamaica: Hezhou, Yerevan.",0,0.0,0.0,0.0,answer_line
+train,709,"Exactly 2 of the following cities are in Saudi Arabia: Buraydah, Ha'il.",1,1.0,1.0,1.0,answer_line
+train,710,"Exactly 1 of the following cities are in Cambodia: Changde, Yangon.",0,0.0,0.0,0.0,answer_line
+train,711,"Exactly 1 of the following cities are in Kenya: Madurai, Nakuru.",1,1.0,1.0,1.0,answer_line
+train,712,"Exactly 2 of the following cities are in Liechtenstein: Foshan, Karachi.",0,0.0,,0.0,answer_line
+train,713,"Exactly 0 of the following cities are in Sri Lanka: Bouake, Gurugram.",1,1.0,1.0,1.0,answer_line
+train,714,"Exactly 2 of the following cities are in Chile: Hamamatsu, Calgary.",0,0.0,0.0,0.0,answer_line
+train,715,"Exactly 2 of the following cities are in Malaysia: Kota Kuala Muda, Pasir Gudang.",1,1.0,1.0,1.0,answer_line
+train,716,"Exactly 1 of the following cities are in Saint Vincent and the Grenadines: Stockholm, Ouagadougou.",0,0.0,,0.0,answer_line
+train,717,"Exactly 2 of the following cities are in Angola: Hanzhong, Cabinda.",0,0.0,,0.0,answer_line
+train,718,"Exactly 2 of the following cities are in Kuwait: Assiut, Cheongju-si.",0,0.0,,0.0,answer_line
+train,719,"Exactly 1 of the following cities are in South Africa: Thembisa, Dehradun.",1,1.0,1.0,1.0,answer_line
+train,720,"Exactly 2 of the following cities are in Kuwait: Zhongwei, Kryvyy Rih.",0,0.0,,0.0,answer_line
+train,721,"Exactly 2 of the following cities are in the Philippines: Taguig, Budta.",1,0.0,0.0,0.0,answer_line
+train,722,"Exactly 0 of the following cities are in Saudi Arabia: Ta'if, Foshan.",0,0.0,,0.0,answer_line
+train,723,"Exactly 2 of the following cities are in San Marino: Hlaingthaya, Tlalpan.",0,0.0,0.0,0.0,answer_line
+train,724,"Exactly 1 of the following cities are in Tunisia: Mexico City, Uberlandia.",0,0.0,,0.0,answer_line
+train,725,"Exactly 2 of the following cities are in Belarus: Perm, Guilin.",0,0.0,,0.0,answer_line
+train,726,"Exactly 2 of the following cities are in Mongolia: Ulan Bator, Tianshui.",0,0.0,,0.0,answer_line
+train,727,"Exactly 2 of the following cities are in Brazil: Sorocaba, Teresina.",1,1.0,1.0,1.0,answer_line
+train,728,"Exactly 2 of the following cities are in Laos: Vientiane, Homyel'.",0,0.0,,0.0,answer_line
+train,729,"Exactly 1 of the following cities are in Nigeria: Ajegunle, Calabar.",0,0.0,,0.0,answer_line
+train,730,"Exactly 1 of the following cities are in the Dominican Republic: Serang, Santo Domingo Oeste.",1,1.0,1.0,1.0,answer_line
+train,731,"Exactly 2 of the following cities are in Uruguay: Dongying, Makkah.",0,0.0,0.0,0.0,answer_line
+train,732,"Exactly 2 of the following cities are in Armenia: E'zhou, Rajshahi.",0,0.0,,0.0,answer_line
+train,733,"Exactly 0 of the following cities are in Finland: Nanded, Dharavi.",1,1.0,,1.0,answer_line
+train,734,"Exactly 0 of the following cities are in Mozambique: Matola, Tasikmalaya.",0,0.0,,0.0,answer_line
+train,735,"Exactly 1 of the following cities are in Jordan: Mysuru, Irbid.",1,1.0,1.0,1.0,answer_line
+train,736,"Exactly 1 of the following cities are in Mauritania: Bareilly, Nouakchott.",1,1.0,1.0,1.0,answer_line
+train,737,"Exactly 0 of the following cities are in Belarus: Minsk, Homyel'.",0,0.0,,0.0,answer_line
+train,738,"Exactly 1 of the following cities are in the United States: Guigang, New South Memphis.",1,1.0,1.0,1.0,answer_line
+train,739,"Exactly 1 of the following cities are in Sudan: Omdurman, Khartoum North.",0,0.0,,0.0,answer_line
+train,740,"Exactly 1 of the following cities are in Thailand: Suginami, Budta.",0,1.0,,1.0,answer_line
+train,741,"Exactly 1 of the following cities are in Poland: Kunming, Wroclaw.",1,1.0,1.0,1.0,answer_line
+train,742,"Exactly 1 of the following cities are in Germany: Hannover, Omdurman.",1,1.0,1.0,1.0,answer_line
+train,743,"Exactly 0 of the following cities are in Thailand: Hohhot, Bangkok.",0,0.0,,0.0,answer_line
+train,744,"Exactly 2 of the following cities are in the Philippines: Las Pinas, Zamboanga.",1,1.0,1.0,1.0,answer_line
+train,745,"Exactly 2 of the following cities are in Malaysia: Ipoh, Kota Kinabalu.",1,0.0,,0.0,answer_line
+train,746,"Exactly 2 of the following cities are in South Korea: Cheonan, Ulsan.",1,1.0,1.0,1.0,answer_line
+train,747,"Exactly 1 of the following cities are in Chile: Puente Alto, Utsunomiya.",1,1.0,1.0,1.0,answer_line
+train,748,"Exactly 2 of the following cities are in Benin: Tiruppur, Sokoto.",0,0.0,,0.0,answer_line
+train,749,"Exactly 1 of the following cities are in Kazakhstan: Perm, Ulhasnagar.",0,0.0,,0.0,answer_line
+train,750,"Exactly 1 of the following cities are in India: Arusha, Najafgarh.",1,1.0,1.0,1.0,answer_line
+train,751,"Exactly 0 of the following cities are in Mongolia: Ulan Bator, Zapopan.",0,0.0,,0.0,answer_line
+train,752,"Exactly 1 of the following cities are in Germany: Jos, Kanpur.",0,0.0,0.0,0.0,answer_line
+train,753,"Exactly 0 of the following cities are in the Dominican Republic: Owerri, Dammam.",1,1.0,1.0,1.0,answer_line
+train,754,"Exactly 1 of the following cities are in Austria: Niteroi, Hamadan.",0,0.0,,0.0,answer_line
+train,755,"Exactly 0 of the following cities are in Syria: Latakia, Santo Domingo Oeste.",0,0.0,,0.0,answer_line
+train,756,"Exactly 0 of the following cities are in Yemen: Mukalla, Aden.",0,0.0,,0.0,answer_line
+train,757,"Exactly 0 of the following cities are in Estonia: Chiclayo, Islamabad.",1,1.0,,1.0,answer_line
+train,758,"Exactly 2 of the following cities are in the United States: Chicago, New York City.",1,1.0,1.0,1.0,answer_line
+train,759,"Exactly 0 of the following cities are in Saint Vincent and the Grenadines: Vadodara, Hue.",1,1.0,,1.0,answer_line
+train,760,"Exactly 1 of the following cities are in Thailand: Bangkok, Xingtai.",1,1.0,1.0,1.0,answer_line
+train,761,"Exactly 0 of the following cities are in Belarus: Ar Raqqah, Minsk.",0,0.0,0.0,0.0,answer_line
+train,762,"Exactly 0 of the following cities are in Denmark: Nha Trang, Tiruppur.",1,1.0,1.0,1.0,answer_line
+train,763,"Exactly 2 of the following cities are in Cambodia: General Santos, Gwalior.",0,0.0,,0.0,answer_line
+train,764,"Exactly 2 of the following cities are in Angola: Setagaya, Nairobi.",0,0.0,,0.0,answer_line
+train,765,"Exactly 1 of the following cities are in Panama: Nellore, Ra's Bayrut.",0,0.0,0.0,0.0,answer_line
+train,766,"Exactly 1 of the following cities are in Burundi: Almaty, Bujumbura.",1,1.0,1.0,1.0,answer_line
+train,767,"Exactly 1 of the following cities are in Kazakhstan: Shymkent, Aktobe.",0,0.0,,0.0,answer_line
+train,768,"Exactly 0 of the following cities are in Pakistan: Ipoh, Guigang.",1,1.0,1.0,1.0,answer_line
+train,769,"Exactly 2 of the following cities are in Paraguay: Muscat, Bulawayo.",0,0.0,,0.0,answer_line
+train,770,"Exactly 1 of the following cities are in Côte d'Ivoire: Abobo, Xingtai.",1,1.0,1.0,1.0,answer_line
+train,771,"Exactly 1 of the following cities are in Indonesia: Setagaya, Nizhniy Novgorod.",0,0.0,,0.0,answer_line
+train,772,"Exactly 2 of the following cities are in Bangladesh: Rangpur, Chattogram.",1,1.0,,1.0,answer_line
+train,773,"Exactly 2 of the following cities are in Saudi Arabia: Najran, Ha'il.",1,1.0,1.0,1.0,answer_line
+train,774,"Exactly 1 of the following cities are in Nigeria: Nairobi, Kaduna.",1,1.0,1.0,1.0,answer_line
+train,775,"Exactly 1 of the following cities are in Germany: Dortmund, Ulanqab.",1,1.0,1.0,1.0,answer_line
+train,776,"Exactly 0 of the following cities are in New Zealand: Carrefour, Auckland.",0,0.0,,0.0,answer_line
+train,777,"Exactly 2 of the following cities are in Brazil: Bannu, Bengbu.",0,0.0,,0.0,answer_line
+train,778,"Exactly 1 of the following cities are in Venezuela: Bengaluru, Ribeirao Preto.",0,0.0,0.0,0.0,answer_line
+train,779,"Exactly 2 of the following cities are in South Africa: Gqeberha, Soweto.",1,1.0,,1.0,answer_line
+train,780,"Exactly 0 of the following cities are in Spain: Nasiriyah, Aguascalientes.",1,1.0,1.0,1.0,answer_line
+train,781,"Exactly 0 of the following cities are in Burundi: Rostov-on-Don, Rui'an.",1,1.0,1.0,1.0,answer_line
+train,782,"Exactly 0 of the following cities are in Azerbaijan: Prayagraj, Shizuoka.",1,1.0,1.0,1.0,answer_line
+train,783,"Exactly 2 of the following cities are in Russia: Kemerovo, Ufa.",1,1.0,,1.0,answer_line
+train,784,"Exactly 0 of the following cities are in New Zealand: Hangzhou, Auckland.",0,0.0,0.0,0.0,answer_line
+train,785,"Exactly 1 of the following cities are in Turkmenistan: Jilin, Ashgabat.",1,1.0,1.0,1.0,answer_line
+train,786,"Exactly 1 of the following cities are in Mozambique: Nampula, Khabarovsk.",1,1.0,1.0,1.0,answer_line
+train,787,"Exactly 1 of the following cities are in Palau: Kanayannur, Wuwei.",0,0.0,0.0,0.0,answer_line
+train,788,"Exactly 2 of the following cities are in the Philippines: Las Pinas, Caloocan.",1,1.0,1.0,1.0,answer_line
+train,789,"Exactly 1 of the following cities are in Kazakhstan: Zhangjiakou, Ulan Bator.",0,0.0,,0.0,answer_line
+train,790,"Exactly 0 of the following cities are in Nigeria: Warri, Johor Bahru.",0,0.0,,0.0,answer_line
+train,791,"Exactly 1 of the following cities are in Burkina Faso: Bobo-Dioulasso, Pikine.",1,1.0,1.0,1.0,answer_line
+train,792,"Exactly 0 of the following cities are in Cameroon: Yaounde, Douala.",0,0.0,,0.0,answer_line
+train,793,"Exactly 2 of the following cities are in Indonesia: Jambi City, Bandar Lampung.",1,1.0,1.0,1.0,answer_line
+train,794,"Exactly 2 of the following cities are in Australia: Gold Coast, Jalandhar.",0,0.0,,0.0,answer_line
+train,795,"Exactly 1 of the following cities are in Dominica: Qom, Evaton.",0,0.0,,0.0,answer_line
+train,796,"Exactly 0 of the following cities are in Uganda: Bishkek, Tokyo.",1,1.0,1.0,1.0,answer_line
+train,797,"Exactly 0 of the following cities are in Germany: Munich, Koeln.",0,0.0,,0.0,answer_line
+train,798,"Exactly 1 of the following cities are in Sudan: Khartoum North, Fushun.",1,1.0,1.0,1.0,answer_line
+train,799,"Exactly 2 of the following cities are in Samoa: Cheongju-si, Al Ahmadi.",0,0.0,0.0,0.0,answer_line
+train,800,"Exactly 2 of the following cities are in Canada: Mengzi, Gqeberha.",0,0.0,,0.0,answer_line
+train,801,"Exactly 2 of the following cities are in Estonia: Longyan, Barnaul.",0,0.0,0.0,0.0,answer_line
+train,802,"Exactly 1 of the following cities are in Germany: Koeln, Ipoh.",1,1.0,1.0,1.0,answer_line
+train,803,"Exactly 2 of the following cities are in India: Guwahati, Nagpur.",1,1.0,1.0,1.0,answer_line
+train,804,"Exactly 0 of the following cities are in Japan: Suginami, Jilin.",0,0.0,,0.0,answer_line
+train,805,"Exactly 2 of the following cities are in Eritrea: Asmara, Aqsu.",0,1.0,1.0,1.0,answer_line
+train,806,"Exactly 2 of the following cities are in Colombia: Soacha, Ibague.",1,1.0,,1.0,answer_line
+train,807,"Exactly 2 of the following cities are in Malaysia: Subang Jaya, Pasir Gudang.",1,1.0,1.0,1.0,answer_line
+train,808,"Exactly 0 of the following cities are in Poland: Kashgar, Krakow.",0,0.0,,0.0,answer_line
+train,809,"Exactly 0 of the following cities are in Colombia: Okara, Barranquilla.",0,0.0,,0.0,answer_line
+train,810,"Exactly 2 of the following cities are in Cambodia: Phnom Penh, Yangon.",0,0.0,0.0,0.0,answer_line
+train,811,"Exactly 2 of the following cities are in Japan: Himeji, Hiroshima.",1,1.0,1.0,1.0,answer_line
+train,812,"Exactly 1 of the following cities are in Rwanda: Bucheon-si, Arusha.",0,0.0,0.0,0.0,answer_line
+train,813,"Exactly 2 of the following cities are in Syria: Ar Raqqah, Bucharest.",0,0.0,0.0,0.0,answer_line
+train,814,"Exactly 1 of the following cities are in Sudan: Nyala, Ziyang.",1,1.0,1.0,1.0,answer_line
+train,815,"Exactly 1 of the following cities are in Switzerland: Bokaro, Aracaju.",0,0.0,0.0,0.0,answer_line
+train,816,"Exactly 1 of the following cities are in North Korea: Taicang, Hamhung.",1,1.0,1.0,1.0,answer_line
+train,817,"Exactly 0 of the following cities are in India: Jamnagar, Ankara.",0,0.0,0.0,0.0,answer_line
+train,818,"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Astana.",0,0.0,,0.0,answer_line
+train,819,"Exactly 0 of the following cities are in Saint Kitts and Nevis: Jamshedpur, Sorocaba.",1,1.0,,1.0,answer_line
+train,820,"Exactly 1 of the following cities are in Oman: Muscat, Kayseri.",1,1.0,1.0,1.0,answer_line
+train,821,"Exactly 2 of the following cities are in Bangladesh: Shaoguan, Rangpur.",0,0.0,,0.0,answer_line
+train,822,"Exactly 1 of the following cities are in Croatia: Zagreb, The Bronx.",1,1.0,1.0,1.0,answer_line
+train,823,"Exactly 1 of the following cities are in Kuwait: Al Ahmadi, Kitakyushu.",1,1.0,1.0,1.0,answer_line
+train,824,"Exactly 2 of the following cities are in Iran: Batam, Kemerovo.",0,0.0,,0.0,answer_line
+train,825,"Exactly 1 of the following cities are in Azerbaijan: Tangerang, Sultanah.",0,0.0,0.0,0.0,answer_line
+train,826,"Exactly 0 of the following cities are in Paraguay: Kitwe, Auckland.",1,1.0,1.0,1.0,answer_line
+train,827,"Exactly 0 of the following cities are in Angola: Lubango, Cuiaba.",0,0.0,,0.0,answer_line
+train,828,"Exactly 2 of the following cities are in Sao Tome and Principe: Dushanbe, Rio de Janeiro.",0,0.0,0.0,0.0,answer_line
+train,829,"Exactly 2 of the following cities are in the Philippines: Makati City, Pasig City.",1,0.0,,0.0,answer_line
+train,830,"Exactly 1 of the following cities are in Iran: Tabriz, Tehran.",0,0.0,,0.0,answer_line
+train,831,"Exactly 0 of the following cities are in Iraq: New South Memphis, Zanzibar.",1,1.0,1.0,1.0,answer_line
+train,832,"Exactly 0 of the following cities are in Mozambique: Nampula, Muscat.",0,0.0,,0.0,answer_line
+train,833,"Exactly 2 of the following cities are in Côte d'Ivoire: Niamey, Abobo.",0,0.0,0.0,0.0,answer_line
+train,834,"Exactly 0 of the following cities are in Germany: Hannover, Ajmer.",0,0.0,,0.0,answer_line
+train,835,"Exactly 2 of the following cities are in Venezuela: Kikwit, Maracaibo.",0,0.0,0.0,0.0,answer_line
+train,836,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Izmir, Sarajevo.",0,0.0,0.0,0.0,answer_line
+train,837,"Exactly 0 of the following cities are in the Czech Republic: Copenhagen, Xuchang.",1,1.0,1.0,1.0,answer_line
+train,838,"Exactly 2 of the following cities are in Colombia: Soacha, Bucaramanga.",1,1.0,1.0,1.0,answer_line
+train,839,"Exactly 2 of the following cities are in Argentina: San Miguel de Tucuman, Salta.",1,1.0,1.0,1.0,answer_line
+train,840,"Exactly 2 of the following cities are in Cambodia: Longyan, Wuzhong.",0,0.0,0.0,0.0,answer_line
+train,841,"Exactly 1 of the following cities are in Canada: Winnipeg, Calgary.",0,0.0,,0.0,answer_line
+train,842,"Exactly 2 of the following cities are in Canada: Dharavi, Mississauga.",0,0.0,0.0,0.0,answer_line
+train,843,"Exactly 1 of the following cities are in Bangladesh: Rasapudipalem, Comilla.",1,1.0,1.0,1.0,answer_line
+train,844,"Exactly 0 of the following cities are in Algeria: Guwahati, Nampula.",1,1.0,1.0,1.0,answer_line
+train,845,"Exactly 0 of the following cities are in Mauritania: Ordos, Assiut.",1,1.0,,1.0,answer_line
+train,846,"Exactly 2 of the following cities are in China: Langfang, Shangrao.",1,1.0,1.0,1.0,answer_line
+train,847,"Exactly 0 of the following cities are in Syria: Maracaibo, Bannu.",1,1.0,1.0,1.0,answer_line
+train,848,"Exactly 1 of the following cities are in the Dominican Republic: Santo Domingo Oeste, Tianjin.",1,1.0,1.0,1.0,answer_line
+train,849,"Exactly 0 of the following cities are in Romania: Bucharest, Jiangmen.",0,0.0,,0.0,answer_line
+train,850,"Exactly 0 of the following cities are in Malaysia: Pelentong, Ipoh.",0,0.0,0.0,0.0,answer_line
+train,851,"Exactly 2 of the following cities are in Ethiopia: Mengzi, Libreville.",0,0.0,0.0,0.0,answer_line
+train,852,"Exactly 0 of the following cities are in Germany: Izmir, Kanpur.",1,1.0,1.0,1.0,answer_line
+train,853,"Exactly 1 of the following cities are in North Korea: Pyongyang, Warri.",1,1.0,1.0,1.0,answer_line
+train,854,"Exactly 0 of the following cities are in Albania: New Kingston, Callao.",1,1.0,1.0,1.0,answer_line
+train,855,"Exactly 0 of the following cities are in Poland: Lueliang, Aleppo.",1,1.0,1.0,1.0,answer_line
+train,856,"Exactly 2 of the following cities are in Russia: Krasnoyarsk, Tirunelveli.",0,0.0,,0.0,answer_line
+train,857,"Exactly 2 of the following cities are in Equatorial Guinea: Santiago de Queretaro, Xianyang.",0,0.0,,0.0,answer_line
+train,858,"Exactly 2 of the following cities are in Venezuela: Palembang, Longyan.",0,0.0,0.0,0.0,answer_line
+train,859,"Exactly 1 of the following cities are in Côte d'Ivoire: Qui Nhon, Ra's Bayrut.",0,0.0,0.0,0.0,answer_line
+train,860,"Exactly 1 of the following cities are in Hungary: Benguela, Budapest.",1,1.0,1.0,1.0,answer_line
+train,861,"Exactly 2 of the following cities are in Sudan: Khartoum, Ananindeua.",0,0.0,,0.0,answer_line
+train,862,"Exactly 1 of the following cities are in Palau: Pelentong, Kalyan.",0,1.0,1.0,1.0,answer_line
+train,863,"Exactly 0 of the following cities are in Thailand: Weinan, Sanming.",1,1.0,1.0,1.0,answer_line
+train,864,"Exactly 0 of the following cities are in Uruguay: Kinshasa, Caracas.",1,1.0,1.0,1.0,answer_line
+train,865,"Exactly 2 of the following cities are in India: Nellore, Nowrangapur.",1,1.0,1.0,1.0,answer_line
+train,866,"Exactly 0 of the following cities are in Lesotho: Pune, Jajmau.",1,1.0,1.0,1.0,answer_line
+train,867,"Exactly 2 of the following cities are in Iran: Qom, Tabriz.",1,1.0,1.0,1.0,answer_line
+train,868,"Exactly 1 of the following cities are in Uzbekistan: Nuremberg, Rui'an.",0,0.0,,0.0,answer_line
+train,869,"Exactly 1 of the following cities are in Australia: Visakhapatnam, Gold Coast.",1,1.0,1.0,1.0,answer_line
+train,870,"Exactly 2 of the following cities are in Tuvalu: Erode, Rajshahi.",0,0.0,0.0,0.0,answer_line
+train,871,"Exactly 0 of the following cities are in Kuwait: Nansana, Al Ahmadi.",0,1.0,1.0,1.0,answer_line
+train,872,"Exactly 2 of the following cities are in Sri Lanka: Xuzhou, Putian.",0,0.0,,0.0,answer_line
+train,873,"Exactly 1 of the following cities are in Yemen: Serang, Changwon.",0,0.0,0.0,0.0,answer_line
+train,874,"Exactly 1 of the following cities are in Argentina: Recife, Nagpur.",0,0.0,0.0,0.0,answer_line
+train,875,"Exactly 1 of the following cities are in Chad: Shantou, N'Djamena.",1,1.0,1.0,1.0,answer_line
+train,876,"Exactly 0 of the following cities are in the Maldives: Mexico City, Hlaingthaya.",1,1.0,,1.0,answer_line
+train,877,"Exactly 1 of the following cities are in Myanmar: Bien Hoa, Phnom Penh.",0,0.0,,0.0,answer_line
+train,878,"Exactly 1 of the following cities are in Malaysia: Seattle, Budta.",0,1.0,1.0,1.0,answer_line
+train,879,"Exactly 2 of the following cities are in the Philippines: Taguig, Muntinlupa.",1,1.0,1.0,1.0,answer_line
+train,880,"Exactly 2 of the following cities are in Thailand: Bangkok, Calgary.",0,0.0,0.0,0.0,answer_line
+train,881,"Exactly 2 of the following cities are in Mexico: Tiruchirappalli, Ilorin.",0,0.0,,0.0,answer_line
+train,882,"Exactly 2 of the following cities are in Vanuatu: Guang'an, Vladivostok.",0,0.0,0.0,0.0,answer_line
+train,883,"Exactly 1 of the following cities are in Nepal: Kathmandu, Jiangmen.",1,1.0,1.0,1.0,answer_line
+train,884,"Exactly 2 of the following cities are in Tanzania: Mbeya, Dodoma.",1,,,,none
+train,885,"Exactly 0 of the following cities are in Sao Tome and Principe: Kitwe, Sanming.",1,1.0,1.0,1.0,answer_line
+train,886,"Exactly 0 of the following cities are in Honduras: Zhu Cheng City, Makhachkala.",1,1.0,1.0,1.0,answer_line
+train,887,"Exactly 1 of the following cities are in Syria: Aleppo, Indianapolis.",1,1.0,1.0,1.0,answer_line
+train,888,"Exactly 2 of the following cities are in China: Binzhou, Jiangyin.",1,0.0,,0.0,answer_line
+train,889,"Exactly 0 of the following cities are in Uzbekistan: Seattle, Andijon.",0,1.0,1.0,1.0,answer_line
+train,890,"Exactly 1 of the following cities are in the United Arab Emirates: Almaty, Hongkou.",0,0.0,,0.0,answer_line
+train,891,"Exactly 0 of the following cities are in Guyana: Jiangmen, Ahmedabad.",1,1.0,,1.0,answer_line
+train,892,"Exactly 2 of the following cities are in Armenia: Durban, Luohe.",0,0.0,0.0,0.0,answer_line
+train,893,"Exactly 1 of the following cities are in the Philippines: Caloocan, Cagayan de Oro.",0,0.0,,0.0,answer_line
+train,894,"Exactly 0 of the following cities are in Tuvalu: Ibb, Dehradun.",1,1.0,1.0,1.0,answer_line
+train,895,"Exactly 1 of the following cities are in Togo: Lome, Ulanqab.",1,1.0,1.0,1.0,answer_line
+train,896,"Exactly 0 of the following cities are in India: Calgary, Dehradun.",0,0.0,,0.0,answer_line
+train,897,"Exactly 2 of the following cities are in Vietnam: Adana, Kashgar.",0,0.0,0.0,0.0,answer_line
+train,898,"Exactly 0 of the following cities are in Nicaragua: Kermanshah, Virar.",1,1.0,,1.0,answer_line
+train,899,"Exactly 0 of the following cities are in China: Las Pinas, Xingtai.",0,0.0,,0.0,answer_line
+train,900,"Exactly 1 of the following cities are in Macedonia: Phnom Penh, Karbala.",0,0.0,,0.0,answer_line
+train,901,"Exactly 1 of the following cities are in Uganda: Shihezi, Nansana.",1,1.0,,1.0,answer_line
+train,902,"Exactly 2 of the following cities are in the United States: The Bronx, Fort Worth.",1,1.0,1.0,1.0,answer_line
+train,903,"Exactly 2 of the following cities are in Azerbaijan: Kirkuk, Puning.",0,0.0,,0.0,answer_line
+train,904,"Exactly 2 of the following cities are in Kazakhstan: Astana, Shymkent.",1,1.0,,1.0,answer_line
+train,905,"Exactly 2 of the following cities are in Comoros: Novokuznetsk, Ciudad Guayana.",0,0.0,,0.0,answer_line
+train,906,"Exactly 1 of the following cities are in Nepal: Chelyabinsk, Kathmandu.",1,1.0,1.0,1.0,answer_line
+train,907,"Exactly 2 of the following cities are in Ukraine: Bareilly, Ufa.",0,0.0,,0.0,answer_line
+train,908,"Exactly 1 of the following cities are in Mexico: Aktobe, Zapopan.",1,1.0,1.0,1.0,answer_line
+train,909,"Exactly 1 of the following cities are in Tuvalu: Bukavu, Hengyang.",0,0.0,,0.0,answer_line
+train,910,"Exactly 2 of the following cities are in Nigeria: Sokoto, Kaduna.",1,1.0,1.0,1.0,answer_line
+train,911,"Exactly 1 of the following cities are in Lebanon: Luancheng, Ra's Bayrut.",1,1.0,1.0,1.0,answer_line
+train,912,"Exactly 1 of the following cities are in Bahrain: Nellore, Aparecida de Goiania.",0,0.0,0.0,0.0,answer_line
+train,913,"Exactly 1 of the following cities are in Burkina Faso: Borama, Navi Mumbai.",0,0.0,0.0,0.0,answer_line
+train,914,"Exactly 2 of the following cities are in Saudi Arabia: Ha'il, Ta'if.",1,1.0,1.0,1.0,answer_line
+train,915,"Exactly 1 of the following cities are in Burkina Faso: Bobo-Dioulasso, Xiaogan.",1,1.0,1.0,1.0,answer_line
+train,916,"Exactly 1 of the following cities are in Iran: Tehran, Winnipeg.",1,1.0,1.0,1.0,answer_line
+train,917,"Exactly 2 of the following cities are in Mexico: Zapopan, Tlaquepaque.",1,1.0,1.0,1.0,answer_line
+train,918,"Exactly 1 of the following cities are in Norway: Suining, Oslo.",1,1.0,1.0,1.0,answer_line
+train,919,"Exactly 1 of the following cities are in North Korea: Voronezh, Changde.",0,0.0,0.0,0.0,answer_line
+train,920,"Exactly 2 of the following cities are in South Korea: Shizuishan, Dortmund.",0,0.0,0.0,0.0,answer_line
+train,921,"Exactly 2 of the following cities are in Luxembourg: Sulaymaniyah, Sorocaba.",0,0.0,,0.0,answer_line
+train,922,"Exactly 2 of the following cities are in Egypt: Port Said, Giza.",1,1.0,1.0,1.0,answer_line
+train,923,"Exactly 1 of the following cities are in the Dominican Republic: Santo Domingo Oeste, Yangquan.",1,1.0,1.0,1.0,answer_line
+train,924,"Exactly 0 of the following cities are in Vietnam: Da Nang, Camama.",0,0.0,,0.0,answer_line
+train,925,"Exactly 0 of the following cities are in China: Cimahi, Hamhung.",1,1.0,1.0,1.0,answer_line
+train,926,"Exactly 2 of the following cities are in Indonesia: Batam, Semarang.",1,1.0,1.0,1.0,answer_line
+train,927,"Exactly 1 of the following cities are in Niger: Niamey, Samarinda.",1,1.0,1.0,1.0,answer_line
+train,928,"Exactly 2 of the following cities are in Japan: Kagoshima, Fort Worth.",0,0.0,0.0,0.0,answer_line
+train,929,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Lubumbashi, Jiaozuo.",1,1.0,1.0,1.0,answer_line
+train,930,"Exactly 2 of the following cities are in Mexico: Santiago de Queretaro, Zapopan.",1,1.0,1.0,1.0,answer_line
+train,931,"Exactly 1 of the following cities are in Pakistan: Puxi, Vinh.",0,1.0,1.0,1.0,answer_line
+train,932,"Exactly 0 of the following cities are in Bangladesh: Mirpur Model Thana, Florianopolis.",0,0.0,0.0,0.0,answer_line
+train,933,"Exactly 0 of the following cities are in Kiribati: Hoji ya Henda, Uberlandia.",1,0.0,0.0,0.0,answer_line
+train,934,"Exactly 2 of the following cities are in Saudi Arabia: Hwaseong-si, Dombivali.",0,0.0,,0.0,answer_line
+train,935,"Exactly 0 of the following cities are in Eritrea: Huzhou, Asmara.",0,0.0,,0.0,answer_line
+train,936,"Exactly 1 of the following cities are in Slovenia: Loni, Volgograd.",0,0.0,,0.0,answer_line
+train,937,"Exactly 1 of the following cities are in Ethiopia: Addis Ababa, Shizuoka.",1,1.0,1.0,1.0,answer_line
+train,938,"Exactly 0 of the following cities are in Chad: N'Djamena, Lubumbashi.",0,0.0,0.0,0.0,answer_line
+train,939,"Exactly 1 of the following cities are in Chad: Camayenne, N'Djamena.",1,1.0,1.0,1.0,answer_line
+train,940,"Exactly 2 of the following cities are in Myanmar: Hlaingthaya, Shizuoka.",0,0.0,0.0,0.0,answer_line
+train,941,"Exactly 1 of the following cities are in Ghana: Accra, Fort Worth.",1,1.0,1.0,1.0,answer_line
+train,942,"Exactly 1 of the following cities are in Mongolia: Harare, Ulan Bator.",1,1.0,1.0,1.0,answer_line
+train,943,"Exactly 2 of the following cities are in Nigeria: Katsina, Enugu.",1,1.0,1.0,1.0,answer_line
+train,944,"Exactly 0 of the following cities are in Ghana: Accra, Kumasi.",0,0.0,0.0,0.0,answer_line
+train,945,"Exactly 0 of the following cities are in Timor-Leste: Winnipeg, Andijon.",1,1.0,,1.0,answer_line
+train,946,"Exactly 0 of the following cities are in Bhutan: Astana, Addis Ababa.",1,1.0,1.0,1.0,answer_line
+train,947,"Exactly 1 of the following cities are in Burundi: Bujumbura, Mazar-e Sharif.",1,1.0,,1.0,answer_line
+train,948,"Exactly 0 of the following cities are in Bulgaria: Dandong, Porto Alegre.",1,1.0,1.0,1.0,answer_line
+train,949,"Exactly 2 of the following cities are in Venezuela: Barquisimeto, Ciudad Guayana.",1,1.0,,1.0,answer_line
+train,950,"Exactly 0 of the following cities are in Benin: Dandong, Jakarta.",1,1.0,1.0,1.0,answer_line
+train,951,"Exactly 2 of the following cities are in Myanmar: Novokuznetsk, Hlaingthaya.",0,,,,none
+train,952,"Exactly 2 of the following cities are in Egypt: Assiut, Port Said.",1,1.0,1.0,1.0,answer_line
+train,953,"Exactly 0 of the following cities are in Romania: Bucharest, Santo Domingo Este.",0,0.0,,0.0,answer_line
+train,954,"Exactly 1 of the following cities are in Indonesia: Incheon, Barquisimeto.",0,0.0,0.0,0.0,answer_line
+train,955,"Exactly 1 of the following cities are in Romania: Bekasi, Bucharest.",1,1.0,1.0,1.0,answer_line
+train,956,"Exactly 0 of the following cities are in Egypt: Madinat an Nasr, Assiut.",0,0.0,,0.0,answer_line
+train,957,"Exactly 0 of the following cities are in Italy: Kryvyy Rih, Xiangtan.",1,1.0,1.0,1.0,answer_line
+train,958,"Exactly 1 of the following cities are in Burkina Faso: Ouagadougou, Cangzhou.",1,1.0,1.0,1.0,answer_line
+train,959,"Exactly 0 of the following cities are in Poland: Mombasa, Cangzhou.",1,1.0,,1.0,answer_line
+train,960,"Exactly 1 of the following cities are in Argentina: Qingdao, Khartoum.",0,0.0,,0.0,answer_line
+train,961,"Exactly 1 of the following cities are in South Korea: Daegu, Laiwu.",1,1.0,1.0,1.0,answer_line
+train,962,"Exactly 2 of the following cities are in China: Zhangjiakou, Kaifeng.",1,1.0,1.0,1.0,answer_line
+train,963,"Exactly 1 of the following cities are in the Netherlands: Qingpu, Okara.",0,0.0,,0.0,answer_line
+train,964,"Exactly 0 of the following cities are in Ecuador: Guayaquil, Kananga.",0,0.0,0.0,0.0,answer_line
+train,965,"Exactly 1 of the following cities are in Spain: Antananarivo, Santiago de los Caballeros.",0,0.0,,0.0,answer_line
+train,966,"Exactly 0 of the following cities are in Bosnia and Herzegovina: Zamboanga, Karol Bagh.",1,1.0,1.0,1.0,answer_line
+train,967,"Exactly 1 of the following cities are in Mozambique: Meizhou, Al Ahmadi.",0,0.0,,0.0,answer_line
+train,968,"Exactly 2 of the following cities are in the Philippines: Fuxin, Quezon City.",0,,,,none
+train,969,"Exactly 0 of the following cities are in Iceland: Suginami, Borama.",1,1.0,1.0,1.0,answer_line
+train,970,"Exactly 1 of the following cities are in Zambia: Hangzhou, Kitwe.",1,1.0,1.0,1.0,answer_line
+train,971,"Exactly 2 of the following cities are in New Zealand: Las Pinas, Ulyanovsk.",0,0.0,0.0,0.0,answer_line
+train,972,"Exactly 1 of the following cities are in Cape Verde: Pune, Nouakchott.",0,0.0,,0.0,answer_line
+train,973,"Exactly 0 of the following cities are in Argentina: Najran, Bukit Rahman Putra.",1,1.0,1.0,1.0,answer_line
+train,974,"Exactly 1 of the following cities are in Chad: N'Djamena, Naucalpan de Juarez.",1,1.0,1.0,1.0,answer_line
+train,975,"Exactly 2 of the following cities are in Mozambique: Matola, Guangyuan.",0,0.0,,0.0,answer_line
+train,976,"Exactly 1 of the following cities are in Iran: Zahedan, Tehran.",0,0.0,0.0,0.0,answer_line
+train,977,"Exactly 2 of the following cities are in Nigeria: Kaduna, Abeokuta.",1,1.0,1.0,1.0,answer_line
+train,978,"Exactly 1 of the following cities are in Jamaica: New Kingston, Haiphong.",1,1.0,1.0,1.0,answer_line
+train,979,"Exactly 1 of the following cities are in Kuwait: Latakia, Al Ahmadi.",1,0.0,,0.0,answer_line
+train,980,"Exactly 2 of the following cities are in Vietnam: Thu GJuc, Ho Chi Minh City.",1,0.0,,0.0,answer_line
+train,981,"Exactly 1 of the following cities are in Pakistan: Nanchong, Quetta.",1,1.0,1.0,1.0,answer_line
+train,982,"Exactly 2 of the following cities are in Palau: Malacca, Puning.",0,0.0,0.0,0.0,answer_line
+train,983,"Exactly 2 of the following cities are in Chad: N'Djamena, Qom.",0,0.0,,0.0,answer_line
+train,984,"Exactly 0 of the following cities are in Malawi: Lilongwe, Ahvaz.",0,0.0,,0.0,answer_line
+train,985,"Exactly 2 of the following cities are in Sudan: Khartoum North, Brasilia.",0,0.0,,0.0,answer_line
+train,986,"Exactly 0 of the following cities are in Honduras: San Pedro Sula, Tegucigalpa.",0,0.0,,0.0,answer_line
+train,987,"Exactly 0 of the following cities are in the United States: Meerut, Saint Petersburg.",1,1.0,1.0,1.0,answer_line
+train,988,"Exactly 0 of the following cities are in Ireland: Gold Coast, Dakar.",1,1.0,1.0,1.0,answer_line
+train,989,"Exactly 1 of the following cities are in China: Prayagraj, Vladivostok.",0,0.0,,0.0,answer_line
+train,990,"Exactly 1 of the following cities are in Ghana: Hezhou, Kumasi.",1,1.0,1.0,1.0,answer_line
+train,991,"Exactly 1 of the following cities are in Jamaica: New Kingston, Weinan.",1,1.0,1.0,1.0,answer_line
+train,992,"Exactly 1 of the following cities are in Kuwait: Sapporo, Al Ahmadi.",1,1.0,1.0,1.0,answer_line
+train,993,"Exactly 2 of the following cities are in South Africa: Cuiaba, Gqeberha.",0,0.0,,0.0,answer_line
+train,994,"Exactly 1 of the following cities are in Myanmar: Dortmund, Yangon.",1,1.0,1.0,1.0,answer_line
+train,995,"Exactly 1 of the following cities are in Haiti: Hubballi, Carrefour.",1,1.0,1.0,1.0,answer_line
+train,996,"Exactly 2 of the following cities are in Tanzania: Dodoma, Dar es Salaam.",1,1.0,,1.0,answer_line
+train,997,"Exactly 2 of the following cities are in Japan: Nagoya, Tokyo.",1,1.0,,1.0,answer_line
+train,998,"Exactly 1 of the following cities are in North Korea: Santo Domingo Oeste, Amritsar.",0,0.0,,0.0,answer_line
+train,999,"Exactly 2 of the following cities are in Syria: Homs, Aleppo.",1,1.0,1.0,1.0,answer_line
+train,1000,"Exactly 0 of the following cities are in Tonga: Teni, Islamabad.",1,1.0,,1.0,answer_line
+train,1001,"Exactly 0 of the following cities are in Oman: Kota Kuala Muda, Perm.",1,1.0,1.0,1.0,answer_line
+train,1002,"Exactly 2 of the following cities are in the Central African Republic: Navi Mumbai, Wuzhong.",0,0.0,,0.0,answer_line
+train,1003,"Exactly 0 of the following cities are in Kenya: Nairobi, Nakuru.",0,0.0,,0.0,answer_line
+train,1004,"Exactly 1 of the following cities are in Panama: Jamshedpur, Najran.",0,0.0,,0.0,answer_line
+train,1005,"Exactly 0 of the following cities are in Finland: Shangyu, Helsinki.",0,0.0,,0.0,answer_line
+train,1006,"Exactly 0 of the following cities are in Slovakia: Bandar Lampung, Omsk.",1,1.0,1.0,1.0,answer_line
+train,1007,"Exactly 1 of the following cities are in Gabon: Libreville, Bilimora.",1,1.0,1.0,1.0,answer_line
+test,0,"Exactly 2 of the following cities are in the United States: Guilin, Detroit.",0,0.0,,0.0,answer_line
+test,1,"Exactly 2 of the following cities are in Azerbaijan: Budta, Erzurum.",0,0.0,0.0,0.0,answer_line
+test,2,"Exactly 2 of the following cities are in Pakistan: Chunian, Arifwala.",1,1.0,1.0,1.0,answer_line
+test,3,"Exactly 0 of the following cities are in Niger: Niamey, Calgary.",0,0.0,,0.0,answer_line
+test,4,"Exactly 1 of the following cities are in Romania: Bucharest, Nowrangapur.",1,1.0,1.0,1.0,answer_line
+test,5,"Exactly 1 of the following cities are in Lesotho: Quito, Pyongyang.",0,0.0,0.0,0.0,answer_line
+test,6,"Exactly 0 of the following cities are in Gabon: Ulanqab, Cankaya.",1,1.0,,1.0,answer_line
+test,7,"Exactly 0 of the following cities are in Gabon: Cebu City, Mianzhu, Deyang, Sichuan.",1,1.0,1.0,1.0,answer_line
+test,8,"Exactly 1 of the following cities are in New Zealand: Auckland, Kaduna.",1,1.0,1.0,1.0,answer_line
+test,9,"Exactly 1 of the following cities are in Iraq: Guarulhos, Nasiriyah.",1,1.0,1.0,1.0,answer_line
+test,10,"Exactly 0 of the following cities are in Sudan: Khartoum, Khartoum North.",0,0.0,,0.0,answer_line
+test,11,"Exactly 1 of the following cities are in Zimbabwe: Santo Domingo Este, Tomsk.",0,0.0,,0.0,answer_line
+test,12,"Exactly 0 of the following cities are in Fiji: Ciudad Guayana, Kisangani.",1,1.0,1.0,1.0,answer_line
+test,13,"Exactly 1 of the following cities are in Mexico: Naucalpan de Juarez, Gustavo Adolfo Madero.",0,0.0,,0.0,answer_line
+test,14,"Exactly 1 of the following cities are in Finland: Tianjin, Helsinki.",1,1.0,1.0,1.0,answer_line
+test,15,"Exactly 1 of the following cities are in Cameroon: Bhiwandi, Douala.",1,1.0,,1.0,answer_line
+test,16,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kikwit, Lubumbashi.",0,0.0,,0.0,answer_line
+test,17,"Exactly 2 of the following cities are in Iraq: Nasiriyah, Abu Ghurayb.",1,1.0,1.0,1.0,answer_line
+test,18,"Exactly 1 of the following cities are in Uzbekistan: Andijon, Samarkand.",0,1.0,1.0,1.0,answer_line
+test,19,"Exactly 0 of the following cities are in Djibouti: Balbala, Guiyang.",0,1.0,1.0,1.0,answer_line
+test,20,"Exactly 0 of the following cities are in Jordan: Zarqa, Port-au-Prince.",0,0.0,,0.0,answer_line
+test,21,"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Kikwit, Ulhasnagar.",0,0.0,,0.0,answer_line
+test,22,"Exactly 0 of the following cities are in Jamaica: New Kingston, Hanzhong.",0,0.0,,0.0,answer_line
+test,23,"Exactly 0 of the following cities are in Jamaica: Nakuru, New Kingston.",0,0.0,,0.0,answer_line
+test,24,"Exactly 2 of the following cities are in Macedonia: Mukalla, Ganzhou.",0,0.0,0.0,0.0,answer_line
+test,25,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Kinshasa.",1,1.0,1.0,1.0,answer_line
+test,26,"Exactly 2 of the following cities are in Russia: Novokuznetsk, Ryazan'.",1,1.0,1.0,1.0,answer_line
+test,27,"Exactly 1 of the following cities are in Eritrea: Tegucigalpa, Lusaka.",0,0.0,0.0,0.0,answer_line
+test,28,"Exactly 2 of the following cities are in Albania: Semarang, Utsunomiya.",0,0.0,0.0,0.0,answer_line
+test,29,"Exactly 2 of the following cities are in Kazakhstan: Astana, Almaty.",1,1.0,,1.0,answer_line
+test,30,"Exactly 2 of the following cities are in Sudan: Owerri, Pimpri-Chinchwad.",0,0.0,0.0,0.0,answer_line
+test,31,"Exactly 2 of the following cities are in India: Baotou, Pekanbaru.",0,0.0,,0.0,answer_line
+test,32,"Exactly 0 of the following cities are in Morocco: Pontianak, Astrakhan.",1,1.0,1.0,1.0,answer_line
+test,33,"Exactly 1 of the following cities are in Sweden: Maiduguri, Auckland.",0,0.0,0.0,0.0,answer_line
+test,34,"Exactly 0 of the following cities are in Kenya: Manaus, Surat.",1,1.0,1.0,1.0,answer_line
+test,35,"Exactly 1 of the following cities are in Yemen: Lodz, Mukalla.",1,1.0,1.0,1.0,answer_line
+test,36,"Exactly 0 of the following cities are in Montenegro: Wanzhou, Siliguri.",1,1.0,,1.0,answer_line
+test,37,"Exactly 2 of the following cities are in Zambia: Kitwe, Lusaka.",1,1.0,1.0,1.0,answer_line
+test,38,"Exactly 0 of the following cities are in the Democratic Republic of the Congo: Shangluo, Tlaquepaque.",1,1.0,,1.0,answer_line
+test,39,"Exactly 1 of the following cities are in Bosnia and Herzegovina: Anqing, Sarajevo.",1,1.0,1.0,1.0,answer_line
+test,40,"Exactly 2 of the following cities are in Nicaragua: Managua, Nha Trang.",0,0.0,0.0,0.0,answer_line
+test,41,"Exactly 0 of the following cities are in the Philippines: Chisinau, Caloocan.",0,0.0,,0.0,answer_line
+test,42,"Exactly 1 of the following cities are in Myanmar: Hlaingthaya, Nay Pyi Taw.",0,0.0,,0.0,answer_line
+test,43,"Exactly 1 of the following cities are in Vietnam: Binh Thanh, Can Tho.",0,0.0,,0.0,answer_line
+test,44,"Exactly 2 of the following cities are in Syria: Latakia, Homs.",1,1.0,,1.0,answer_line
+test,45,"Exactly 1 of the following cities are in Chile: Puente Alto, Ndola.",1,1.0,1.0,1.0,answer_line
+test,46,"Exactly 2 of the following cities are in Honduras: Ibague, Tegucigalpa.",0,0.0,,0.0,answer_line
+test,47,"Exactly 2 of the following cities are in Venezuela: Almaty, Ciudad Guayana.",0,0.0,,0.0,answer_line
+test,48,"Exactly 1 of the following cities are in Guatemala: Guatemala City, Soweto.",1,1.0,1.0,1.0,answer_line
+test,49,"Exactly 0 of the following cities are in Uganda: Kampala, Nansana.",0,0.0,0.0,0.0,answer_line
+test,50,"Exactly 0 of the following cities are in Bangladesh: Kuecuekcekmece, Karbala.",1,1.0,1.0,1.0,answer_line
+test,51,"Exactly 2 of the following cities are in Mexico: Victoria de Durango, Tijuana.",1,1.0,1.0,1.0,answer_line
+test,52,"Exactly 2 of the following cities are in Iran: Onitsha, Balbala.",0,0.0,,0.0,answer_line
+test,53,"Exactly 0 of the following cities are in Paraguay: Faridabad, Juiz de Fora.",1,1.0,1.0,1.0,answer_line
+test,54,"Exactly 2 of the following cities are in Egypt: Al Mahallah al Kubra, Shubra al Khaymah.",1,1.0,1.0,1.0,answer_line
+test,55,"Exactly 2 of the following cities are in Jordan: Zarqa, Ganzhou.",0,0.0,0.0,0.0,answer_line
+test,56,"Exactly 0 of the following cities are in Cambodia: Phnom Penh, Matola.",0,0.0,,0.0,answer_line
+test,57,"Exactly 2 of the following cities are in Chile: Kitwe, Kayseri.",0,0.0,,0.0,answer_line
+test,58,"Exactly 0 of the following cities are in Mauritania: Vinh, Qionghai.",1,1.0,1.0,1.0,answer_line
+test,59,"Exactly 2 of the following cities are in Gabon: Nha Trang, Al Hudaydah.",0,0.0,,0.0,answer_line
+test,60,"Exactly 1 of the following cities are in Nepal: Pallabi, Pokhara.",1,1.0,1.0,1.0,answer_line
+test,61,"Exactly 1 of the following cities are in Iraq: Mosul, Sulaymaniyah.",0,0.0,,0.0,answer_line
+test,62,"Exactly 2 of the following cities are in Pakistan: Islamabad, Okara.",1,0.0,,0.0,answer_line
+test,63,"Exactly 0 of the following cities are in Indonesia: Batam, Surakarta.",0,0.0,,0.0,answer_line
+test,64,"Exactly 2 of the following cities are in Kazakhstan: Almaty, Aktobe.",1,1.0,,1.0,answer_line
+test,65,"Exactly 1 of the following cities are in Azerbaijan: Lilongwe, Baku.",1,1.0,1.0,1.0,answer_line
+test,66,"Exactly 2 of the following cities are in Guatemala: Hangzhou, Rajkot.",0,0.0,0.0,0.0,answer_line
+test,67,"Exactly 2 of the following cities are in Eritrea: Wanxian, Shah Alam.",0,0.0,,0.0,answer_line
+test,68,"Exactly 2 of the following cities are in China: Heze, Minhang.",1,1.0,1.0,1.0,answer_line
+test,69,"Exactly 1 of the following cities are in Morocco: Meknes, Marrakesh.",0,0.0,0.0,0.0,answer_line
+test,70,"Exactly 1 of the following cities are in Syria: Homs, Ar Raqqah.",0,0.0,,0.0,answer_line
+test,71,"Exactly 1 of the following cities are in Eritrea: Pudong, Asmara.",1,1.0,,1.0,answer_line
+test,72,"Exactly 2 of the following cities are in Slovenia: Bukavu, Huizhou.",0,0.0,0.0,0.0,answer_line
+test,73,"Exactly 2 of the following cities are in Japan: Kyoto, Suginami.",1,0.0,0.0,0.0,answer_line
+test,74,"Exactly 2 of the following cities are in Germany: Hannover, Dortmund.",1,1.0,1.0,1.0,answer_line
+test,75,"Exactly 2 of the following cities are in Tajikistan: Dushanbe, Pretoria.",0,,,,none
+test,76,"Exactly 1 of the following cities are in Burkina Faso: Borivli, Ouagadougou.",1,1.0,1.0,1.0,answer_line
+test,77,"Exactly 2 of the following cities are in Morocco: Warangal, Lviv.",0,0.0,,0.0,answer_line
+test,78,"Exactly 2 of the following cities are in Ukraine: Sanaa, Kharkiv.",0,0.0,,0.0,answer_line
+test,79,"Exactly 0 of the following cities are in India: Jammu, Amritsar.",0,0.0,,0.0,answer_line
+test,80,"Exactly 2 of the following cities are in Bulgaria: Changde, Sofia.",0,0.0,0.0,0.0,answer_line
+test,81,"Exactly 2 of the following cities are in Costa Rica: Nagpur, Osogbo.",0,0.0,0.0,0.0,answer_line
+test,82,"Exactly 0 of the following cities are in Antigua and Barbuda: Kallakurichi, Al Hudaydah.",1,1.0,,1.0,answer_line
+test,83,"Exactly 2 of the following cities are in Myanmar: Nay Pyi Taw, Mandalay.",1,1.0,1.0,1.0,answer_line
+test,84,"Exactly 1 of the following cities are in Japan: Shizuoka, Huludao.",1,1.0,1.0,1.0,answer_line
+test,85,"Exactly 1 of the following cities are in Mexico: Gustavo Adolfo Madero, Heroica Matamoros.",0,1.0,1.0,1.0,answer_line
+test,86,"Exactly 1 of the following cities are in Myanmar: Suizhou, Zhangjiagang.",0,0.0,0.0,0.0,answer_line
+test,87,"Exactly 1 of the following cities are in Eritrea: Bengaluru, Bouake.",0,0.0,0.0,0.0,answer_line
+test,88,"Exactly 0 of the following cities are in Djibouti: Gold Coast, Bucaramanga.",1,1.0,1.0,1.0,answer_line
+test,89,"Exactly 0 of the following cities are in Botswana: Khartoum North, Kuala Lumpur.",1,1.0,1.0,1.0,answer_line
+test,90,"Exactly 2 of the following cities are in Venezuela: Ciudad Guayana, Maturin.",1,1.0,1.0,1.0,answer_line
+test,91,"Exactly 1 of the following cities are in the United States: Ar Raqqah, New York City.",1,1.0,,1.0,answer_line
+test,92,"Exactly 2 of the following cities are in China: Qionghai, Wanxian.",1,0.0,,0.0,answer_line
+test,93,"Exactly 0 of the following cities are in Swaziland: Vilnius, Yangjiang.",1,1.0,1.0,1.0,answer_line
+test,94,"Exactly 0 of the following cities are in Syria: Jakarta, Aleppo.",0,0.0,,0.0,answer_line
+test,95,"Exactly 2 of the following cities are in Kiribati: Cancun, Nanning.",0,0.0,0.0,0.0,answer_line
+test,96,"Exactly 1 of the following cities are in Tajikistan: Qinhuangdao, Dushanbe.",1,0.0,0.0,0.0,answer_line
+test,97,"Exactly 2 of the following cities are in Monaco: Khartoum North, Bursa.",0,0.0,,0.0,answer_line
+test,98,"Exactly 2 of the following cities are in the Philippines: Pasig City, Budta.",1,0.0,,0.0,answer_line
+test,99,"Exactly 2 of the following cities are in Bulgaria: N'Djamena, Karol Bagh.",0,0.0,,0.0,answer_line
+test,100,"Exactly 0 of the following cities are in Somalia: Nasiriyah, Borama.",0,0.0,,0.0,answer_line
+test,101,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Sevastopol, Kunming.",0,0.0,,0.0,answer_line
+test,102,"Exactly 2 of the following cities are in India: Loni, Navi Mumbai.",1,1.0,1.0,1.0,answer_line
+test,103,"Exactly 0 of the following cities are in El Salvador: Khartoum North, Shenyang.",1,1.0,1.0,1.0,answer_line
+test,104,"Exactly 1 of the following cities are in Turkey: Ulyanovsk, Nakuru.",0,0.0,,0.0,answer_line
+test,105,"Exactly 1 of the following cities are in Yemen: Aden, Indianapolis.",1,1.0,1.0,1.0,answer_line
+test,106,"Exactly 2 of the following cities are in Guinea-Bissau: Rajkot, Coyoacan.",0,0.0,,0.0,answer_line
+test,107,"Exactly 1 of the following cities are in Poland: Lodz, Krakow.",0,0.0,,0.0,answer_line
+test,108,"Exactly 1 of the following cities are in Rwanda: Latakia, Kigali.",1,1.0,1.0,1.0,answer_line
+test,109,"Exactly 2 of the following cities are in Poland: Kuecuekcekmece, Maputo.",0,0.0,,0.0,answer_line
+test,110,"Exactly 1 of the following cities are in Morocco: Fes, Agadir.",0,0.0,0.0,0.0,answer_line
+test,111,"Exactly 0 of the following cities are in Kazakhstan: Maturin, Duesseldorf.",1,1.0,1.0,1.0,answer_line
+test,112,"Exactly 1 of the following cities are in Niger: Niamey, Karbala.",1,1.0,1.0,1.0,answer_line
+test,113,"Exactly 1 of the following cities are in Norway: Piura, Oslo.",1,1.0,1.0,1.0,answer_line
+test,114,"Exactly 0 of the following cities are in Ukraine: Kyiv, Sevastopol.",0,0.0,,0.0,answer_line
+test,115,"Exactly 0 of the following cities are in Egypt: Assiut, Al Mahallah al Kubra.",0,0.0,,0.0,answer_line
+test,116,"Exactly 2 of the following cities are in Benin: Wuzhou, Johor Bahru.",0,0.0,0.0,0.0,answer_line
+test,117,"Exactly 2 of the following cities are in Zimbabwe: Santo Domingo Oeste, Cankaya.",0,0.0,,0.0,answer_line
+test,118,"Exactly 2 of the following cities are in Jamaica: Sadr City, New Kingston.",0,0.0,,0.0,answer_line
+test,119,"Exactly 1 of the following cities are in New Zealand: Quezon City, Auckland.",1,1.0,1.0,1.0,answer_line
+test,120,"Exactly 2 of the following cities are in Turkmenistan: Mexicali, Benoni.",0,0.0,0.0,0.0,answer_line
+test,121,"Exactly 1 of the following cities are in Comoros: Rui'an, Luancheng.",0,0.0,0.0,0.0,answer_line
+test,122,"Exactly 2 of the following cities are in Bangladesh: Rangpur, Mirpur Model Thana.",1,1.0,1.0,1.0,answer_line
+test,123,"Exactly 1 of the following cities are in Estonia: Pyongyang, Phnom Penh.",0,0.0,0.0,0.0,answer_line
+test,124,"Exactly 1 of the following cities are in Singapore: Tonghua, Port-au-Prince.",0,0.0,,0.0,answer_line
+test,125,"Exactly 0 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Oeste.",0,0.0,0.0,0.0,answer_line
+test,126,"Exactly 2 of the following cities are in the Central African Republic: Bien Hoa, Katsina.",0,0.0,0.0,0.0,answer_line
+test,127,"Exactly 0 of the following cities are in France: Toulouse, Gwalior.",0,0.0,,0.0,answer_line
+test,128,"Exactly 2 of the following cities are in China: Laiwu, Qiqihar.",1,1.0,1.0,1.0,answer_line
+test,129,"Exactly 0 of the following cities are in Cameroon: Samarkand, Jiangyin.",1,1.0,1.0,1.0,answer_line
+test,130,"Exactly 1 of the following cities are in Tanzania: Mbeya, Yaounde.",1,1.0,1.0,1.0,answer_line
+test,131,"Exactly 2 of the following cities are in Pakistan: Vijayawada, Minhang.",0,0.0,,0.0,answer_line
+test,132,"Exactly 2 of the following cities are in Pakistan: Battagram, Jhang Sadr.",1,1.0,1.0,1.0,answer_line
+test,133,"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Chunian.",1,1.0,,1.0,answer_line
+test,134,"Exactly 1 of the following cities are in Brazil: Joao Pessoa, Manaus.",0,0.0,0.0,0.0,answer_line
+test,135,"Exactly 0 of the following cities are in Canada: Quebec, Calgary.",0,0.0,,0.0,answer_line
+test,136,"Exactly 0 of the following cities are in Cape Verde: Benguela, Kobe.",1,1.0,1.0,1.0,answer_line
+test,137,"Exactly 1 of the following cities are in the Philippines: Malingao, General Santos.",0,1.0,1.0,1.0,answer_line
+test,138,"Exactly 2 of the following cities are in Mauritius: Hezhou, Mosul.",0,0.0,0.0,0.0,answer_line
+test,139,"Exactly 2 of the following cities are in South Korea: Incheon, Daejeon.",1,1.0,,1.0,answer_line
+test,140,"Exactly 0 of the following cities are in Rwanda: Qinzhou, Kigali.",0,0.0,,0.0,answer_line
+test,141,"Exactly 1 of the following cities are in Malta: Al Basrah al Qadimah, Xingtai.",0,0.0,,0.0,answer_line
+test,142,"Exactly 2 of the following cities are in Mali: Hamadan, Liupanshui.",0,0.0,0.0,0.0,answer_line
+test,143,"Exactly 1 of the following cities are in Sweden: Stockholm, Kozhikode.",1,1.0,1.0,1.0,answer_line
+test,144,"Exactly 2 of the following cities are in Russia: Vladivostok, Izhevsk.",1,0.0,,0.0,answer_line
+test,145,"Exactly 2 of the following cities are in Pakistan: Lahore, Peshawar.",1,1.0,1.0,1.0,answer_line
+test,146,"Exactly 2 of the following cities are in Poland: Krakow, Wroclaw.",1,1.0,1.0,1.0,answer_line
+test,147,"Exactly 2 of the following cities are in Brazil: Recife, Niteroi.",1,1.0,1.0,1.0,answer_line
+test,148,"Exactly 2 of the following cities are in Malaysia: Iskandar Puteri, Kota Bharu.",1,,,,none
+test,149,"Exactly 2 of the following cities are in France: Lyon, Banjarmasin.",0,0.0,,0.0,answer_line
+test,150,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Kharkiv, Nizhniy Novgorod.",0,,,,none
+test,151,"Exactly 1 of the following cities are in Thailand: Haiphong, Bangkok.",1,1.0,,1.0,answer_line
+test,152,"Exactly 2 of the following cities are in the United States: Tucson, Oklahoma City.",1,1.0,1.0,1.0,answer_line
+test,153,"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kinshasa, Bandar Lampung.",1,1.0,1.0,1.0,answer_line
+test,154,"Exactly 2 of the following cities are in South Korea: Incheon, Hwaseong-si.",1,1.0,1.0,1.0,answer_line
+test,155,"Exactly 2 of the following cities are in India: Pune, Loni.",1,0.0,,0.0,answer_line
+test,156,"Exactly 1 of the following cities are in Kenya: Mombasa, Cabinda.",1,1.0,1.0,1.0,answer_line
+test,157,"Exactly 1 of the following cities are in Singapore: Mohammadpur, Matsuyama.",0,0.0,,0.0,answer_line
+test,158,"Exactly 2 of the following cities are in Iceland: Ulhasnagar, Pasig City.",0,0.0,,0.0,answer_line
+test,159,"Exactly 1 of the following cities are in Kuwait: Yangon, Baoji.",0,0.0,,0.0,answer_line
+test,160,"Exactly 0 of the following cities are in Namibia: Mandalay, Bobo-Dioulasso.",1,1.0,1.0,1.0,answer_line
+test,161,"Exactly 2 of the following cities are in Palau: Almaty, Akure.",0,0.0,0.0,0.0,answer_line
+test,162,"Exactly 0 of the following cities are in the Philippines: Daegu, Qingdao.",1,1.0,1.0,1.0,answer_line
+test,163,"Exactly 0 of the following cities are in Estonia: Caloocan, Duesseldorf.",1,1.0,1.0,1.0,answer_line
+test,164,"Exactly 1 of the following cities are in Azerbaijan: Baku, Malingao.",1,1.0,1.0,1.0,answer_line
+test,165,"Exactly 2 of the following cities are in Canada: Quebec, Huangshi.",0,0.0,,0.0,answer_line
+test,166,"Exactly 2 of the following cities are in the United States: Seattle, New York City.",1,1.0,1.0,1.0,answer_line
+test,167,"Exactly 2 of the following cities are in Ukraine: Kharkiv, Odesa.",1,1.0,1.0,1.0,answer_line
+test,168,"Exactly 2 of the following cities are in Côte d'Ivoire: Abobo, Abidjan.",1,1.0,1.0,1.0,answer_line
+test,169,"Exactly 2 of the following cities are in Serbia: Chizhou, Novosibirsk.",0,0.0,0.0,0.0,answer_line
+test,170,"Exactly 1 of the following cities are in Saudi Arabia: Kolkata, Makkah.",1,1.0,1.0,1.0,answer_line
+test,171,"Exactly 0 of the following cities are in Spain: Ahvaz, UEruemqi.",1,1.0,1.0,1.0,answer_line
+test,172,"Exactly 1 of the following cities are in Egypt: Suizhou, Al Fayyum.",1,1.0,1.0,1.0,answer_line
+test,173,"Exactly 1 of the following cities are in the Central African Republic: Jos, Pasir Gudang.",0,0.0,,0.0,answer_line
+test,174,"Exactly 0 of the following cities are in the Philippines: Las Pinas, Paranaque City.",0,0.0,,0.0,answer_line
+test,175,"Exactly 2 of the following cities are in the United States: Milwaukee, Fort Worth.",1,1.0,1.0,1.0,answer_line
+test,176,"Exactly 2 of the following cities are in Liberia: Dhanbad, Incheon.",0,0.0,,0.0,answer_line
+test,177,"Exactly 2 of the following cities are in Ireland: Chennai, Lyon.",0,0.0,,0.0,answer_line
+test,178,"Exactly 2 of the following cities are in Mexico: Hermosillo, Ciudad Nezahualcoyotl.",1,1.0,1.0,1.0,answer_line
+test,179,"Exactly 2 of the following cities are in Colombia: Ranchi, Cucuta.",0,0.0,,0.0,answer_line
+test,180,"Exactly 0 of the following cities are in Panama: Sofia, Mandalay.",1,1.0,,1.0,answer_line
+test,181,"Exactly 2 of the following cities are in Zimbabwe: Santo Domingo Este, Rizhao.",0,0.0,0.0,0.0,answer_line
+test,182,"Exactly 0 of the following cities are in Bulgaria: Sofia, Zhoushan.",0,0.0,,0.0,answer_line
+test,183,"Exactly 2 of the following cities are in Bosnia and Herzegovina: Nanning, Toulouse.",0,0.0,0.0,0.0,answer_line
+test,184,"Exactly 1 of the following cities are in Kyrgyzstan: Bishkek, Jos.",1,1.0,1.0,1.0,answer_line
+test,185,"Exactly 0 of the following cities are in Burkina Faso: Izmir, Jinan.",1,1.0,1.0,1.0,answer_line
+test,186,"Exactly 1 of the following cities are in Mozambique: Pingdingshan, Matola.",1,1.0,1.0,1.0,answer_line
+test,187,"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Rostov-on-Don.",1,1.0,1.0,1.0,answer_line
+test,188,"Exactly 1 of the following cities are in the Gambia: Bengbu, Al Mawsil al Jadidah.",0,1.0,1.0,1.0,answer_line
+test,189,"Exactly 1 of the following cities are in Mauritania: Nouakchott, Heze.",1,1.0,1.0,1.0,answer_line
+test,190,"Exactly 1 of the following cities are in Afghanistan: Mazar-e Sharif, Calgary.",1,1.0,1.0,1.0,answer_line
+test,191,"Exactly 1 of the following cities are in Mongolia: Sungai Petani, Daegu.",0,0.0,,0.0,answer_line
+test,192,"Exactly 1 of the following cities are in Mauritius: Copenhagen, Hiroshima.",0,0.0,,0.0,answer_line
+test,193,"Exactly 1 of the following cities are in Indonesia: Jambi City, Jakarta.",0,0.0,,0.0,answer_line
+test,194,"Exactly 1 of the following cities are in Ukraine: Kyiv, Zhaotong.",1,1.0,1.0,1.0,answer_line
+test,195,"Exactly 1 of the following cities are in Burundi: Bujumbura, Chengdu.",1,1.0,1.0,1.0,answer_line
+test,196,"Exactly 2 of the following cities are in Russia: Bannu, Cagayan de Oro.",0,0.0,,0.0,answer_line
+test,197,"Exactly 1 of the following cities are in Burundi: Gujranwala, Pelentong.",0,0.0,0.0,0.0,answer_line
+test,198,"Exactly 1 of the following cities are in Syria: Homs, Basrah.",1,1.0,1.0,1.0,answer_line
+test,199,"Exactly 2 of the following cities are in Turkey: Esenyurt, Kuecuekcekmece.",1,1.0,1.0,1.0,answer_line
+test,200,"Exactly 1 of the following cities are in Somalia: Dandong, Borama.",1,1.0,1.0,1.0,answer_line
+test,201,"Exactly 2 of the following cities are in El Salvador: Baise, Sulaymaniyah.",0,0.0,0.0,0.0,answer_line
+test,202,"Exactly 1 of the following cities are in China: Yichang, Zhoushan.",0,1.0,1.0,1.0,answer_line
+test,203,"Exactly 2 of the following cities are in the Dominican Republic: Santiago de los Caballeros, Santo Domingo Este.",1,1.0,1.0,1.0,answer_line
+test,204,"Exactly 2 of the following cities are in Cambodia: Lahore, Phnom Penh.",0,0.0,,0.0,answer_line
+test,205,"Exactly 2 of the following cities are in Hungary: Qingdao, Contagem.",0,0.0,0.0,0.0,answer_line
+test,206,"Exactly 0 of the following cities are in Mali: Bamako, Aguascalientes.",0,0.0,,0.0,answer_line
+test,207,"Exactly 2 of the following cities are in Peru: Piura, Chiclayo.",1,1.0,1.0,1.0,answer_line
+test,208,"Exactly 0 of the following cities are in Turkey: Eskisehir, Mysuru.",0,0.0,,0.0,answer_line
+test,209,"Exactly 2 of the following cities are in Jamaica: Kitakyushu, New Kingston.",0,0.0,0.0,0.0,answer_line
+test,210,"Exactly 2 of the following cities are in Cyprus: Orenburg, Rio de Janeiro.",0,0.0,0.0,0.0,answer_line
+test,211,"Exactly 1 of the following cities are in Sweden: Nowrangapur, Detroit.",0,0.0,0.0,0.0,answer_line
+test,212,"Exactly 0 of the following cities are in Niger: Nampula, Niamey.",0,0.0,,0.0,answer_line
+test,213,"Exactly 1 of the following cities are in Sudan: Khartoum North, Daejeon.",1,0.0,0.0,0.0,answer_line
+test,214,"Exactly 0 of the following cities are in Laos: Vientiane, Port Harcourt.",0,0.0,,0.0,answer_line
+test,215,"Exactly 2 of the following cities are in the Philippines: Las Pinas, Quezon City.",1,1.0,1.0,1.0,answer_line
+test,216,"Exactly 2 of the following cities are in Swaziland: Giza, Ibadan.",0,0.0,0.0,0.0,answer_line
+test,217,"Exactly 2 of the following cities are in Germany: Frankfurt am Main, Hannover.",1,1.0,,1.0,answer_line
+test,218,"Exactly 1 of the following cities are in the United Arab Emirates: Sharjah, Lome.",1,1.0,1.0,1.0,answer_line
+test,219,"Exactly 1 of the following cities are in Togo: Antalya, Pyongyang.",0,0.0,0.0,0.0,answer_line
+test,220,"Exactly 0 of the following cities are in Ethiopia: Katsina, Addis Ababa.",0,0.0,0.0,0.0,answer_line
+test,221,"Exactly 1 of the following cities are in Mozambique: Al Ahmadi, Tokyo.",0,0.0,0.0,0.0,answer_line
+test,222,"Exactly 1 of the following cities are in Fiji: Johor Bahru, Kathmandu.",0,0.0,0.0,0.0,answer_line
+test,223,"Exactly 0 of the following cities are in Tanzania: Hachioji, Arusha.",0,0.0,,0.0,answer_line
+test,224,"Exactly 0 of the following cities are in Guyana: Katsina, Dammam.",1,1.0,1.0,1.0,answer_line
+test,225,"Exactly 2 of the following cities are in Argentina: Salta, Mar del Plata.",1,1.0,1.0,1.0,answer_line
+test,226,"Exactly 1 of the following cities are in Ukraine: Kirkuk, Odesa.",1,1.0,,1.0,answer_line
+test,227,"Exactly 2 of the following cities are in Romania: Curitiba, Abu Dhabi.",0,0.0,,0.0,answer_line
+test,228,"Exactly 1 of the following cities are in Mozambique: Beira, Bengbu.",1,1.0,1.0,1.0,answer_line
+test,229,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Gazipur.",1,1.0,1.0,1.0,answer_line
+test,230,"Exactly 0 of the following cities are in Guinea: Voronezh, Luohu District.",1,1.0,1.0,1.0,answer_line
+test,231,"Exactly 1 of the following cities are in Germany: Tehran, Koeln.",1,1.0,1.0,1.0,answer_line
+test,232,"Exactly 1 of the following cities are in Saudi Arabia: Beijing, Dortmund.",0,0.0,0.0,0.0,answer_line
+test,233,"Exactly 0 of the following cities are in Tanzania: Odesa, Da Nang.",1,1.0,,1.0,answer_line
+test,234,"Exactly 0 of the following cities are in Uganda: Kampala, Rohini.",0,0.0,,0.0,answer_line
+test,235,"Exactly 2 of the following cities are in Denmark: Dortmund, Stockholm.",0,0.0,,0.0,answer_line
+test,236,"Exactly 1 of the following cities are in Jordan: Amman, Ghaziabad.",1,1.0,1.0,1.0,answer_line
+test,237,"Exactly 1 of the following cities are in New Zealand: Auckland, Denpasar.",1,1.0,1.0,1.0,answer_line
+test,238,"Exactly 2 of the following cities are in the Philippines: Malingao, Caloocan.",1,0.0,,0.0,answer_line
+test,239,"Exactly 2 of the following cities are in the Philippines: Paranaque City, General Santos.",1,1.0,1.0,1.0,answer_line
+test,240,"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Songjiang.",1,1.0,1.0,1.0,answer_line
+test,241,"Exactly 0 of the following cities are in Indonesia: Mexicali, Pallabi.",1,1.0,1.0,1.0,answer_line
+test,242,"Exactly 2 of the following cities are in Ukraine: Dnipro, Kyiv.",1,1.0,1.0,1.0,answer_line
+test,243,"Exactly 1 of the following cities are in Vietnam: Nha Trang, Can Tho.",0,0.0,0.0,0.0,answer_line
+test,244,"Exactly 0 of the following cities are in New Zealand: Zhangzhou, Coimbatore.",1,1.0,1.0,1.0,answer_line
+test,245,"Exactly 2 of the following cities are in Vietnam: Ho Chi Minh City, Cho Lon.",1,1.0,1.0,1.0,answer_line
+test,246,"Exactly 1 of the following cities are in Gabon: Libreville, Gwalior.",1,1.0,1.0,1.0,answer_line
+test,247,"Exactly 0 of the following cities are in Guinea-Bissau: Zahedan, Kota Bharu.",1,1.0,1.0,1.0,answer_line
+test,248,"Exactly 1 of the following cities are in Nepal: Itabashi, Kathmandu.",1,1.0,1.0,1.0,answer_line
+test,249,"Exactly 1 of the following cities are in Gabon: Libreville, N'Djamena.",1,1.0,1.0,1.0,answer_line
+test,250,"Exactly 2 of the following cities are in Brazil: Joao Pessoa, Cheongju-si.",0,0.0,,0.0,answer_line
+test,251,"Exactly 1 of the following cities are in Pakistan: Huainan, Guarulhos.",0,0.0,0.0,0.0,answer_line
+test,252,"Exactly 2 of the following cities are in Ukraine: Kryvyy Rih, Dnipro.",1,1.0,1.0,1.0,answer_line
+test,253,"Exactly 1 of the following cities are in China: Rawalpindi, Lodz.",0,0.0,0.0,0.0,answer_line
+test,254,"Exactly 0 of the following cities are in Iraq: Kalaburagi, Kuecuekcekmece.",1,1.0,,1.0,answer_line
+test,255,"Exactly 2 of the following cities are in Ukraine: Dnipro, Odesa.",1,1.0,,1.0,answer_line
+test,256,"Exactly 1 of the following cities are in Madagascar: Pune, Qionghai.",0,0.0,,0.0,answer_line
+test,257,"Exactly 1 of the following cities are in Thailand: Kayseri, Bangkok.",1,1.0,1.0,1.0,answer_line
+test,258,"Exactly 2 of the following cities are in Indonesia: Situbondo, Jakarta.",1,1.0,1.0,1.0,answer_line
+test,259,"Exactly 0 of the following cities are in Chad: Ebute Ikorodu, Kathmandu.",1,1.0,1.0,1.0,answer_line
+test,260,"Exactly 1 of the following cities are in Portugal: Karachi, Mirpur Model Thana.",0,0.0,0.0,0.0,answer_line
+test,261,"Exactly 1 of the following cities are in the United States: Calabar, Shangqiu.",0,0.0,0.0,0.0,answer_line
+test,262,"Exactly 2 of the following cities are in Sudan: Khartoum North, Nyala.",1,0.0,,0.0,answer_line
+test,263,"Exactly 0 of the following cities are in the United States: Kathmandu, Chicago.",0,0.0,,0.0,answer_line
+test,264,"Exactly 1 of the following cities are in Chad: Dortmund, Pest.",0,0.0,0.0,0.0,answer_line
+test,265,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Nowrangapur, Lubumbashi.",0,0.0,0.0,0.0,answer_line
+test,266,"Exactly 2 of the following cities are in Saudi Arabia: Shangluo, Buraydah.",0,0.0,0.0,0.0,answer_line
+test,267,"Exactly 0 of the following cities are in Ecuador: Zhabei, Guayaquil.",0,0.0,,0.0,answer_line
+test,268,"Exactly 2 of the following cities are in the United States: Detroit, Seattle.",1,1.0,1.0,1.0,answer_line
+test,269,"Exactly 2 of the following cities are in the United States: New South Memphis, Detroit.",1,1.0,1.0,1.0,answer_line
+test,270,"Exactly 2 of the following cities are in Saint Vincent and the Grenadines: Abeokuta, Al Mawsil al Jadidah.",0,0.0,,0.0,answer_line
+test,271,"Exactly 0 of the following cities are in Mauritania: Nouakchott, Daqing.",0,0.0,0.0,0.0,answer_line
+test,272,"Exactly 1 of the following cities are in Nigeria: Owerri, Xinyang.",1,1.0,1.0,1.0,answer_line
+test,273,"Exactly 2 of the following cities are in Venezuela: Jeonju, Xinyu.",0,0.0,,0.0,answer_line
+test,274,"Exactly 2 of the following cities are in Indonesia: Bekasi, Serang.",1,1.0,,1.0,answer_line
+test,275,"Exactly 0 of the following cities are in Samoa: Oslo, Jabalpur.",1,1.0,1.0,1.0,answer_line
+test,276,"Exactly 2 of the following cities are in Russia: Mohammadpur, Cuiaba.",0,0.0,0.0,0.0,answer_line
+test,277,"Exactly 0 of the following cities are in Saint Kitts and Nevis: Liupanshui, Esenler.",1,1.0,,1.0,answer_line
+test,278,"Exactly 2 of the following cities are in Nigeria: Maiduguri, Abeokuta.",1,0.0,,0.0,answer_line
+test,279,"Exactly 2 of the following cities are in Austria: Recife, Al Ahmadi.",0,0.0,0.0,0.0,answer_line
+test,280,"Exactly 0 of the following cities are in Jordan: Mombasa, Zarqa.",0,0.0,,0.0,answer_line
+test,281,"Exactly 1 of the following cities are in Palau: Seongnam-si, Abu Dhabi.",0,0.0,0.0,0.0,answer_line
+test,282,"Exactly 2 of the following cities are in South Africa: Soshanguve, Gqeberha.",1,1.0,1.0,1.0,answer_line
+test,283,"Exactly 0 of the following cities are in the United States: Fortaleza, New South Memphis.",0,0.0,,0.0,answer_line
+test,284,"Exactly 2 of the following cities are in Nigeria: Ebute Ikorodu, Port Harcourt.",1,0.0,0.0,0.0,answer_line
+test,285,"Exactly 2 of the following cities are in Jamaica: Asansol, New Kingston.",0,0.0,,0.0,answer_line
+test,286,"Exactly 2 of the following cities are in Mexico: Hermosillo, Heroica Matamoros.",1,1.0,1.0,1.0,answer_line
+test,287,"Exactly 2 of the following cities are in Bangladesh: Mohammadpur, Ashgabat.",0,0.0,0.0,0.0,answer_line
+test,288,"Exactly 2 of the following cities are in Venezuela: Zhongwei, Chelyabinsk.",0,0.0,,0.0,answer_line
+test,289,"Exactly 0 of the following cities are in Germany: Hannover, Taguig.",0,0.0,,0.0,answer_line
+test,290,"Exactly 0 of the following cities are in Ecuador: Bukavu, Guayaquil.",0,0.0,,0.0,answer_line
+test,291,"Exactly 1 of the following cities are in Togo: Camama, Johor Bahru.",0,0.0,0.0,0.0,answer_line
+test,292,"Exactly 0 of the following cities are in Pakistan: Chunian, Okara.",0,0.0,,0.0,answer_line
+test,293,"Exactly 1 of the following cities are in Uruguay: Pelentong, Mulenvos.",0,0.0,0.0,0.0,answer_line
+test,294,"Exactly 0 of the following cities are in Yemen: Al Hudaydah, Sanaa.",0,0.0,,0.0,answer_line
+test,295,"Exactly 0 of the following cities are in Liechtenstein: Puxi, Zahedan.",1,1.0,1.0,1.0,answer_line
+test,296,"Exactly 1 of the following cities are in Oman: Heze, Muscat.",1,1.0,1.0,1.0,answer_line
+test,297,"Exactly 2 of the following cities are in Colombia: Antalya, Yangquan.",0,0.0,0.0,0.0,answer_line
+test,298,"Exactly 1 of the following cities are in Madagascar: Kakamega, Chiclayo.",0,0.0,,0.0,answer_line
+test,299,"Exactly 1 of the following cities are in Peru: Fushun, Callao.",1,1.0,1.0,1.0,answer_line
+test,300,"Exactly 2 of the following cities are in Tonga: Ziyang, Abeokuta.",0,0.0,,0.0,answer_line
+test,301,"Exactly 0 of the following cities are in Finland: Helsinki, Rajkot.",0,0.0,,0.0,answer_line
+test,302,"Exactly 2 of the following cities are in Iran: Orumiyeh, Karaj.",1,1.0,,1.0,answer_line
+test,303,"Exactly 0 of the following cities are in Germany: Nuremberg, Auckland.",0,0.0,,0.0,answer_line
+test,304,"Exactly 2 of the following cities are in El Salvador: Jaipur, Bahawalpur.",0,0.0,0.0,0.0,answer_line
+test,305,"Exactly 1 of the following cities are in Honduras: Giza, San Pedro Sula.",1,1.0,1.0,1.0,answer_line
+test,306,"Exactly 2 of the following cities are in China: Zhangjiakou, Wanxian.",1,,,,none
+test,307,"Exactly 1 of the following cities are in Guinea: Conakry, Pontianak.",1,1.0,1.0,1.0,answer_line
+test,308,"Exactly 2 of the following cities are in Angola: Camama, Maianga.",1,0.0,0.0,0.0,answer_line
+test,309,"Exactly 2 of the following cities are in New Zealand: Chuxiong, Auckland.",0,0.0,0.0,0.0,answer_line
+test,310,"Exactly 1 of the following cities are in Pakistan: Winnipeg, Arifwala.",1,1.0,1.0,1.0,answer_line
+test,311,"Exactly 2 of the following cities are in Eritrea: Khulna, Caracas.",0,0.0,,0.0,answer_line
+test,312,"Exactly 2 of the following cities are in Indonesia: Jambi City, Cimahi.",1,1.0,1.0,1.0,answer_line
+test,313,"Exactly 2 of the following cities are in China: Zhaoqing, Al Basrah al Qadimah.",0,,,,none
+test,314,"Exactly 1 of the following cities are in Nepal: Zhengzhou, Kathmandu.",1,1.0,1.0,1.0,answer_line
+test,315,"Exactly 2 of the following cities are in Nigeria: Mulenvos, Jinzhong.",0,0.0,,0.0,answer_line
+test,316,"Exactly 0 of the following cities are in Poland: Wroclaw, Lodz.",0,0.0,,0.0,answer_line
+test,317,"Exactly 2 of the following cities are in the Central African Republic: Nanded, Zanzibar.",0,0.0,,0.0,answer_line
+test,318,"Exactly 0 of the following cities are in Togo: Algiers, Changde.",1,1.0,1.0,1.0,answer_line
+test,319,"Exactly 2 of the following cities are in Turkey: Malatya, Cankaya.",1,1.0,1.0,1.0,answer_line
+test,320,"Exactly 0 of the following cities are in Nicaragua: San Miguel de Tucuman, Ulanqab.",1,1.0,1.0,1.0,answer_line
+test,321,"Exactly 2 of the following cities are in Cuba: Niluefer, Santiago de Cuba.",0,0.0,,0.0,answer_line
+test,322,"Exactly 0 of the following cities are in Slovenia: Fortaleza, Changde.",1,1.0,1.0,1.0,answer_line
+test,323,"Exactly 1 of the following cities are in New Zealand: Liaocheng, Auckland.",1,1.0,1.0,1.0,answer_line
+test,324,"Exactly 0 of the following cities are in Senegal: Dakar, Pikine.",0,0.0,,0.0,answer_line
+test,325,"Exactly 1 of the following cities are in Austria: Thane, Shizuishan.",0,0.0,0.0,0.0,answer_line
+test,326,"Exactly 1 of the following cities are in Germany: Munich, Fukuoka.",1,1.0,1.0,1.0,answer_line
+test,327,"Exactly 1 of the following cities are in Nauru: Heze, Situbondo.",0,0.0,,0.0,answer_line
+test,328,"Exactly 0 of the following cities are in the United Arab Emirates: Al Fayyum, Al Ain City.",0,0.0,,0.0,answer_line
+test,329,"Exactly 2 of the following cities are in Bangladesh: Chattogram, Khulna.",1,1.0,1.0,1.0,answer_line
+test,330,"Exactly 1 of the following cities are in Sweden: Anqing, Stockholm.",1,1.0,1.0,1.0,answer_line
+test,331,"Exactly 1 of the following cities are in Pakistan: Muzaffarabad, Sargodha.",0,0.0,,0.0,answer_line
+test,332,"Exactly 1 of the following cities are in Angola: Bukit Rahman Putra, Kikolo.",1,1.0,1.0,1.0,answer_line
+test,333,"Exactly 2 of the following cities are in South Korea: Incheon, Ulsan.",1,1.0,1.0,1.0,answer_line
+test,334,"Exactly 1 of the following cities are in Uganda: Nansana, Guli.",1,1.0,1.0,1.0,answer_line
+test,335,"Exactly 1 of the following cities are in Ecuador: Bangkok, Quito.",1,1.0,1.0,1.0,answer_line
+test,336,"Exactly 1 of the following cities are in Togo: Kallakurichi, Lome.",1,1.0,1.0,1.0,answer_line
+test,337,"Exactly 2 of the following cities are in Iraq: Taguig, Al Basrah al Qadimah.",0,0.0,0.0,0.0,answer_line
+test,338,"Exactly 1 of the following cities are in the United States: Tucson, Indianapolis.",0,0.0,,0.0,answer_line
+test,339,"Exactly 1 of the following cities are in Saudi Arabia: Himeji, Shekhupura.",0,0.0,,0.0,answer_line
+test,340,"Exactly 2 of the following cities are in Colombia: Nowrangapur, Barranquilla.",0,0.0,,0.0,answer_line
+test,341,"Exactly 1 of the following cities are in Ireland: Dongying, Owerri.",0,0.0,0.0,0.0,answer_line
+test,342,"Exactly 2 of the following cities are in Malawi: Huainan, Lilongwe.",0,0.0,,0.0,answer_line
+test,343,"Exactly 1 of the following cities are in Benin: Douala, Caloocan.",0,0.0,0.0,0.0,answer_line
+test,344,"Exactly 1 of the following cities are in Djibouti: Bishkek, Albuquerque.",0,0.0,,0.0,answer_line
+test,345,"Exactly 1 of the following cities are in Poland: Jieyang, Wroclaw.",1,1.0,1.0,1.0,answer_line
+test,346,"Exactly 1 of the following cities are in Egypt: Saitama, Kisangani.",0,0.0,,0.0,answer_line
+test,347,"Exactly 1 of the following cities are in Tajikistan: Virar, Dushanbe.",1,,,,none
+test,348,"Exactly 0 of the following cities are in Egypt: Shubra al Khaymah, Madinat an Nasr.",0,0.0,,0.0,answer_line
+test,349,"Exactly 2 of the following cities are in Brazil: Ananindeua, Ribeirao Preto.",1,1.0,1.0,1.0,answer_line
+test,350,"Exactly 1 of the following cities are in Japan: Dongying, Taiz.",0,0.0,0.0,0.0,answer_line
+test,351,"Exactly 1 of the following cities are in Myanmar: Hlaingthaya, Matsuyama.",1,1.0,,1.0,answer_line
+test,352,"Exactly 0 of the following cities are in Mali: Quetta, Pallabi.",1,1.0,1.0,1.0,answer_line
+test,353,"Exactly 2 of the following cities are in China: Gazipur, Aguascalientes.",0,0.0,,0.0,answer_line
+test,354,"Exactly 0 of the following cities are in Bulgaria: Sofia, Faridabad.",0,0.0,0.0,0.0,answer_line
+test,355,"Exactly 2 of the following cities are in Russia: Tomsk, Ufa.",1,1.0,1.0,1.0,answer_line
+test,356,"Exactly 0 of the following cities are in Indonesia: Tangerang, Denpasar.",0,0.0,0.0,0.0,answer_line
+test,357,"Exactly 2 of the following cities are in South Korea: Nanchong, Incheon.",0,,,,none
+test,358,"Exactly 2 of the following cities are in Mexico: Torreon, Zapopan.",1,0.0,,0.0,answer_line
+test,359,"Exactly 1 of the following cities are in Chad: Dnipro, N'Djamena.",1,1.0,1.0,1.0,answer_line
+test,360,"Exactly 2 of the following cities are in Ghana: Al Ahmadi, Tanggu.",0,0.0,,0.0,answer_line
+test,361,"Exactly 1 of the following cities are in Tajikistan: Kampung Baru Subang, Indore.",0,0.0,,0.0,answer_line
+test,362,"Exactly 0 of the following cities are in Kuwait: Al Ahmadi, Cheonan.",0,1.0,1.0,1.0,answer_line
+test,363,"Exactly 2 of the following cities are in Namibia: Kunming, Zhaotong.",0,0.0,0.0,0.0,answer_line
+test,364,"Exactly 0 of the following cities are in Burkina Faso: Bobo-Dioulasso, Ouagadougou.",0,0.0,0.0,0.0,answer_line
+test,365,"Exactly 2 of the following cities are in Burundi: Sargodha, Zagreb.",0,0.0,,0.0,answer_line
+test,366,"Exactly 1 of the following cities are in Poland: Weifang, Krakow.",1,1.0,1.0,1.0,answer_line
+test,367,"Exactly 1 of the following cities are in Rwanda: Xining, Madurai.",0,0.0,,0.0,answer_line
+test,368,"Exactly 1 of the following cities are in Lebanon: Ra's Bayrut, Bahawalpur.",1,1.0,1.0,1.0,answer_line
+test,369,"Exactly 1 of the following cities are in Romania: Bucharest, Shenyang.",1,1.0,1.0,1.0,answer_line
+test,370,"Exactly 0 of the following cities are in Iran: Arak, Zhangye.",0,0.0,0.0,0.0,answer_line
+test,371,"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Jhang Sadr.",1,1.0,1.0,1.0,answer_line
+test,372,"Exactly 2 of the following cities are in South Korea: Ansan-si, Bucheon-si.",1,,,,none
+test,373,"Exactly 2 of the following cities are in Turkey: Diyarbakir, Istanbul.",1,1.0,1.0,1.0,answer_line
+test,374,"Exactly 0 of the following cities are in Switzerland: Zahedan, Baise.",1,1.0,1.0,1.0,answer_line
+test,375,"Exactly 0 of the following cities are in Azerbaijan: Acapulco de Juarez, Makassar.",1,1.0,1.0,1.0,answer_line
+test,376,"Exactly 2 of the following cities are in Ukraine: Kharkiv, Dnipro.",1,,,,none
+test,377,"Exactly 2 of the following cities are in Morocco: Agadir, Oujda.",1,1.0,1.0,1.0,answer_line
+test,378,"Exactly 0 of the following cities are in Niger: Sofia, Bandar Lampung.",1,1.0,1.0,1.0,answer_line
+test,379,"Exactly 0 of the following cities are in Burkina Faso: Arequipa, Ouagadougou.",0,0.0,,0.0,answer_line
+test,380,"Exactly 0 of the following cities are in Kenya: Abu Dhabi, Cimahi.",1,1.0,1.0,1.0,answer_line
+test,381,"Exactly 0 of the following cities are in Germany: Leipzig, Frankfurt am Main.",0,0.0,,0.0,answer_line
+test,382,"Exactly 2 of the following cities are in Croatia: Navi Mumbai, Nagpur.",0,0.0,,0.0,answer_line
+test,383,"Exactly 2 of the following cities are in Germany: Koeln, Nuremberg.",1,0.0,,0.0,answer_line
+test,384,"Exactly 2 of the following cities are in Malta: Hubballi, Karol Bagh.",0,0.0,0.0,0.0,answer_line
+test,385,"Exactly 1 of the following cities are in Russia: Fortaleza, Chelyabinsk.",1,1.0,1.0,1.0,answer_line
+test,386,"Exactly 1 of the following cities are in Angola: Dalian, Tashkent.",0,0.0,,0.0,answer_line
+test,387,"Exactly 0 of the following cities are in Malaysia: Iskandar Puteri, Karachi.",0,0.0,,0.0,answer_line
+test,388,"Exactly 0 of the following cities are in Uzbekistan: Tashkent, Samarkand.",0,0.0,,0.0,answer_line
+test,389,"Exactly 0 of the following cities are in Syria: Aleppo, Baoji.",0,0.0,,0.0,answer_line
+test,390,"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Penza.",1,1.0,1.0,1.0,answer_line
+test,391,"Exactly 2 of the following cities are in Gabon: Libreville, Teni.",0,0.0,,0.0,answer_line
+test,392,"Exactly 0 of the following cities are in Antigua and Barbuda: Soweto, Bijie.",1,1.0,1.0,1.0,answer_line
+test,393,"Exactly 0 of the following cities are in Samoa: Guilin, Yangquan.",1,1.0,1.0,1.0,answer_line
+test,394,"Exactly 1 of the following cities are in Guatemala: Jajmau, Guatemala City.",1,1.0,1.0,1.0,answer_line
+test,395,"Exactly 1 of the following cities are in Rwanda: Dongying, Pretoria.",0,0.0,,0.0,answer_line
+test,396,"Exactly 2 of the following cities are in the United States: Oklahoma City, The Bronx.",1,1.0,1.0,1.0,answer_line
+test,397,"Exactly 1 of the following cities are in Tanzania: Dodoma, Zanzibar.",0,0.0,,0.0,answer_line
+test,398,"Exactly 0 of the following cities are in Trinidad and Tobago: Albuquerque, Libreville.",1,1.0,1.0,1.0,answer_line
+test,399,"Exactly 2 of the following cities are in Tanzania: Mbeya, Arusha.",1,1.0,1.0,1.0,answer_line
+test,400,"Exactly 0 of the following cities are in Monaco: Tokyo, Giza.",1,1.0,1.0,1.0,answer_line
+test,401,"Exactly 0 of the following cities are in Djibouti: Kanayannur, Balbala.",0,0.0,,0.0,answer_line
+test,402,"Exactly 0 of the following cities are in El Salvador: Tijuana, Sukkur.",1,1.0,,1.0,answer_line
+test,403,"Exactly 1 of the following cities are in Belarus: Setagaya, Minsk.",1,1.0,1.0,1.0,answer_line
+test,404,"Exactly 1 of the following cities are in Liberia: Krasnodar, Enugu.",0,0.0,,0.0,answer_line
+test,405,"Exactly 1 of the following cities are in Botswana: Cuiaba, Maputo.",0,0.0,0.0,0.0,answer_line
+test,406,"Exactly 1 of the following cities are in Mexico: Ciudad Juarez, Pokhara.",1,1.0,1.0,1.0,answer_line
+test,407,"Exactly 2 of the following cities are in Namibia: Anshun, Yinchuan.",0,0.0,,0.0,answer_line
+test,408,"Exactly 2 of the following cities are in China: Daxing'anling, Puxi.",1,1.0,1.0,1.0,answer_line
+test,409,"Exactly 2 of the following cities are in Moldova: Chisinau, Baotou.",0,0.0,,0.0,answer_line
+test,410,"Exactly 2 of the following cities are in Ukraine: Lviv, Odesa.",1,1.0,1.0,1.0,answer_line
+test,411,"Exactly 0 of the following cities are in Norway: Oslo, Cotonou.",0,0.0,0.0,0.0,answer_line
+test,412,"Exactly 0 of the following cities are in Sudan: Nyala, Owerri.",0,1.0,1.0,1.0,answer_line
+test,413,"Exactly 1 of the following cities are in Belarus: Lodz, New South Memphis.",0,0.0,0.0,0.0,answer_line
+test,414,"Exactly 0 of the following cities are in Ghana: Kumasi, Tianshui.",0,0.0,,0.0,answer_line
+test,415,"Exactly 0 of the following cities are in Montenegro: Irbid, Wroclaw.",1,1.0,1.0,1.0,answer_line
+test,416,"Exactly 2 of the following cities are in Mexico: Santiago de Queretaro, Iztapalapa.",1,1.0,1.0,1.0,answer_line
+test,417,"Exactly 2 of the following cities are in Tanzania: Zhumadian, Suqian.",0,0.0,,0.0,answer_line
+test,418,"Exactly 2 of the following cities are in Iran: Tabriz, Kermanshah.",1,1.0,1.0,1.0,answer_line
+test,419,"Exactly 1 of the following cities are in Bangladesh: Mohammadpur, Pallabi.",0,0.0,,0.0,answer_line
+test,420,"Exactly 2 of the following cities are in China: Huaihua, Cangzhou.",1,1.0,1.0,1.0,answer_line
+test,421,"Exactly 1 of the following cities are in Lebanon: Sagamihara, Ra's Bayrut.",1,1.0,1.0,1.0,answer_line
+test,422,"Exactly 0 of the following cities are in Burkina Faso: Budapest, Ouagadougou.",0,0.0,,0.0,answer_line
+test,423,"Exactly 0 of the following cities are in Rwanda: Kigali, Zhanjiang.",0,0.0,,0.0,answer_line
+test,424,"Exactly 0 of the following cities are in Zimbabwe: Coyoacan, Bulawayo.",0,0.0,,0.0,answer_line
+test,425,"Exactly 1 of the following cities are in Panama: Huzhou, Akure.",0,0.0,,0.0,answer_line
+test,426,"Exactly 1 of the following cities are in Uganda: Sukkur, Zibo.",0,0.0,0.0,0.0,answer_line
+test,427,"Exactly 2 of the following cities are in Uzbekistan: Namangan, Tashkent.",1,1.0,1.0,1.0,answer_line
+test,428,"Exactly 1 of the following cities are in Jamaica: New Kingston, Davao.",1,1.0,1.0,1.0,answer_line
+test,429,"Exactly 0 of the following cities are in Lebanon: Ra's Bayrut, Anyang-si.",0,0.0,,0.0,answer_line
+test,430,"Exactly 2 of the following cities are in Vietnam: Da Nang, Cho Lon.",1,1.0,1.0,1.0,answer_line
+test,431,"Exactly 1 of the following cities are in Antigua and Barbuda: Al Ain City, Calumbo.",0,0.0,0.0,0.0,answer_line
+test,432,"Exactly 1 of the following cities are in Haiti: Cheonan, Carrefour.",1,1.0,1.0,1.0,answer_line
+test,433,"Exactly 1 of the following cities are in Canada: Winnipeg, Quebec.",0,1.0,1.0,1.0,answer_line
+test,434,"Exactly 2 of the following cities are in Nigeria: Benin City, Port Harcourt.",1,1.0,1.0,1.0,answer_line
+test,435,"Exactly 2 of the following cities are in Nigeria: Agege, Port Harcourt.",1,0.0,,0.0,answer_line
+test,436,"Exactly 1 of the following cities are in India: Pune, Gqeberha.",1,1.0,,1.0,answer_line
+test,437,"Exactly 2 of the following cities are in Djibouti: Balbala, Nansana.",0,0.0,0.0,0.0,answer_line
+test,438,"Exactly 1 of the following cities are in Norway: Oslo, Voronezh.",1,1.0,1.0,1.0,answer_line
+test,439,"Exactly 2 of the following cities are in Mauritania: Nouakchott, Cuiaba.",0,0.0,0.0,0.0,answer_line
+test,440,"Exactly 2 of the following cities are in Mexico: Tijuana, Leon de los Aldama.",1,,,,none
+test,441,"Exactly 1 of the following cities are in Angola: Benguela, Maianga.",0,0.0,,0.0,answer_line
+test,442,"Exactly 0 of the following cities are in Seychelles: Ha'il, Jeonju.",1,1.0,1.0,1.0,answer_line
+test,443,"Exactly 0 of the following cities are in Timor-Leste: Tijuana, Bangkok.",1,1.0,1.0,1.0,answer_line
+test,444,"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Tshikapa, Mbuji-Mayi.",1,1.0,1.0,1.0,answer_line
+test,445,"Exactly 2 of the following cities are in Tanzania: Mbeya, Dar es Salaam.",1,1.0,1.0,1.0,answer_line
+test,446,"Exactly 2 of the following cities are in Cambodia: Madinat an Nasr, Izmir.",0,0.0,,0.0,answer_line
+test,447,"Exactly 0 of the following cities are in Mauritania: Nouakchott, Dalian.",0,0.0,,0.0,answer_line
+test,448,"Exactly 0 of the following cities are in Saudi Arabia: Sanming, Carrefour.",1,1.0,1.0,1.0,answer_line
+test,449,"Exactly 1 of the following cities are in Spain: Benin City, Bhubaneswar.",0,0.0,0.0,0.0,answer_line
+test,450,"Exactly 2 of the following cities are in Angola: Golfe, Maianga.",1,0.0,0.0,0.0,answer_line
+test,451,"Exactly 0 of the following cities are in Saudi Arabia: Sultanah, Dammam.",0,0.0,,0.0,answer_line
+test,452,"Exactly 0 of the following cities are in Russia: Tomsk, Krasnoyarsk.",0,0.0,,0.0,answer_line
+test,453,"Exactly 0 of the following cities are in Belize: Fukuoka, Ibb.",1,1.0,1.0,1.0,answer_line
+test,454,"Exactly 0 of the following cities are in Poland: Hamadan, Barranquilla.",1,1.0,1.0,1.0,answer_line
+test,455,"Exactly 2 of the following cities are in Syria: Aleppo, Ar Raqqah.",1,1.0,1.0,1.0,answer_line
+test,456,"Exactly 2 of the following cities are in New Zealand: Arifwala, Mengzi.",0,0.0,0.0,0.0,answer_line
+test,457,"Exactly 2 of the following cities are in Brazil: Niteroi, Feira de Santana.",1,,,,none
+test,458,"Exactly 0 of the following cities are in Venezuela: Maracaibo, Ciudad Guayana.",0,0.0,,0.0,answer_line
+test,459,"Exactly 2 of the following cities are in Brazil: Sao Bernardo do Campo, Santo Domingo Oeste.",0,0.0,,0.0,answer_line
+test,460,"Exactly 1 of the following cities are in Paraguay: Hachioji, Dalian.",0,0.0,,0.0,answer_line
+test,461,"Exactly 2 of the following cities are in Eritrea: Asmara, Matsuyama.",0,0.0,,0.0,answer_line
+test,462,"Exactly 0 of the following cities are in Yemen: Sanaa, Taiz.",0,0.0,,0.0,answer_line
+test,463,"Exactly 2 of the following cities are in Morocco: Marrakesh, Oujda.",1,1.0,,1.0,answer_line
+test,464,"Exactly 1 of the following cities are in Spain: Mombasa, Guangyuan.",0,0.0,,0.0,answer_line
+test,465,"Exactly 1 of the following cities are in Montenegro: Mbuji-Mayi, Yichang.",0,0.0,,0.0,answer_line
+test,466,"Exactly 0 of the following cities are in Cambodia: Longyan, Bekasi.",1,1.0,1.0,1.0,answer_line
+test,467,"Exactly 1 of the following cities are in Poland: Shizuishan, Jaboatao dos Guararapes.",0,0.0,,0.0,answer_line
+test,468,"Exactly 0 of the following cities are in Suriname: Soshanguve, Santo Domingo Este.",1,1.0,1.0,1.0,answer_line
+test,469,"Exactly 1 of the following cities are in India: Asansol, Dhanbad.",0,0.0,,0.0,answer_line
+test,470,"Exactly 0 of the following cities are in El Salvador: Nay Pyi Taw, Izmir.",1,1.0,,1.0,answer_line
+test,471,"Exactly 0 of the following cities are in Tunisia: Zhongwei, Multan.",1,1.0,,1.0,answer_line
+test,472,"Exactly 2 of the following cities are in Turkey: Istanbul, Bursa.",1,1.0,1.0,1.0,answer_line
+test,473,"Exactly 1 of the following cities are in Vanuatu: Basrah, Mohammadpur.",0,0.0,0.0,0.0,answer_line
+test,474,"Exactly 0 of the following cities are in North Korea: Visakhapatnam, Hamhung.",0,0.0,,0.0,answer_line
+test,475,"Exactly 2 of the following cities are in Mozambique: Matola, Maputo.",1,1.0,1.0,1.0,answer_line
+test,476,"Exactly 2 of the following cities are in Ukraine: Sevastopol, Kharkiv.",1,1.0,1.0,1.0,answer_line
+test,477,"Exactly 0 of the following cities are in New Zealand: South Tangerang, Asmara.",1,1.0,,1.0,answer_line
