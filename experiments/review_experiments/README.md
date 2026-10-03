@@ -82,31 +82,33 @@ These outputs are in `results/` and in `datasets/`:
 
 ## Running the GPU parts (Colab)
 
-Use `run_review_experiments.ipynb` in this folder, or the commands below. A single A100
-(40 GB) or L4 (24 GB) is enough. Point every script at the same `--cache-dir` on Drive:
-the scripts share activations (plain and CoT at the final token), so later runs skip most
-of the extraction.
+Open `run_review_experiments.ipynb` in Colab on an **A100** (or L4) runtime and run it top
+to bottom. It is self-contained: it clones this repo at commit `60c8954`, writes the
+experiment code from its own cells, runs a 5-minute sanity check that reproduces two
+existing numbers, then runs exp3, exp6, exp4, exp5 and exp7 in that order.
+
+- Results go to `MyDrive/dsab_review_results/` as each task finishes
+  (`DSAB_RESULTS_DIR`), so a disconnect loses nothing. After reconnecting, rerun the setup
+  cells and then the interrupted cell: finished tasks are skipped.
+- Activations are cached on Colab's local disk for exp3, exp6 and exp7 only, and deleted
+  when each finishes. exp4 and exp5 are not cached: they would need ~17 GB and ~38 GB.
+- exp4, exp5 and exp7 use every other layer (`--layers 0-32:2`) to halve the time; exp3
+  and exp6 use all layers.
+
+Command-line equivalent:
 
 ```bash
-pip install -r experiments/review_experiments/requirements.txt
-python experiments/review_experiments/smoke_test.py   # CPU, ~5 min, must finish cleanly
-
-CACHE=/content/drive/MyDrive/dsab_cache
-python experiments/review_experiments/exp3_probe_vs_verdict.py --tasks F0 F1 F2 F3 F4 F5 --cache-dir $CACHE
-python experiments/review_experiments/exp4_early_readout.py   --cache-dir $CACHE
-python experiments/review_experiments/exp6_matched_items.py   --cache-dir $CACHE
-python experiments/review_experiments/exp5_readout_position.py --tasks A1 A2 A3 F3 F4 F5 --cache-dir $CACHE
-python experiments/review_experiments/exp7_granite_conditions.py --cache-dir $CACHE
-python experiments/review_experiments/exp9_lexical_baselines.py   # rebuilds the main table
+export DSAB_RESULTS_DIR=/content/drive/MyDrive/dsab_review_results
+python experiments/review_experiments/exp3_probe_vs_verdict.py --tasks F0 F1 F2 F3 F4 F5 --cache-dir /content/dsab_cache/exp3
+python experiments/review_experiments/exp6_matched_items.py --cache-dir /content/dsab_cache/exp6
+python experiments/review_experiments/exp4_early_readout.py --layers 0-32:2
+python experiments/review_experiments/exp5_readout_position.py --tasks A1 A2 A3 F3 F4 F5 --layers 0-32:2
+python experiments/review_experiments/exp7_granite_conditions.py --layers 0-40:2 --cache-dir /content/dsab_cache/exp7
+python experiments/review_experiments/exp9_lexical_baselines.py
 ```
 
-Order of priority: **3, 6, 4**, then 5 and 7. If GPU time is short, add `--layers 0-32:2`
-(every other layer) to any script, which halves the probe time; the best layer will
-still be clear. exp6 defaults to 5 seeds; `--seeds 0 1 2` is fine.
-
-Rough cost on an A100, all layers: exp3 ~1 h for the six factual tasks, exp4 ~1.5 h,
-exp6 ~1.5 h (5 seeds), exp5 ~1 h for six tasks, exp7 ~1.5 h. Most of it is probe training
-(1000 Adam steps x 33 layers x folds/seeds), so `--layers 0-32:2` really does halve it.
+Rough time on an A100: exp3 ~45 min, exp6 ~1 h (3 seeds), exp4 ~1.5 h, exp5 ~1 h,
+exp7 ~1.5 h. Run `smoke_test.py` (CPU, ~4 min) after changing any of the scripts.
 
 ## Reading the results
 

@@ -29,11 +29,13 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+from scipy.stats import rankdata
 from sklearn.metrics import roc_auc_score
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = REPO_ROOT / "datasets"
-RESULTS_DIR = Path(__file__).resolve().parent / "results"
+# DSAB_RESULTS_DIR lets a Colab run write straight to Drive, so a disconnect loses nothing.
+RESULTS_DIR = Path(os.environ.get("DSAB_RESULTS_DIR", Path(__file__).resolve().parent / "results"))
 RESULTS_CSV = RESULTS_DIR / "review_results.csv"
 
 TASKS = ["A1", "A2", "A3", "F0", "F1", "F2", "F3", "F4", "F5"]
@@ -112,12 +114,12 @@ def load_model(model_id=DEEPSEEK_ID):
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "left"
-    model = AutoModelForCausalLM.from_pretrained(
-        model_id,
-        dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
-        device_map="cuda" if torch.cuda.is_available() else "cpu",
-        trust_remote_code=True,
-    )
+    kwargs = dict(device_map="cuda" if torch.cuda.is_available() else "cpu", trust_remote_code=True)
+    dtype = torch.float16 if torch.cuda.is_available() else torch.float32
+    try:
+        model = AutoModelForCausalLM.from_pretrained(model_id, dtype=dtype, **kwargs)
+    except TypeError:  # transformers < 4.56 calls it torch_dtype
+        model = AutoModelForCausalLM.from_pretrained(model_id, torch_dtype=dtype, **kwargs)
     model.eval()
     return model, tokenizer
 
@@ -218,24 +220,31 @@ def probe_scores(w, train_mean, X):
     return (X - train_mean) @ w
 
 
+def _auroc_rows(y, scores):
+    """AUROC for every row of 2-D (n_boot, n) arrays at once, via the Mann-Whitney rank
+    formula with average ranks for ties (the same value roc_auc_score gives)."""
+    ranks = rankdata(scores, axis=1)
+    n_pos = y.sum(axis=1)
+    n_neg = y.shape[1] - n_pos
+    with np.errstate(invalid="ignore", divide="ignore"):
+        return ((ranks * y).sum(axis=1) - n_pos * (n_pos + 1) / 2) / (n_pos * n_neg)
+
+
 def auroc_with_ci(y, scores, n_boot=1000, seed=0):
     """AUROC plus a 95% percentile bootstrap interval over test items. Returns NaNs when
     the subset has a single class (AUROC undefined) instead of the 0.5 the notebooks use,
-    so an undefined number can never be read as chance."""
-    y = np.asarray(y)
-    scores = np.asarray(scores)
+    so an undefined number can never be read as chance. The bootstrap is vectorized: a
+    loop of 1000 roc_auc_score calls per row made exp3 alone take about an hour of CPU."""
+    y = np.asarray(y).astype(float)
+    scores = np.asarray(scores, dtype=float)
     if len(np.unique(y)) < 2:
         return float("nan"), float("nan"), float("nan")
     point = roc_auc_score(y, scores)
     rng = np.random.default_rng(seed)
-    boots = []
-    n = len(y)
-    for _ in range(n_boot):
-        idx = rng.integers(0, n, n)
-        if len(np.unique(y[idx])) < 2:
-            continue
-        boots.append(roc_auc_score(y[idx], scores[idx]))
-    if not boots:
+    idx = rng.integers(0, len(y), (n_boot, len(y)))
+    boots = _auroc_rows(y[idx], scores[idx])
+    boots = boots[np.isfinite(boots)]  # resamples that drew a single class
+    if not len(boots):
         return float(point), float("nan"), float("nan")
     lo, hi = np.percentile(boots, [2.5, 97.5])
     return float(point), float(lo), float(hi)
@@ -275,6 +284,18 @@ def append_results(rows, csv_path=None):
         old = pd.read_csv(csv_path)
         new = pd.concat([old, new], ignore_index=True).drop_duplicates(subset=RESULT_KEYS, keep="last")
     new.to_csv(csv_path, index=False)
+
+
+def already_done(experiment, **match):
+    """True when the results file already has rows for this experiment and every
+    column=value in `match`. Lets a rerun after a Colab disconnect skip finished work."""
+    if not Path(RESULTS_CSV).exists():
+        return False
+    df = pd.read_csv(RESULTS_CSV)
+    mask = df["experiment"] == experiment
+    for col, val in match.items():
+        mask &= df[col].astype(str) == str(val)
+    return bool(mask.any())
 
 
 def result_row(**kw):

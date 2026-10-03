@@ -86,6 +86,9 @@ def main():
     layers = C.parse_layers(args.layers, model.config.num_hidden_layers + 1)
 
     for task in args.tasks:
+        if C.already_done("exp7_granite_conditions", train_task=task):
+            print(f"\n{task}: already done, skipping")
+            continue
         data, acts = {}, {}
         for cond in args.conditions:
             tr = C.load_split(source_condition(cond), task, "train")

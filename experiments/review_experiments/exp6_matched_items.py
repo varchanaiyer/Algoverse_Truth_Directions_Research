@@ -88,6 +88,9 @@ def run(tasks, layers_arg, seeds, cache_dir, batch_size):
                                                     batch_size, f"{task} {cond} {split}"))
 
     for task in tasks:
+        if C.already_done("exp6_matched_items", train_task=task):
+            print(f"\n{task}: already done, skipping")
+            continue
         data = {
             PLAIN: (C.load_split(PLAIN, task, "train"), C.load_split(PLAIN, task, "test")),
             MATCHED: (load_matched(task, "train"), load_matched(task, "test")),
@@ -121,7 +124,7 @@ def main():
     ap.add_argument("--tasks", nargs="+", default=C.TASKS)
     ap.add_argument("--prepare-only", action="store_true")
     ap.add_argument("--layers", default="all")
-    ap.add_argument("--seeds", nargs="+", type=int, default=[0, 1, 2, 3, 4])
+    ap.add_argument("--seeds", nargs="+", type=int, default=[0, 1, 2])
     ap.add_argument("--cache-dir", default=None)
     ap.add_argument("--batch-size", type=int, default=4)
     args = ap.parse_args()

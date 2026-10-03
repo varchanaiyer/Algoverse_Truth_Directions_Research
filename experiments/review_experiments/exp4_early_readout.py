@@ -70,6 +70,8 @@ def run_tfidf(tasks, fractions, seeds, tokenizer):
     for task in tasks:
         tr, te = C.load_split(COT, task, "train"), C.load_split(COT, task, "test")
         for frac in fractions:
+            if C.already_done("exp4_early_readout", model="tfidf-bow", train_task=task, readout=f"frac={frac:.2f}"):
+                continue
             texts = []
             for df in (tr, te):
                 ids = truncate(df, frac)
@@ -85,7 +87,8 @@ def run_tfidf(tasks, fractions, seeds, tokenizer):
                     eval_target="label", subset="all", n_train=len(tr), n_test=len(te),
                     auroc=auc, ci_low=lo, ci_high=hi))
             print(f"  {task} frac={frac:.2f} tfidf AUROC {rows[-1]['auroc']:.3f}")
-    C.append_results(rows)
+            C.append_results(rows)
+            rows = []
 
 
 def run_probes(tasks, fractions, layers_arg, seeds, cache_dir, batch_size, model, tokenizer):
@@ -99,6 +102,10 @@ def run_probes(tasks, fractions, layers_arg, seeds, cache_dir, batch_size, model
             lambda: C.extract_all_layer_activations(C.ids_for(ptr, tokenizer), model, C.DEEPSEEK_PAD_ID,
                                                     batch_size, f"{task} plain train"))
         for frac in fractions:
+            if C.already_done("exp4_early_readout", model=C.DEEPSEEK_SHORT, train_task=task,
+                              readout=f"frac={frac:.2f}"):
+                print(f"  {task} frac={frac:.2f}: already done, skipping")
+                continue
             acts = {}
             for split, df in (("train", tr), ("test", te)):
                 ids = truncate(df, frac)

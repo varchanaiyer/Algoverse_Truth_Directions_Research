@@ -139,6 +139,11 @@ def run_probes(tasks, layers_arg, seeds, folds, cache_dir, batch_size):
     layers = C.parse_layers(layers_arg, n_layers)
 
     for task in tasks:
+        todo = [s for s in seeds if not C.already_done("exp3_probe_vs_verdict", train_task=task, seed=s)]
+        if not todo:
+            print(f"\n{task}: already done, skipping (delete its rows from the results file to redo)")
+            summarize(task)
+            continue
         v = pd.read_csv(VERDICT_DIR / f"{task}.csv")
         cot = pd.concat([C.load_split(COT, task, s) for s in ["train", "test"]], ignore_index=True)
         assert len(cot) == len(v), "verdict file out of sync with CoT data; rerun --parse-only"
@@ -161,7 +166,7 @@ def run_probes(tasks, layers_arg, seeds, folds, cache_dir, batch_size):
 
         groups = pd.factorize(v["statement"])[0]
         rows = []
-        for seed in seeds:
+        for seed in todo:
             # Stratify on label x verdict so each fold gets its share of the rare
             # disagreement items.
             strat = y * 2 + verdict

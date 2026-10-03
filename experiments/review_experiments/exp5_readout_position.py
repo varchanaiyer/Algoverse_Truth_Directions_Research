@@ -115,6 +115,9 @@ def main():
         for cond in args.conditions:
             tr, te = C.load_split(cond, task, "train"), C.load_split(cond, task, "test")
             for readout in args.readouts:
+                if C.already_done("exp5_readout_position", train_task=task, train_condition=cond, readout=readout):
+                    print(f"  {task} {cond} {readout}: already done, skipping")
+                    continue
                 acts = {}
                 for split, df in (("train", tr), ("test", te)):
                     ids = cut_ids(df, readout, tokenizer)
