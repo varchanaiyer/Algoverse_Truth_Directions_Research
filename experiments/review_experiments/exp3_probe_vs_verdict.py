@@ -213,19 +213,21 @@ def run_probes(tasks, layers_arg, seeds, folds, cache_dir, batch_size):
 
 
 def summarize(task):
+    """Per probe: choose the layer on ALL items (best AUROC vs the true label), then report
+    the model-wrong AUROC at that layer. Choosing the layer on the model-wrong items
+    themselves (e.g. the layer furthest from 0.5) would overstate the result."""
     df = pd.read_csv(C.RESULTS_CSV)
-    df = df[(df["experiment"] == "exp3_probe_vs_verdict") & (df["train_task"] == task)
-            & (df["subset"] == "model_wrong") & (df["eval_target"] == "label")]
+    df = df[(df["experiment"] == "exp3_probe_vs_verdict") & (df["train_task"] == task) & (df["eval_target"] == "label")]
     if df.empty:
         return
     print(f"\n{task}: AUROC vs TRUE label on items the model got wrong "
-          f"(>0.5 = follows truth, <0.5 = follows the model's answer), best layer per probe")
+          f"(>0.5 = follows truth, <0.5 = follows the model's answer); layer chosen on all items")
     for (tr, te), g in df.groupby(["train_condition", "test_condition"]):
-        g = g.groupby("layer")[["auroc", "ci_low", "ci_high", "n_test"]].mean()
-        best = g["auroc"].sub(0.5).abs().idxmax()
-        r = g.loc[best]
-        print(f"  {tr:>30} -> {te:<20} layer {best:>2}: {r.auroc:.3f} "
-              f"[{r.ci_low:.3f}, {r.ci_high:.3f}]  n={int(r.n_test)}")
+        g = g.groupby(["subset", "layer"])[["auroc", "ci_low", "ci_high", "n_test"]].mean()
+        layer = g.loc["all", "auroc"].idxmax()
+        a, w = g.loc[("all", layer)], g.loc[("model_wrong", layer)]
+        print(f"  {tr:>30} -> {te:<20} layer {layer:>2}: all items {a.auroc:.3f} | "
+              f"model wrong {w.auroc:.3f} [{w.ci_low:.3f}, {w.ci_high:.3f}] n={int(w.n_test)}")
 
 
 def main():
