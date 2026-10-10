@@ -26,7 +26,43 @@ with what you already have.
 `smoke_test.py` runs exp3 to exp7 end to end on a tiny random model on CPU, to catch code
 errors before you spend GPU time. Run it after any change.
 
-## Already run (CPU parts)
+## GPU results (Colab run, 10/7, A100 80 GB)
+
+Everything below is in `results/review_results.csv`. The sanity check reproduced the
+existing A2 numbers in `results_database.csv` exactly before anything else ran.
+
+- **exp3, probe vs the model's own answer.** On the factual items where the model's final
+  (post-reasoning) answer is wrong, AUROC against the true label, layer chosen on all items:
+
+  | task | n wrong | CoT probe | plain probe on plain | plain probe on CoT | verdict probe |
+  |---|---|---|---|---|---|
+  | F0 | 161 | 0.155 [0.09, 0.23] | 0.916 [0.87, 0.96] | 0.312 [0.21, 0.41] | 0.030 |
+  | F1 | 91 | 0.662 [0.51, 0.80] | 0.862 [0.75, 0.96] | 0.618 [0.49, 0.74] | 0.482 |
+  | F2 | 100 | 0.054 [0.01, 0.11] | 0.729 [0.62, 0.82] | 0.161 [0.09, 0.25] | 0.017 |
+  | F3 | 78 | 0.057 [0.02, 0.11] | 0.815 [0.72, 0.90] | 0.266 [0.16, 0.39] | 0.025 |
+  | F4 | 90 | 0.025 [0.00, 0.06] | 0.578 [0.44, 0.71] | 0.208 [0.10, 0.34] | 0.006 |
+  | F5 | 92 | 0.015 [0.00, 0.05] | 0.627 [0.38, 0.86] | 0.282 [0.11, 0.49] | 0.002 |
+
+  After reasoning, the probe follows the model's committed answer, wrong ones included (F1
+  is the exception). The plain probe, read on the bare statement, follows the true label on
+  the same items for F0 to F3. Limit: the model was never asked for a no-reasoning answer,
+  so these numbers describe what a probe can read from the activations, and say nothing yet
+  about what the model would have answered without reasoning.
+- **exp4, reading partway through the reasoning** (`results/exp4_early_readout.png`). In-domain
+  AUROC stays near 0.5 to 0.65 for A1 to A3 and F3 to F5 at 25, 50 and 75 percent of the
+  reasoning, then jumps to 0.96 to 1.00 at the pre-verdict cut. The plain probe on CoT
+  stays near 0.55 until that last point too. F0 to F2 start near 0.99, dip to 0.82 to 0.90
+  mid-trace and recover at the end.
+- **exp5, readout position** (`results/exp5_*_table.csv`). Read at the last token of the
+  statement, the templated conditions score A1 0.996 and A2 0.81, above plain (0.93, 0.69).
+  The drops to 0.51 to 0.62 only appear when reading at the think token.
+- **exp6, matched items.** Using only the statements that survived CoT filtering moves the
+  plain numbers by 0.02 at most.
+- **exp7, Granite.** Plain arithmetic is weak (A2 0.74, A3 0.64), plain to CoT transfer on
+  arithmetic is about 0.8, the reverse about 0.6, and removing DeepSeek's chat markers
+  changes nothing. Granite reads DeepSeek's reasoning traces in every CoT condition here.
+
+## Already run on CPU
 
 These outputs are in `results/` and in `datasets/`:
 
@@ -42,9 +78,8 @@ These outputs are in `results/` and in `datasets/`:
 - `results/main_table.md`: probes next to the word-only baselines. `TF-IDF CoT full`
   reproduces `baseline_comparison_results.csv` exactly.
 - `results/cosine_*.csv`, `results/probe_weights.npz`: see exp8 below.
-- `results/exp4_early_readout.png`: the TF-IDF third of the exp4 figure.
 
-## Things the CPU runs found that the paper needs to handle
+## Things the CPU runs found that the paper should handle
 
 1. **The stored cosine column cannot be reproduced.** In `cosine_similarity_mahalanobis.csv`
    the `cosine_similarity` value disagrees with its own `weight_i`/`weight_j` vectors in
