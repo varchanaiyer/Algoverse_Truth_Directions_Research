@@ -1,5 +1,5 @@
 """
-CPU smoke test for exp3-exp7 and exp10: runs every GPU script end to end with a tiny RANDOM model
+CPU smoke test for exp3-exp7, exp10 and exp11: runs every GPU script end to end with a tiny RANDOM model
 (2 layers, hidden size 32) on ~40 rows per split, so code errors show up in a minute on
 a laptop instead of an hour into a Colab session. The AUROC numbers it prints are
 meaningless; only "did every script finish" matters.
@@ -75,4 +75,5 @@ if __name__ == "__main__":
     run("exp7_granite_conditions", ["--tasks", "A2", "--cache-dir", cache])
     run("exp10_direct_answer", ["--tasks", "F0", "--folds", "2", "--cache-dir", cache])
     run("exp10_direct_answer", ["--tasks", "F0", "--folds", "2", "--cache-dir", cache])  # second run skips
+    run("exp11_monitor", ["--tasks", "F0", "--folds", "2", "--shuffles", "1", "--time-generation", "2", "--max-new-tokens", "8", "--cache-dir", cache])
     print(f"\nAll scripts finished. Throwaway outputs in {TMP}")
