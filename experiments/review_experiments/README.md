@@ -22,9 +22,40 @@ with what you already have.
 | 7 | `exp7_granite_conditions.py` | Does Granite show the same plain vs CoT pattern? (Currently it only has the CoT condition.) | GPU (~17 GB) |
 | 8 | `exp8_cosine_summary.py` | Do the plain and CoT probes point the same way? Also shrinks the 1.4 GB cosine file. | CPU |
 | 9 | `exp9_lexical_baselines.py` | The main results table: probes next to word-only baselines, with confidence intervals. | CPU |
+| 10 | `exp10_direct_answer.py` | What does DeepSeek answer with no reasoning at all, and on the items reasoning gets wrong, does the plain probe follow the truth, the quick answer, or neither? | GPU |
+| 11 | `exp11_monitor.py` | For the DAI paper: can the plain probe flag CoT errors better than the no-reasoning answer, what does each cost, and does a shuffled-label probe stay at chance? | GPU |
 
 `smoke_test.py` runs exp3 to exp7 end to end on a tiny random model on CPU, to catch code
 errors before you spend GPU time. Run it after any change.
+
+## Notebooks
+
+Each notebook clones this repo, writes the scripts it needs and runs them on Colab (A100 or L4).
+
+- `run_review_experiments.ipynb`: exp3 to exp7 and exp9 (about 6 hours; it was run on 10/7)
+- `run_exp10_direct_answer.ipynb`: exp10 (about 25 minutes)
+- `run_exp11_monitor.ipynb`: exp11, the three additions for the DAI paper (about 40 minutes; not run yet)
+
+## exp10 results (Colab run, A100 80 GB)
+
+DeepSeek with reasoning switched off (Bora's instruction from check_model_accuracy.ipynb):
+
+| | F0 | F1 | F2 | F3 | F4 | F5 | A1 | A2 | A3 |
+|---|---|---|---|---|---|---|---|---|---|
+| no-reasoning accuracy | 85% | 89% | 82% | 52% | 53% | 54% | 55% | 49% | 52% |
+| no-reasoning AUROC | 0.99 | 0.97 | 0.98 | 0.56 | 0.56 | 0.56 | 0.60 | 0.57 | 0.57 |
+| with-reasoning accuracy | 89% | 94% | 93% | 95% | 95% | 95% | 99% | 100% | 100% |
+
+- Simple facts (F0 to F2): on the items reasoning got wrong, the quick answer was usually right
+  (136 of 161 on F0, 69 of 91 on F1, 69 of 100 on F2). The plain probe follows the quick answer:
+  0.98 / 0.95 / 0.89 against the true label when the quick answer was right, 0.28 to 0.35 when
+  both answers were wrong.
+- Multi-step statements: the quick answer is at chance, but the plain probe scores 0.94 (F3),
+  0.86 (F4), 0.77 (F5) and 0.94 (A1), and about the same on the items the quick answer gets
+  wrong. A linear probe can do some of the combining itself, so maybe the paper could say the
+  activations contain the information until a per-city control says more.
+- From the saved traces, F0 statements are about 10 tokens and the reasoning has a median of
+  457 tokens (663 at the 90th percentile).
 
 ## GPU results (Colab run, 10/7, A100 80 GB)
 
